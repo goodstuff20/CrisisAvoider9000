@@ -1,0 +1,2077 @@
+Stadt;Bundesland;prev_price1;prev_price2;prev_price3;prev_risk1;prev_risk2;prev_risk3;Houselive;Buyout
+Berlin;Berlin;710966;718075;761160;0.03;0.06;0.06;12;35
+Hamburg;Hamburg;270868;287120;289991;0.02;0.03;0.05;16;23
+München;Freistaat Bayern;169324;172710;179618;0.01;0.02;0.04;13;24
+Köln;Nordrhein-Westfalen;166860;168528;168528;0.02;0.05;0.06;17;12
+Frankfurt am Main;Hessen;499952;534948;567045;0.03;0.06;0.08;19;49
+Stuttgart;Baden-Württemberg;530654;541267;568330;0.01;0.02;0.03;17;49
+Düsseldorf;Nordrhein-Westfalen;498002;517922;523101;0.01;0.03;0.03;16;56
+Dortmund;Nordrhein-Westfalen;833362;841695;858529;0.02;0.03;0.05;8;32
+Essen;Nordrhein-Westfalen;181912;187369;183621;0.02;0.05;0.07;10;15
+Bremen;Freie Hansestadt Bremen;328909;322330;315884;0.02;0.03;0.03;14;69
+Hannover;Niedersachsen;757995;765574;773230;0.02;0.05;0.06;8;58
+Leipzig;Freistaat Sachsen;414620;414620;422912;0.01;0.01;0.03;8;30
+Dresden;Freistaat Sachsen;893974;938672;985606;0.02;0.04;0.04;6;35
+Nürnberg;Freistaat Bayern;698781;684805;698501;0.01;0.04;0.05;6;54
+Duisburg;Nordrhein-Westfalen;685953;685953;679093;0.03;0.04;0.06;8;57
+Bochum;Nordrhein-Westfalen;391843;387924;403441;0.03;0.04;0.05;9;37
+Wuppertal;Nordrhein-Westfalen;222083;219862;222060;0.02;0.04;0.04;20;47
+Bielefeld;Nordrhein-Westfalen;528454;549592;544096;0.01;0.02;0.03;12;54
+Bonn;Nordrhein-Westfalen;248107;253069;255599;0.02;0.05;0.06;12;62
+Mannheim;Baden-Württemberg;517827;523005;533465;0.02;0.05;0.06;6;69
+Karlsruhe;Baden-Württemberg;308776;321127;340394;0.02;0.04;0.05;13;37
+Wiesbaden;Hessen;709821;702722;716777;0.03;0.05;0.06;18;29
+Münster;Nordrhein-Westfalen;130635;129328;134501;0.03;0.04;0.05;9;55
+Augsburg;Freistaat Bayern;897632;924560;924560;0.05;0.08;0.1;5;14
+Gelsenkirchen;Nordrhein-Westfalen;286250;286250;286250;0.01;0.01;0.01;19;36
+Aachen;Nordrhein-Westfalen;251903;261979;272458;0.02;0.03;0.03;9;65
+Mönchengladbach;Nordrhein-Westfalen;302683;305709;305709;0.01;0.01;0.03;5;58
+Braunschweig;Niedersachsen;711980;740459;770077;0.05;0.06;0.07;18;48
+Chemnitz;Freistaat Sachsen;425188;420936;446192;0.03;0.03;0.03;9;62
+Kiel;Schleswig-Holstein;700630;707636;728865;0.02;0.02;0.04;11;17
+Krefeld;Nordrhein-Westfalen;536924;558400;575152;0.03;0.03;0.05;20;15
+Halle-Saale;Sachsen-Anhalt;559460;553865;570481;0.03;0.04;0.06;19;26
+Magdeburg;Sachsen-Anhalt;226747;233549;235884;0.02;0.03;0.04;7;60
+Freiburg im Breisgau;Baden-Württemberg;325224;325224;328476;0.03;0.03;0.03;22;13
+Oberhausen;Nordrhein-Westfalen;417801;434513;425822;0.03;0.03;0.04;5;20
+Lübeck;Schleswig-Holstein;373207;399331;423291;0.03;0.06;0.06;15;59
+Erfurt;Freistaat Thüringen;954271;935185;972593;0.02;0.05;0.06;11;22
+Rostock;Mecklenburg-Vorpommern;153949;160106;171314;0.03;0.05;0.05;9;38
+Mainz;Rheinland-Pfalz;242662;237808;235430;0.03;0.05;0.07;17;55
+Kassel;Hessen;882255;917545;963422;0.02;0.03;0.04;22;34
+Hagen;Nordrhein-Westfalen;911559;957136;1004993;0.02;0.03;0.04;17;14
+Hamm;Nordrhein-Westfalen;892666;883739;874901;0.01;0.03;0.04;13;47
+Saarbrücken;Saarland;680698;714732;757616;0.02;0.03;0.04;13;63
+Mülheim an der Ruhr;Nordrhein-Westfalen;818691;810504;826714;0.03;0.04;0.05;5;40
+Herne;Nordrhein-Westfalen;565433;554124;587371;0.03;0.03;0.05;19;26
+Osnabrück;Niedersachsen;482207;477384;477384;0.01;0.02;0.04;15;39
+Ludwigshafen am Rhein;Rheinland-Pfalz;637848;669740;716622;0.03;0.04;0.05;16;60
+Oldenburg;Niedersachsen;327585;340688;357722;0.05;0.07;0.09;8;34
+Solingen;Nordrhein-Westfalen;306617;315815;312657;0.03;0.04;0.05;6;53
+Leverkusen;Nordrhein-Westfalen;378446;386014;413035;0.02;0.02;0.03;6;39
+Potsdam;Brandenburg;932759;951414;941900;0.02;0.02;0.03;11;68
+Neuss;Nordrhein-Westfalen;847639;873068;899260;0.02;0.05;0.05;11;14
+Heidelberg;Baden-Württemberg;601992;632091;676338;0.02;0.04;0.05;7;38
+Paderborn;Nordrhein-Westfalen;577922;583701;583701;0.02;0.02;0.04;13;44
+Darmstadt;Hessen;264130;266771;264103;0.03;0.05;0.06;13;48
+Regensburg;Freistaat Bayern;898117;925060;915809;0.03;0.05;0.06;19;37
+Würzburg;Freistaat Bayern;774759;828992;870441;0.01;0.02;0.03;22;62
+Ingolstadt;Freistaat Bayern;588101;623387;654556;0.03;0.04;0.05;22;23
+Heilbronn;Baden-Württemberg;543769;565519;559864;0.02;0.04;0.06;10;31
+Ulm;Baden-Württemberg;943549;962419;943171;0.03;0.06;0.08;15;37
+Göttingen;Niedersachsen;283254;280421;291638;0.03;0.05;0.07;22;47
+Wolfsburg;Niedersachsen;496341;496341;486414;0.01;0.03;0.04;12;60
+Pforzheim;Baden-Württemberg;616943;653959;693197;0.03;0.03;0.04;5;19
+Recklinghausen;Nordrhein-Westfalen;347485;368334;383067;0.01;0.04;0.05;22;27
+Offenbach am Main;Hessen;752582;760107;798113;0.01;0.03;0.03;9;12
+Bottrop;Nordrhein-Westfalen;665365;665365;678672;0.01;0.04;0.04;8;12
+Fürth;Freistaat Bayern;193739;191801;195637;0.03;0.06;0.07;6;59
+Bremerhaven;Freie Hansestadt Bremen;817762;825939;875495;0.03;0.03;0.04;15;49
+Reutlingen;Baden-Württemberg;262753;265380;265380;0.01;0.01;0.01;8;65
+Remscheid;Nordrhein-Westfalen;732824;732824;747480;0.01;0.04;0.04;14;27
+Koblenz;Rheinland-Pfalz;423659;427895;423616;0.02;0.05;0.06;17;51
+Moers;Nordrhein-Westfalen;234022;243382;245816;0.03;0.03;0.03;6;55
+Bergisch Gladbach;Nordrhein-Westfalen;117644;116467;119961;0.01;0.04;0.05;5;53
+Erlangen;Freistaat Bayern;399092;391110;414576;0.01;0.04;0.06;14;34
+Trier;Rheinland-Pfalz;854748;906032;960394;0.02;0.02;0.02;22;24
+Jena;Freistaat Thüringen;138260;136877;140983;0.02;0.05;0.06;6;22
+Siegen;Nordrhein-Westfalen;290920;296738;305640;0.03;0.04;0.04;12;52
+Salzgitter;Niedersachsen;122407;124855;122358;0.04;0.07;0.09;5;43
+Hildesheim;Niedersachsen;451856;442818;438390;0.02;0.03;0.04;18;57
+Cottbus;Brandenburg;672174;685617;713042;0.02;0.02;0.03;22;18
+Gera;Freistaat Thüringen;628417;666122;712750;0.03;0.03;0.03;20;32
+Kaiserslautern;Rheinland-Pfalz;299234;302226;323382;0.01;0.03;0.03;7;43
+Witten;Nordrhein-Westfalen;593835;617588;611412;0.02;0.02;0.03;7;51
+Gütersloh;Nordrhein-Westfalen;660335;693351;707218;0.01;0.03;0.05;5;14
+Iserlohn;Nordrhein-Westfalen;884387;910918;920027;0.01;0.04;0.06;22;49
+Schwerin;Mecklenburg-Vorpommern;677774;711662;718779;0.01;0.04;0.05;10;46
+Zwickau;Freistaat Sachsen;349672;356665;374498;0.01;0.03;0.04;6;19
+Düren;Nordrhein-Westfalen;740260;792078;799998;0.01;0.04;0.06;9;32
+Esslingen am Neckar;Baden-Württemberg;229840;227541;232092;0.01;0.04;0.05;14;69
+Ratingen;Nordrhein-Westfalen;123200;126896;126896;0.03;0.04;0.05;14;56
+Flensburg;Schleswig-Holstein;612205;630571;630571;0.02;0.02;0.03;17;48
+Hanau;Hessen;613184;613184;656106;0.01;0.04;0.06;16;19
+Marl;Nordrhein-Westfalen;578576;584361;584361;0.03;0.03;0.04;15;10
+Tübingen;Baden-Württemberg;814251;797965;837864;0.01;0.03;0.05;10;61
+Lünen;Nordrhein-Westfalen;928287;983984;964304;0.01;0.03;0.03;13;17
+Dessau-Roßlau;Sachsen-Anhalt;928384;928384;928384;0.02;0.02;0.02;7;28
+Ludwigsburg;Baden-Württemberg;311191;320526;326937;0.01;0.02;0.04;19;15
+Velbert;Nordrhein-Westfalen;644228;676439;723790;0.03;0.04;0.06;11;60
+Konstanz;Baden-Württemberg;869805;878503;896073;0.01;0.01;0.02;14;24
+Minden;Nordrhein-Westfalen;714377;757239;764812;0.02;0.05;0.05;11;43
+Worms;Rheinland-Pfalz;648702;668163;714934;0.01;0.01;0.02;11;45
+Wilhelmshaven;Niedersachsen;621248;615035;627336;0.04;0.06;0.08;6;11
+Villingen-Schwenningen;Baden-Württemberg;689004;723454;766861;0.03;0.06;0.08;9;53
+Marburg;Hessen;902423;947544;985445;0.03;0.04;0.06;20;51
+Dorsten;Nordrhein-Westfalen;907088;952442;971491;0.01;0.04;0.05;6;61
+Neumünster;Schleswig-Holstein;420179;445389;458751;0.01;0.01;0.02;20;36
+Rheine;Nordrhein-Westfalen;117895;119073;116692;0.02;0.04;0.05;18;23
+Gießen;Hessen;468172;463490;477394;0.02;0.03;0.05;5;55
+Lüdenscheid;Nordrhein-Westfalen;290939;285120;302227;0.02;0.02;0.03;18;45
+Castrop-Rauxel;Nordrhein-Westfalen;654210;693462;693462;0.03;0.03;0.05;8;17
+Gladbeck;Nordrhein-Westfalen;984818;974969;974969;0.02;0.04;0.06;14;13
+Viersen;Nordrhein-Westfalen;560656;594295;629953;0.01;0.01;0.02;18;30
+Troisdorf;Nordrhein-Westfalen;546821;579630;602815;0.03;0.04;0.05;13;35
+Arnsberg;Nordrhein-Westfalen;951927;990004;999904;0.01;0.01;0.01;15;29
+Delmenhorst;Niedersachsen;134101;135442;135442;0.05;0.06;0.08;10;56
+Bocholt;Nordrhein-Westfalen;489547;494442;504331;0.01;0.04;0.05;11;25
+Detmold;Nordrhein-Westfalen;717120;760147;744944;0.02;0.03;0.04;20;9
+Lüneburg;Niedersachsen;399443;395448;419175;0.04;0.06;0.07;14;32
+Bayreuth;Freistaat Bayern;771586;810165;810165;0.03;0.05;0.06;18;29
+Brandenburg an der Havel;Brandenburg;324998;331497;341442;0.01;0.03;0.03;8;15
+Norderstedt;Schleswig-Holstein;111989;115348;116502;0.03;0.06;0.08;18;9
+Celle;Niedersachsen;566138;560476;594105;0.02;0.05;0.07;17;15
+Bamberg;Freistaat Bayern;766810;812818;861587;0.01;0.03;0.05;8;63
+Dinslaken;Nordrhein-Westfalen;935235;981996;1001636;0.03;0.04;0.04;19;65
+Aschaffenburg;Freistaat Bayern;863972;915810;906652;0.04;0.07;0.09;22;11
+Lippstadt;Nordrhein-Westfalen;633618;671635;685067;0.02;0.05;0.06;16;38
+Unna;Nordrhein-Westfalen;947092;947092;937621;0.01;0.01;0.03;11;14
+Plauen;Freistaat Sachsen;129883;136377;143196;0.03;0.04;0.05;9;21
+Aalen;Baden-Württemberg;742365;727517;712967;0.02;0.02;0.04;8;14
+Weimar;Freistaat Thüringen;460048;478449;497587;0.01;0.03;0.04;21;37
+Neubrandenburg;Mecklenburg-Vorpommern;631011;662561;702315;0.01;0.02;0.02;13;63
+Kerpen;Nordrhein-Westfalen;626524;639054;645445;0.02;0.02;0.04;9;34
+Neuwied;Rheinland-Pfalz;834728;876464;911522;0.01;0.02;0.03;20;48
+Herford;Nordrhein-Westfalen;176349;181639;179823;0.01;0.03;0.04;8;53
+Fulda;Hessen;305259;317469;326993;0.01;0.04;0.05;19;59
+Grevenbroich;Nordrhein-Westfalen;901221;910233;964847;0.02;0.04;0.05;19;52
+Dormagen;Nordrhein-Westfalen;185403;181694;194413;0.03;0.05;0.06;21;59
+Landshut;Freistaat Bayern;310731;320052;336055;0.05;0.06;0.07;12;42
+Herten;Nordrhein-Westfalen;345813;370019;373720;0.02;0.05;0.06;7;62
+Bergheim;Nordrhein-Westfalen;915320;951932;980490;0.01;0.03;0.04;21;36
+Kempten;Freistaat Bayern;205916;216211;231346;0.04;0.07;0.08;9;42
+Garbsen;Niedersachsen;218501;220686;225099;0.03;0.06;0.07;14;45
+Wesel;Nordrhein-Westfalen;642175;680705;694319;0.01;0.04;0.04;15;37
+Rosenheim;Freistaat Bayern;906248;888123;914766;0.03;0.05;0.06;12;60
+Frankfurt;Brandenburg;767921;798637;798637;0.03;0.05;0.06;7;63
+Sindelfingen;Baden-Württemberg;563237;597031;626882;0.03;0.03;0.05;6;21
+Schwäbisch Gmünd;Baden-Württemberg;527178;553536;564607;0.03;0.03;0.04;12;67
+Rüsselsheim;Hessen;793844;841474;883548;0.02;0.04;0.05;22;42
+Offenburg;Baden-Württemberg;434533;425842;430100;0.01;0.03;0.03;21;22
+Langenfeld;Nordrhein-Westfalen;895637;877724;939164;0.01;0.04;0.04;20;67
+Friedrichshafen;Baden-Württemberg;106938;111215;119000;0.03;0.04;0.04;17;68
+Hameln;Niedersachsen;608684;639118;639118;0.05;0.08;0.1;8;59
+Stralsund;Mecklenburg-Vorpommern;919776;956567;966132;0.03;0.04;0.04;8;57
+Stolberg;Nordrhein-Westfalen;554934;554934;560483;0.01;0.01;0.01;20;44
+Hürth;Nordrhein-Westfalen;886514;904244;904244;0.01;0.01;0.03;12;48
+Göppingen;Baden-Württemberg;757516;742365;772060;0.02;0.05;0.06;11;56
+Menden;Nordrhein-Westfalen;616491;659645;692627;0.03;0.05;0.07;11;38
+Görlitz;Freistaat Sachsen;173317;171583;178447;0.02;0.02;0.04;6;68
+Euskirchen;Nordrhein-Westfalen;765297;757644;780373;0.03;0.06;0.08;11;36
+Hattingen;Nordrhein-Westfalen;117023;124044;127765;0.02;0.04;0.06;9;56
+Hilden;Nordrhein-Westfalen;734097;778142;801487;0.02;0.02;0.03;14;26
+Sankt Augustin;Nordrhein-Westfalen;439302;434908;430559;0.02;0.02;0.04;7;19
+Eschweiler;Nordrhein-Westfalen;570456;570456;610387;0.02;0.02;0.03;14;36
+Baden-Baden;Baden-Württemberg;572633;606990;619130;0.03;0.04;0.05;18;38
+Greifswald;Mecklenburg-Vorpommern;521197;542044;563726;0.03;0.03;0.05;17;41
+Meerbusch;Nordrhein-Westfalen;311192;311192;320527;0.01;0.04;0.06;6;53
+Bad Salzuflen;Nordrhein-Westfalen;943601;953037;962567;0.01;0.04;0.06;10;28
+Pulheim;Nordrhein-Westfalen;262863;260234;278450;0.01;0.04;0.06;10;27
+Schweinfurt;Freistaat Bayern;939379;986347;1015938;0.04;0.07;0.08;6;18
+Neustadt an der Weinstraße;Rheinland-Pfalz;291617;303281;315412;0.02;0.02;0.02;12;29
+Ahlen;Nordrhein-Westfalen;221800;221800;226236;0.03;0.05;0.06;22;37
+Wolfenbüttel;Niedersachsen;575751;604538;598493;0.05;0.07;0.08;5;26
+Nordhorn;Niedersachsen;704967;733165;777155;0.02;0.04;0.06;20;22
+Neu-Ulm;Freistaat Bayern;372554;391181;406828;0.05;0.06;0.07;6;43
+Waiblingen;Baden-Württemberg;523095;544018;560339;0.02;0.04;0.05;10;48
+Langenhagen;Niedersachsen;924576;915330;897023;0.05;0.08;0.09;7;23
+Willich;Nordrhein-Westfalen;512250;548107;548107;0.03;0.03;0.03;8;27
+Bad Homburg;Hessen;235755;240470;257303;0.01;0.01;0.02;19;33
+Gummersbach;Nordrhein-Westfalen;269523;288389;302809;0.01;0.03;0.04;11;13
+Wetzlar;Hessen;520624;520624;536242;0.01;0.02;0.03;11;17
+Ibbenbüren;Nordrhein-Westfalen;558781;569956;558557;0.01;0.01;0.02;15;65
+Lingen;Niedersachsen;155329;153775;156851;0.05;0.08;0.1;19;56
+Emden;Niedersachsen;201216;213288;228219;0.03;0.06;0.08;12;66
+Bergkamen;Nordrhein-Westfalen;999596;1019587;1050175;0.02;0.03;0.03;22;14
+Cuxhaven;Niedersachsen;827486;835760;852476;0.04;0.07;0.08;8;56
+Erftstadt;Nordrhein-Westfalen;870263;896370;941189;0.03;0.05;0.07;18;12
+Passau;Freistaat Bayern;760646;783465;806969;0.03;0.05;0.06;9;56
+Speyer;Rheinland-Pfalz;806997;798927;822894;0.01;0.04;0.06;21;9
+Frechen;Nordrhein-Westfalen;513828;544657;560997;0.01;0.01;0.01;8;27
+Ravensburg;Baden-Württemberg;184256;182413;191534;0.03;0.03;0.03;21;48
+Kleve;Nordrhein-Westfalen;518262;544175;582267;0.01;0.04;0.05;13;35
+Peine;Niedersachsen;606874;600805;624837;0.04;0.05;0.07;9;14
+Soest;Nordrhein-Westfalen;258688;258688;276796;0.03;0.05;0.07;6;27
+Bornheim;Nordrhein-Westfalen;442875;456161;451599;0.02;0.02;0.02;12;36
+Schwerte;Nordrhein-Westfalen;432785;445768;468056;0.03;0.04;0.05;16;44
+Bad Oeynhausen;Nordrhein-Westfalen;334428;327739;350681;0.02;0.04;0.06;15;69
+Heidenheim an der Brenz;Baden-Württemberg;920695;920695;929901;0.02;0.05;0.07;10;32
+Elmshorn;Schleswig-Holstein;768327;822109;813888;0.01;0.02;0.04;10;50
+Lörrach;Baden-Württemberg;231466;233780;245469;0.01;0.02;0.04;6;60
+Neunkirchen;Saarland;747377;754850;762399;0.02;0.04;0.05;18;59
+Rastatt;Baden-Württemberg;212384;225127;234132;0.01;0.04;0.05;20;31
+Wittenberg;Sachsen-Anhalt;662816;649559;675542;0.03;0.06;0.07;13;68
+Herzogenrath;Nordrhein-Westfalen;402490;402490;402490;0.02;0.04;0.04;21;31
+Rheda-Wiedenbrück;Nordrhein-Westfalen;928762;928762;928762;0.01;0.03;0.05;16;68
+Frankenthal;Rheinland-Pfalz;901514;928559;919273;0.01;0.03;0.03;5;36
+Dülmen;Nordrhein-Westfalen;525879;520620;531032;0.01;0.02;0.03;20;50
+Hof;Freistaat Bayern;791480;823139;806676;0.01;0.02;0.03;13;15
+Gronau;Nordrhein-Westfalen;389520;389520;416786;0.02;0.04;0.06;16;27
+Melle;Niedersachsen;380286;395497;419227;0.01;0.04;0.05;17;38
+Böblingen;Baden-Württemberg;943325;1009357;1029544;0.01;0.01;0.01;12;61
+Erkrath;Nordrhein-Westfalen;634364;678769;665194;0.01;0.02;0.04;20;61
+Stade;Niedersachsen;567740;590449;602258;0.01;0.02;0.03;10;54
+Bitterfeld-Wolfen;Sachsen-Anhalt;175108;176859;176859;0.02;0.02;0.04;5;39
+Hennef;Nordrhein-Westfalen;796573;788607;835923;0.02;0.02;0.04;14;60
+Gotha;Freistaat Thüringen;845220;879028;931770;0.03;0.04;0.05;22;14
+Alsdorf;Nordrhein-Westfalen;989671;999567;989572;0.03;0.05;0.05;11;10
+Singen;Baden-Württemberg;155208;161416;169487;0.01;0.03;0.05;22;66
+Albstadt;Baden-Württemberg;873631;856158;907527;0.02;0.05;0.06;5;32
+Neustadt am Rübenberge;Niedersachsen;358016;358016;365176;0.02;0.03;0.04;10;57
+Leonberg;Baden-Württemberg;695511;723331;716098;0.01;0.03;0.04;11;12
+Freising;Freistaat Bayern;726772;719504;748284;0.05;0.07;0.09;10;24
+Kamen;Nordrhein-Westfalen;756233;809169;865811;0.01;0.01;0.01;19;42
+Bünde;Nordrhein-Westfalen;258033;260613;263219;0.02;0.02;0.03;18;31
+Erkelenz;Nordrhein-Westfalen;652453;645928;678224;0.01;0.02;0.04;15;12
+Straubing;Freistaat Bayern;452240;465807;489097;0.01;0.02;0.03;9;36
+Wismar;Mecklenburg-Vorpommern;621028;627238;658600;0.02;0.04;0.06;7;22
+Fellbach;Baden-Württemberg;529381;561143;555532;0.03;0.04;0.04;13;48
+Brühl;Nordrhein-Westfalen;740983;740983;763212;0.03;0.05;0.05;22;50
+Nordhausen;Freistaat Thüringen;389312;385418;385418;0.02;0.05;0.05;15;9
+Filderstadt;Baden-Württemberg;419366;423559;419324;0.03;0.04;0.06;11;54
+Lahr/Schwarzwald;Baden-Württemberg;381043;400095;420099;0.03;0.05;0.06;21;30
+Amberg;Freistaat Bayern;821627;813410;813410;0.04;0.07;0.08;7;35
+Weinheim;Baden-Württemberg;152117;152117;152117;0.03;0.06;0.08;5;10
+Homburg;Saarland;276715;296085;302006;0.03;0.05;0.05;18;61
+Bad Kreuznach;Rheinland-Pfalz;318466;324835;331332;0.02;0.04;0.04;16;51
+Oberursel;Hessen;542326;536902;563747;0.03;0.04;0.06;9;34
+Lehrte;Niedersachsen;329007;352037;366118;0.02;0.04;0.06;18;41
+Bruchsal;Baden-Württemberg;264288;280145;288549;0.01;0.01;0.02;17;38
+Rodgau;Hessen;998973;988983;1038432;0.03;0.04;0.06;10;21
+Monheim am Rhein;Nordrhein-Westfalen;483621;493293;517958;0.01;0.02;0.02;8;19
+Landau in der Pfalz;Rheinland-Pfalz;835639;869064;929899;0.02;0.05;0.07;6;22
+Eisenach;Freistaat Thüringen;494577;524251;545221;0.02;0.04;0.05;22;61
+Bietigheim-Bissingen;Baden-Württemberg;478516;483301;517132;0.02;0.04;0.06;12;36
+Rottenburg am Neckar;Baden-Württemberg;835429;835429;827074;0.03;0.06;0.08;7;36
+Pinneberg;Schleswig-Holstein;246075;243614;260667;0.01;0.04;0.06;11;42
+Dachau;Freistaat Bayern;932219;941541;969787;0.04;0.05;0.06;11;40
+Weiden;Freistaat Bayern;345452;369633;373329;0.04;0.07;0.08;12;26
+Nettetal;Nordrhein-Westfalen;501441;531527;558103;0.03;0.03;0.05;18;61
+Kaufbeuren;Freistaat Bayern;233034;249346;246852;0.03;0.04;0.06;11;46
+Kaarst;Nordrhein-Westfalen;891437;900351;909354;0.03;0.05;0.06;11;49
+Freiberg;Freistaat Sachsen;749073;794017;778137;0.03;0.03;0.04;14;52
+Lemgo;Nordrhein-Westfalen;373485;366015;366015;0.01;0.04;0.04;5;51
+Gifhorn;Niedersachsen;454012;485792;500366;0.05;0.07;0.08;16;15
+Oranienburg;Brandenburg;490311;500117;525123;0.01;0.01;0.01;22;61
+Goslar;Niedersachsen;636941;681526;688342;0.03;0.05;0.06;11;51
+Borken;Nordrhein-Westfalen;146743;146743;155547;0.01;0.03;0.05;11;32
+Coburg;Freistaat Bayern;538761;576474;616827;0.03;0.04;0.05;8;57
+Eberswalde;Brandenburg;860459;877668;921551;0.02;0.02;0.04;19;62
+Wunstorf;Niedersachsen;989882;979983;1028982;0.05;0.08;0.09;18;30
+Memmingen;Freistaat Bayern;991318;1050797;1092828;0.04;0.05;0.07;18;46
+Heinsberg;Nordrhein-Westfalen;229158;226866;238209;0.02;0.03;0.04;21;33
+Königswinter;Nordrhein-Westfalen;749450;749450;794417;0.03;0.06;0.07;17;64
+Pirmasens;Rheinland-Pfalz;720314;763532;801709;0.01;0.03;0.05;10;23
+Bautzen;Freistaat Sachsen;938754;929366;920072;0.03;0.05;0.06;8;16
+Aurich;Niedersachsen;130281;132886;130228;0.03;0.06;0.08;6;68
+Ansbach;Freistaat Bayern;926964;908424;935677;0.01;0.02;0.04;18;33
+Nürtingen;Baden-Württemberg;889509;942879;990023;0.01;0.03;0.05;15;60
+Dreieich;Hessen;267130;275143;283398;0.01;0.04;0.05;16;14
+Löhne;Nordrhein-Westfalen;991797;991797;991797;0.03;0.06;0.08;13;21
+Laatzen;Niedersachsen;470946;466236;494210;0.05;0.07;0.08;6;40
+Falkensee;Brandenburg;198415;206351;204288;0.01;0.04;0.06;13;46
+Kirchheim unter Teck;Baden-Württemberg;284445;278756;292693;0.01;0.03;0.04;6;55
+Völklingen;Saarland;378802;397742;397742;0.01;0.02;0.02;12;65
+Siegburg;Nordrhein-Westfalen;539731;534333;534333;0.01;0.02;0.02;17;31
+Bensheim;Hessen;206262;208324;210407;0.02;0.05;0.07;19;33
+Buxtehude;Niedersachsen;923099;978484;1027409;0.04;0.07;0.08;8;47
+Suhl;Freistaat Thüringen;649045;675006;675006;0.02;0.03;0.03;14;22
+Mettmann;Nordrhein-Westfalen;516195;511033;511033;0.01;0.02;0.03;10;65
+Schorndorf;Baden-Württemberg;320431;333248;353243;0.01;0.04;0.05;8;30
+Hückelhoven;Nordrhein-Westfalen;676801;670032;703534;0.03;0.04;0.05;17;43
+Freital;Freistaat Sachsen;688882;702659;744819;0.02;0.04;0.05;11;34
+Neumarkt;Freistaat Bayern;246226;253612;263757;0.04;0.05;0.07;10;25
+Pirna;Freistaat Sachsen;132437;133761;140449;0.02;0.02;0.02;13;11
+Ahaus;Nordrhein-Westfalen;351953;358992;351812;0.03;0.06;0.07;18;46
+Schwabach;Freistaat Bayern;359380;370161;362758;0.01;0.03;0.04;13;62
+Kamp-Lintfort;Nordrhein-Westfalen;932401;969697;979394;0.01;0.03;0.05;17;16
+Ettlingen;Baden-Württemberg;494901;529544;518953;0.03;0.03;0.03;14;28
+Buchholz in der Nordheide;Niedersachsen;944559;954004;982624;0.04;0.05;0.07;9;57
+Hofheim am Taunus;Hessen;680997;680997;708236;0.03;0.04;0.05;15;26
+Hoyerswerda;Freistaat Sachsen;332842;329513;352579;0.03;0.05;0.06;20;63
+Warendorf;Nordrhein-Westfalen;472069;481510;491140;0.03;0.06;0.06;12;16
+Halberstadt;Sachsen-Anhalt;342765;363330;356064;0.01;0.03;0.03;21;27
+Haltern am See;Nordrhein-Westfalen;765577;788544;820086;0.02;0.05;0.06;8;37
+Maintal;Hessen;669467;669467;689551;0.02;0.03;0.05;16;19
+Voerde;Nordrhein-Westfalen;122572;127474;127474;0.01;0.01;0.02;12;36
+Würselen;Nordrhein-Westfalen;878934;896512;932373;0.01;0.03;0.04;20;16
+Hemer;Nordrhein-Westfalen;926077;907555;971084;0.03;0.05;0.06;17;10
+Niederkassel;Nordrhein-Westfalen;233268;228602;233174;0.01;0.02;0.04;9;50
+St. Ingbert;Saarland;136230;144403;142959;0.03;0.05;0.05;11;21
+Saarlouis;Saarland;757791;788102;788102;0.03;0.03;0.05;18;50
+Germering;Freistaat Bayern;364999;383248;383248;0.04;0.06;0.08;18;21
+Leinfelden-Echterdingen;Baden-Württemberg;438968;434578;434578;0.03;0.06;0.06;19;40
+Schwäbisch Hall;Baden-Württemberg;385273;396831;412704;0.02;0.04;0.04;17;37
+Beckum;Nordrhein-Westfalen;407753;415908;445021;0.02;0.04;0.06;20;61
+Coesfeld;Nordrhein-Westfalen;613149;643806;688872;0.02;0.03;0.03;7;48
+Bernau bei Berlin;Brandenburg;314758;333643;333643;0.03;0.04;0.05;22;39
+Mühlhausen;Freistaat Thüringen;173017;183398;194401;0.01;0.01;0.01;15;9
+Kempen;Nordrhein-Westfalen;254270;266983;277662;0.01;0.01;0.01;22;11
+Ostfildern;Baden-Württemberg;923737;960686;1008720;0.02;0.05;0.06;7;31
+Greven;Nordrhein-Westfalen;941032;988083;1037487;0.03;0.05;0.06;6;58
+Datteln;Nordrhein-Westfalen;283777;278101;272539;0.01;0.03;0.05;16;22
+Neu-Isenburg;Hessen;832045;865326;873980;0.02;0.02;0.03;9;35
+Wermelskirchen;Nordrhein-Westfalen;764018;786938;842024;0.01;0.02;0.02;16;46
+Emsdetten;Nordrhein-Westfalen;861670;913370;959038;0.03;0.05;0.05;18;41
+Sinsheim;Baden-Württemberg;281888;301620;316701;0.03;0.06;0.08;13;53
+Stendal;Sachsen-Anhalt;634236;634236;646920;0.03;0.03;0.04;22;45
+Altenburg;Freistaat Thüringen;454665;477398;486946;0.03;0.04;0.06;14;10
+Langen;Hessen;746886;761823;799914;0.01;0.03;0.05;6;56
+Backnang;Baden-Württemberg;595696;589739;625123;0.01;0.04;0.06;21;43
+Porta Westfalica;Nordrhein-Westfalen;946137;1012366;1002242;0.01;0.01;0.03;10;15
+Lage;Nordrhein-Westfalen;699781;734770;734770;0.02;0.03;0.04;5;43
+Wesseling;Nordrhein-Westfalen;535726;541083;562726;0.02;0.02;0.02;18;20
+Papenburg;Niedersachsen;137923;144819;150611;0.02;0.05;0.06;20;34
+Meppen;Niedersachsen;842526;842526;859376;0.04;0.07;0.08;8;30
+Kehl;Baden-Württemberg;149633;149633;160107;0.03;0.04;0.06;18;61
+Tuttlingen;Baden-Württemberg;636242;636242;642604;0.03;0.06;0.06;10;36
+Schwedt/Oder;Brandenburg;635652;642008;654848;0.03;0.04;0.04;21;9
+Erding;Freistaat Bayern;148331;157230;157230;0.01;0.02;0.03;13;69
+Riesa;Freistaat Sachsen;528215;533497;570841;0.03;0.03;0.04;16;9
+Merseburg;Sachsen-Anhalt;532226;569481;592261;0.03;0.05;0.06;21;36
+Schönebeck;Sachsen-Anhalt;845257;895972;913891;0.01;0.02;0.03;20;23
+Uelzen;Niedersachsen;134602;141332;139918;0.02;0.05;0.07;19;57
+Leer;Niedersachsen;582898;582898;606213;0.05;0.06;0.08;7;31
+Zweibrücken;Rheinland-Pfalz;248385;243417;238548;0.01;0.01;0.01;10;32
+Steinfurt;Nordrhein-Westfalen;136192;138915;145861;0.02;0.05;0.05;13;64
+Fürstenfeldbruck;Freistaat Bayern;772117;772117;795280;0.04;0.06;0.07;19;23
+Goch;Nordrhein-Westfalen;456532;465662;470319;0.02;0.02;0.04;9;49
+Winsen;Niedersachsen;288307;302722;320885;0.03;0.05;0.06;21;65
+Balingen;Baden-Württemberg;732132;754095;739014;0.02;0.02;0.04;20;66
+Mörfelden-Walldorf;Hessen;985431;965722;1033322;0.03;0.04;0.04;10;57
+Wernigerode;Sachsen-Anhalt;971780;1010651;1040970;0.01;0.03;0.04;15;33
+Geldern;Nordrhein-Westfalen;266625;269291;263905;0.02;0.02;0.04;14;53
+Königs Wusterhausen;Brandenburg;345929;345929;339010;0.02;0.04;0.06;15;54
+Barsinghausen;Niedersachsen;362641;362641;377146;0.04;0.05;0.06;19;30
+Radebeul;Freistaat Sachsen;131944;141180;144003;0.02;0.05;0.07;8;48
+Limburg a.d. Lahn;Hessen;299020;305000;311100;0.03;0.05;0.06;8;30
+Dietzenbach;Hessen;230111;227809;232366;0.01;0.03;0.05;12;20
+Jülich;Nordrhein-Westfalen;355596;373375;384577;0.03;0.05;0.05;7;53
+Korschenbroich;Nordrhein-Westfalen;530045;535345;529991;0.03;0.05;0.06;5;46
+Crailsheim;Baden-Württemberg;300158;306161;321469;0.02;0.04;0.04;14;64
+Seelze;Niedersachsen;809872;850365;850365;0.05;0.06;0.07;9;43
+Viernheim;Hessen;992914;982984;1022304;0.03;0.05;0.05;19;36
+Itzehoe;Schleswig-Holstein;692383;692383;685459;0.03;0.03;0.05;14;68
+Fürstenwalde/Spree;Brandenburg;422154;430597;439209;0.01;0.04;0.04;16;36
+Cloppenburg;Niedersachsen;172607;176059;184862;0.04;0.05;0.07;5;49
+Biberach an der Riß;Baden-Württemberg;328478;331762;331762;0.01;0.01;0.02;12;49
+Wedel;Schleswig-Holstein;234204;236546;253104;0.01;0.02;0.04;17;48
+Rheinfelden;Baden-Württemberg;215582;217737;219915;0.01;0.01;0.02;22;28
+Nienburg;Niedersachsen;944597;972934;992393;0.02;0.03;0.05;8;60
+Georgsmarienhütte;Niedersachsen;207158;205086;219442;0.04;0.07;0.08;9;33
+Werl;Nordrhein-Westfalen;829927;846525;846525;0.02;0.02;0.03;11;34
+Eisenhüttenstadt;Brandenburg;763104;755472;755472;0.01;0.01;0.03;12;27
+Gevelsberg;Nordrhein-Westfalen;789874;805671;837898;0.02;0.04;0.05;16;19
+Rheinberg;Nordrhein-Westfalen;532189;521545;521545;0.01;0.03;0.04;16;10
+Bad Vilbel;Hessen;260612;265824;273798;0.02;0.04;0.04;17;56
+Neuruppin;Brandenburg;198173;198173;200154;0.03;0.03;0.04;21;66
+Deggendorf;Freistaat Bayern;206141;218509;220694;0.05;0.08;0.09;9;33
+Höxter;Nordrhein-Westfalen;414122;443110;460834;0.01;0.01;0.03;7;69
+Herrenberg;Baden-Württemberg;575836;570077;598581;0.03;0.05;0.07;12;26
+Vechta;Niedersachsen;733752;719076;704695;0.02;0.05;0.07;7;42
+Meschede;Nordrhein-Westfalen;107678;106601;111931;0.03;0.03;0.04;13;66
+Lampertheim;Hessen;684552;670860;657443;0.02;0.05;0.07;6;26
+Lohmar;Nordrhein-Westfalen;405369;409422;438082;0.02;0.04;0.06;7;23
+Kornwestheim;Baden-Württemberg;437547;463799;473075;0.02;0.05;0.05;16;35
+Bad Nauheim;Hessen;196422;202314;206360;0.03;0.06;0.07;8;63
+Kreuztal;Nordrhein-Westfalen;496637;501603;531699;0.01;0.03;0.04;16;28
+Bramsche;Niedersachsen;513186;543977;571176;0.04;0.05;0.07;19;19
+Ahrensburg;Schleswig-Holstein;515067;540820;551636;0.03;0.04;0.04;17;52
+Ennepetal;Nordrhein-Westfalen;240621;245433;247887;0.02;0.05;0.05;11;64
+Idar-Oberstein;Rheinland-Pfalz;299823;314814;311666;0.02;0.04;0.06;16;48
+Radolfzell;Baden-Württemberg;103920;108076;108076;0.02;0.03;0.05;6;12
+Merzig;Saarland;822359;814135;846700;0.03;0.03;0.04;21;38
+Oer-Erkenschwick;Nordrhein-Westfalen;492635;487708;492585;0.03;0.05;0.05;21;38
+Forchheim;Freistaat Bayern;974365;1042570;1021719;0.02;0.03;0.05;9;68
+Osterholz-Scharmbeck;Niedersachsen;316794;313626;326171;0.01;0.04;0.06;8;69
+Bernburg;Sachsen-Anhalt;153158;150094;160601;0.03;0.06;0.07;9;11
+Güstrow;Mecklenburg-Vorpommern;531613;536929;542298;0.02;0.04;0.04;8;62
+Sangerhausen;Sachsen-Anhalt;118334;126617;126617;0.01;0.03;0.05;17;37
+Delbrück;Nordrhein-Westfalen;109127;114583;115729;0.01;0.03;0.05;8;15
+Tönisvorst;Nordrhein-Westfalen;601645;595628;607541;0.01;0.04;0.06;20;58
+Achim;Niedersachsen;816785;808617;816703;0.02;0.05;0.06;6;47
+Werne;Nordrhein-Westfalen;453177;466772;485443;0.03;0.04;0.05;17;14
+Bad Hersfeld;Hessen;707255;728472;728472;0.01;0.04;0.06;20;37
+Burgdorf;Niedersachsen;204620;208712;206625;0.04;0.07;0.09;18;39
+Weil am Rhein;Baden-Württemberg;241332;246158;248620;0.03;0.06;0.08;20;16
+Waltrop;Nordrhein-Westfalen;356588;367285;374631;0.03;0.05;0.06;15;64
+Zeitz;Sachsen-Anhalt;597401;609349;627629;0.02;0.04;0.04;21;23
+Northeim;Niedersachsen;443174;443174;460900;0.05;0.08;0.1;19;66
+Emmerich am Rhein;Nordrhein-Westfalen;680759;714796;714796;0.02;0.02;0.02;7;23
+Andernach;Rheinland-Pfalz;204878;217170;225857;0.03;0.06;0.08;6;38
+Bühl;Baden-Württemberg;933596;942931;952361;0.01;0.03;0.03;20;42
+Oelde;Nordrhein-Westfalen;136007;134646;144072;0.03;0.06;0.07;16;10
+Springe;Niedersachsen;754572;739480;769059;0.04;0.07;0.09;20;41
+Staßfurt;Sachsen-Anhalt;960605;950998;931978;0.01;0.04;0.04;19;41
+Geesthacht;Schleswig-Holstein;679568;727137;756223;0.01;0.04;0.04;6;21
+Haan;Nordrhein-Westfalen;954019;973099;953637;0.01;0.03;0.03;11;48
+Wegberg;Nordrhein-Westfalen;536048;525327;562099;0.02;0.05;0.07;18;53
+Gaggenau;Baden-Württemberg;697129;683186;724177;0.02;0.02;0.02;20;56
+Friedberg;Freistaat Bayern;902938;948084;929123;0.03;0.06;0.07;5;49
+Schwelm;Nordrhein-Westfalen;816952;849630;849630;0.03;0.06;0.06;16;48
+Aschersleben;Sachsen-Anhalt;394045;401925;430060;0.01;0.03;0.04;17;48
+Taunusstein;Hessen;235547;249679;259667;0.03;0.05;0.07;13;55
+Sundern;Nordrhein-Westfalen;192592;198369;198369;0.01;0.04;0.04;21;61
+Vaihingen an der Enz;Baden-Württemberg;319378;328959;328959;0.02;0.03;0.05;8;39
+Rietberg;Nordrhein-Westfalen;126830;130634;139779;0.02;0.05;0.07;22;9
+Zittau;Freistaat Sachsen;381679;389312;397098;0.03;0.04;0.04;21;19
+Weißenfels;Sachsen-Anhalt;264023;266663;274663;0.03;0.06;0.06;18;16
+Köthen;Sachsen-Anhalt;216463;216463;218627;0.01;0.03;0.05;22;16
+Bretten;Baden-Württemberg;605556;623722;611248;0.01;0.01;0.01;19;18
+Naumburg;Sachsen-Anhalt;701237;715261;751024;0.03;0.03;0.04;11;22
+Kevelaer;Nordrhein-Westfalen;134626;133279;135945;0.03;0.04;0.04;15;63
+Wetter;Nordrhein-Westfalen;472317;486486;476756;0.03;0.04;0.05;19;36
+Rendsburg;Schleswig-Holstein;531162;520538;551771;0.01;0.03;0.04;13;50
+Neuburg a.d.Donau;Freistaat Bayern;782236;805703;813760;0.04;0.07;0.08;21;48
+Geilenkirchen;Nordrhein-Westfalen;382961;402109;414172;0.03;0.06;0.07;11;14
+Baesweiler;Nordrhein-Westfalen;248187;253150;268339;0.01;0.02;0.02;18;21
+Friedberg;Hessen;776223;815034;855785;0.02;0.04;0.05;18;37
+Landsberg am Lech;Freistaat Bayern;713484;756293;809233;0.02;0.03;0.04;8;27
+Schwandorf;Freistaat Bayern;965828;1014119;1034401;0.03;0.06;0.07;5;30
+Hamminkeln;Nordrhein-Westfalen;287123;295736;304608;0.01;0.03;0.04;21;69
+Meißen;Freistaat Sachsen;991073;971251;951826;0.01;0.02;0.04;19;32
+Baunatal;Hessen;583556;606898;600829;0.02;0.04;0.06;21;11
+Neukirchen-Vluyn;Nordrhein-Westfalen;446177;459562;482540;0.02;0.02;0.03;16;27
+Kelkheim;Hessen;139993;138593;148294;0.03;0.05;0.07;16;28
+Winnenden;Baden-Württemberg;152881;157467;165340;0.01;0.02;0.04;22;45
+Leichlingen;Nordrhein-Westfalen;477977;506655;516788;0.03;0.03;0.04;22;12
+Bad Neuenahr-Ahrweiler;Rheinland-Pfalz;161129;164351;174212;0.03;0.03;0.03;11;54
+Warstein;Nordrhein-Westfalen;328959;338827;359157;0.01;0.03;0.05;6;64
+Königsbrunn;Freistaat Bayern;826443;818178;834542;0.01;0.02;0.03;13;62
+Wangen;Baden-Württemberg;361399;375854;368337;0.01;0.01;0.03;13;39
+Lennestadt;Nordrhein-Westfalen;951620;999201;1069145;0.01;0.01;0.02;13;16
+Mechernich;Nordrhein-Westfalen;927594;918318;982600;0.02;0.03;0.03;14;30
+Leimen;Baden-Württemberg;108117;108117;107035;0.02;0.03;0.05;21;12
+Selm;Nordrhein-Westfalen;258893;277015;274245;0.03;0.04;0.06;12;57
+Rösrath;Nordrhein-Westfalen;498233;498233;498233;0.02;0.05;0.06;10;55
+Rheinbach;Nordrhein-Westfalen;345890;338972;332192;0.01;0.02;0.03;16;47
+Rinteln;Niedersachsen;788136;827542;819267;0.01;0.03;0.04;5;33
+Overath;Nordrhein-Westfalen;626299;613773;650599;0.03;0.03;0.04;20;66
+Nordenham;Niedersachsen;190589;194400;196344;0.01;0.03;0.04;14;46
+Geislingen an der Steige;Baden-Württemberg;435513;444223;466434;0.01;0.04;0.05;14;33
+Saalfeld/Saale;Freistaat Thüringen;174480;170990;181249;0.03;0.03;0.03;13;65
+Verden;Niedersachsen;507871;502792;517876;0.03;0.06;0.08;17;61
+Kulmbach;Freistaat Bayern;749285;734299;756328;0.04;0.05;0.07;7;59
+Senftenberg;Brandenburg;523643;518406;554695;0.03;0.04;0.05;9;46
+Heiligenhaus;Nordrhein-Westfalen;989641;1019330;1019330;0.01;0.02;0.03;5;13
+Einbeck;Niedersachsen;646740;653207;653207;0.02;0.04;0.05;19;50
+Emmendingen;Baden-Württemberg;980534;960923;970532;0.03;0.04;0.05;19;42
+Plettenberg;Nordrhein-Westfalen;910434;974164;1032614;0.02;0.03;0.04;7;38
+Neckarsulm;Baden-Württemberg;605842;611900;648614;0.03;0.05;0.05;11;39
+Mühlheim am Main;Hessen;809261;865909;865909;0.02;0.03;0.04;10;53
+Unterschleißheim;Freistaat Bayern;337433;334058;340739;0.02;0.03;0.04;14;42
+Delitzsch;Freistaat Sachsen;705326;719432;762598;0.02;0.04;0.05;16;20
+Brilon;Nordrhein-Westfalen;579278;573485;584954;0.02;0.05;0.05;13;40
+Weinstadt;Baden-Württemberg;636766;655868;675545;0.03;0.06;0.08;8;16
+St. Wendel;Saarland;585572;620706;608292;0.01;0.03;0.05;10;28
+Strausberg;Brandenburg;952902;1010076;999975;0.03;0.04;0.05;10;42
+Griesheim;Hessen;925647;907134;916205;0.02;0.02;0.02;11;16
+Rödermark;Hessen;827759;836036;836036;0.03;0.05;0.06;11;68
+Schloß Holte-Stukenbrock;Nordrhein-Westfalen;531605;563501;586041;0.01;0.03;0.05;20;46
+Lauf a.d.Pegnitz;Freistaat Bayern;583891;583891;583891;0.05;0.08;0.09;9;25
+Petershagen;Nordrhein-Westfalen;145792;148707;145733;0.03;0.04;0.04;7;32
+Ilmenau;Freistaat Thüringen;674572;674572;681317;0.02;0.03;0.04;8;42
+Wiesloch;Baden-Württemberg;232991;232991;246970;0.01;0.02;0.02;13;29
+Lohne;Niedersachsen;211928;211928;211928;0.03;0.06;0.07;17;65
+Hennigsdorf;Brandenburg;670602;697426;725323;0.01;0.03;0.03;10;34
+Lübbecke;Nordrhein-Westfalen;479006;483796;493471;0.03;0.06;0.07;21;20
+Reinbek;Schleswig-Holstein;852704;835649;877432;0.01;0.03;0.03;15;13
+Zirndorf;Freistaat Bayern;135049;133698;137709;0.03;0.06;0.08;9;52
+Rottweil;Baden-Württemberg;679137;679137;706302;0.02;0.02;0.02;10;18
+Horb am Neckar;Baden-Württemberg;845836;828919;870365;0.01;0.02;0.04;16;61
+Wiehl;Nordrhein-Westfalen;691405;712147;733511;0.01;0.03;0.04;8;54
+Ehingen;Baden-Württemberg;615688;603374;621475;0.02;0.02;0.03;18;19
+Limbach-Oberfrohna;Freistaat Sachsen;350329;343322;363921;0.01;0.02;0.03;6;56
+Schmallenberg;Nordrhein-Westfalen;500454;520472;551700;0.03;0.03;0.04;7;60
+Rathenow;Brandenburg;960430;998847;998847;0.02;0.02;0.04;20;59
+Mühlacker;Baden-Württemberg;216893;216893;212555;0.02;0.04;0.06;7;50
+Sprockhövel;Nordrhein-Westfalen;436124;440485;444890;0.02;0.05;0.07;19;30
+Olpe;Nordrhein-Westfalen;894999;957648;1024684;0.03;0.06;0.07;20;64
+Hattersheim am Main;Hessen;538896;571229;559805;0.03;0.06;0.08;6;68
+Heppenheim;Hessen;396857;388919;412255;0.01;0.04;0.04;18;29
+Espelkamp;Nordrhein-Westfalen;717309;753174;768237;0.01;0.01;0.03;6;30
+Arnstadt;Freistaat Thüringen;119825;124618;133341;0.02;0.03;0.03;21;36
+Bad Honnef;Nordrhein-Westfalen;808583;865183;899791;0.01;0.04;0.05;9;9
+Norden;Niedersachsen;628129;640691;679133;0.03;0.04;0.05;18;20
+Butzbach;Hessen;759427;812586;828838;0.03;0.03;0.03;13;65
+Achern;Baden-Württemberg;861941;861941;913657;0.03;0.06;0.06;10;66
+Übach-Palenberg;Nordrhein-Westfalen;545354;578075;566513;0.01;0.03;0.04;16;34
+Salzkotten;Nordrhein-Westfalen;652701;672282;665559;0.02;0.02;0.04;7;64
+Herdecke;Nordrhein-Westfalen;258590;266347;266347;0.03;0.06;0.08;11;30
+Bedburg;Nordrhein-Westfalen;300613;303619;315763;0.01;0.01;0.03;21;62
+Attendorn;Nordrhein-Westfalen;767858;821608;870904;0.02;0.04;0.05;14;67
+Ellwangen;Baden-Württemberg;703076;731199;716575;0.01;0.02;0.02;18;41
+Spremberg;Brandenburg;594199;582315;605607;0.02;0.02;0.04;8;14
+Glauchau;Freistaat Sachsen;295112;315769;315769;0.03;0.06;0.08;8;20
+Lindau;Freistaat Bayern;155594;163373;168274;0.05;0.07;0.09;16;43
+Varel;Niedersachsen;743679;773426;819831;0.05;0.06;0.08;17;41
+Eisleben;Sachsen-Anhalt;175373;182387;186035;0.02;0.03;0.04;7;31
+Mosbach;Baden-Württemberg;544769;572007;600607;0.03;0.05;0.07;12;34
+Pfungstadt;Hessen;114497;119076;121458;0.02;0.05;0.07;10;25
+Friedrichsdorf;Hessen;127527;135178;144641;0.02;0.03;0.04;8;31
+Ditzingen;Baden-Württemberg;971720;952285;933239;0.01;0.03;0.03;15;27
+Hann. Münden;Niedersachsen;316911;326418;346003;0.05;0.07;0.09;9;57
+Roth;Freistaat Bayern;527392;553761;575912;0.03;0.05;0.07;21;38
+Syke;Niedersachsen;974028;1012989;1083898;0.05;0.07;0.09;11;12
+Burg;Sachsen-Anhalt;762140;754518;792244;0.02;0.05;0.05;8;41
+Meckenheim;Nordrhein-Westfalen;943069;933638;970983;0.01;0.02;0.04;13;60
+Markkleeberg;Freistaat Sachsen;876791;868023;894063;0.01;0.03;0.03;12;11
+Netphen;Nordrhein-Westfalen;177692;179468;179468;0.02;0.03;0.04;8;55
+Weiterstadt;Hessen;870649;931594;912962;0.01;0.03;0.05;14;53
+Bad Oldesloe;Schleswig-Holstein;299299;299299;311270;0.02;0.04;0.05;5;14
+Lüdinghausen;Nordrhein-Westfalen;178000;179780;186971;0.03;0.05;0.06;14;50
+Hohen Neuendorf;Brandenburg;608980;608980;633339;0.02;0.04;0.04;7;37
+Bingen am Rhein;Rheinland-Pfalz;370466;366761;377764;0.01;0.03;0.04;7;61
+Obertshausen;Hessen;796559;836386;828023;0.02;0.03;0.05;18;52
+Helmstedt;Niedersachsen;648116;667559;680910;0.05;0.06;0.08;13;47
+Harsewinkel;Nordrhein-Westfalen;102328;102328;100281;0.02;0.02;0.02;7;65
+Pfaffenhofen;Freistaat Bayern;255035;265236;278498;0.01;0.02;0.04;20;62
+Schleswig;Schleswig-Holstein;292740;313231;316364;0.01;0.03;0.03;18;55
+Ingelheim am Rhein;Rheinland-Pfalz;519801;545791;540333;0.02;0.05;0.06;7;14
+Rudolstadt;Freistaat Thüringen;439038;456599;447467;0.03;0.04;0.04;16;40
+Walsrode;Niedersachsen;201819;199800;209790;0.02;0.03;0.05;11;64
+Ludwigsfelde;Brandenburg;662991;696140;744870;0.02;0.03;0.04;8;39
+Waldkraiburg;Freistaat Bayern;858148;918218;954947;0.02;0.05;0.06;10;65
+Korbach;Hessen;867370;919412;919412;0.01;0.04;0.05;5;68
+Wertheim;Baden-Württemberg;728573;714001;756841;0.01;0.01;0.01;7;26
+Weingarten;Baden-Württemberg;398998;395008;422658;0.02;0.05;0.06;10;43
+Freudenstadt;Baden-Württemberg;345369;362637;366263;0.02;0.05;0.06;14;25
+Osterode am Harz;Niedersachsen;455948;465066;483669;0.05;0.06;0.07;13;19
+Dillenburg;Hessen;753100;790755;806570;0.01;0.04;0.06;10;39
+Warburg;Nordrhein-Westfalen;519796;524993;561743;0.02;0.05;0.05;6;67
+Stutensee;Baden-Württemberg;517968;543866;576498;0.03;0.04;0.06;21;20
+Sondershausen;Freistaat Thüringen;937825;919068;955831;0.03;0.05;0.06;20;44
+Wipperfürth;Nordrhein-Westfalen;689320;730679;723372;0.02;0.04;0.06;20;61
+Geretsried;Freistaat Bayern;964523;993458;993458;0.03;0.05;0.06;10;58
+Remseck am Neckar;Baden-Württemberg;366849;366849;392528;0.01;0.02;0.04;16;69
+Calw;Baden-Württemberg;169369;179531;181326;0.02;0.04;0.05;20;60
+Groß-Gerau;Hessen;205212;215472;219782;0.01;0.02;0.03;10;24
+Apolda;Freistaat Thüringen;646541;685333;699040;0.01;0.03;0.03;21;48
+Ronnenberg;Niedersachsen;491406;491406;486491;0.05;0.07;0.08;21;54
+Idstein;Hessen;555088;577291;600383;0.03;0.05;0.07;5;61
+Starnberg;Freistaat Bayern;237050;237050;251273;0.05;0.07;0.09;16;42
+Werder;Brandenburg;310578;307472;304397;0.02;0.03;0.03;8;26
+Haren;Niedersachsen;136512;136512;140607;0.01;0.04;0.05;20;48
+Werdau;Freistaat Sachsen;474389;493364;488430;0.02;0.02;0.04;13;26
+Waldshut-Tiengen;Baden-Württemberg;486881;520962;547010;0.03;0.05;0.07;22;41
+Herzogenaurach;Freistaat Bayern;176457;179986;187185;0.05;0.06;0.08;21;55
+Sehnde;Niedersachsen;930299;995419;1045190;0.01;0.04;0.05;16;47
+Radevormwald;Nordrhein-Westfalen;222077;228739;235601;0.02;0.03;0.05;19;27
+Eckernförde;Schleswig-Holstein;702663;688609;695495;0.02;0.03;0.03;20;61
+Öhringen;Baden-Württemberg;597868;639718;665307;0.02;0.02;0.04;12;25
+Vreden;Nordrhein-Westfalen;117459;115109;119714;0.03;0.04;0.06;19;26
+Nagold;Baden-Württemberg;507172;522387;543282;0.03;0.03;0.03;13;44
+Sonneberg;Freistaat Thüringen;822600;880182;932992;0.01;0.03;0.03;16;15
+Bad Mergentheim;Baden-Württemberg;245767;248224;248224;0.01;0.02;0.02;16;39
+Rees;Nordrhein-Westfalen;271176;276599;284897;0.03;0.04;0.05;19;43
+Senden;Freistaat Bayern;394298;417955;426314;0.03;0.04;0.05;17;42
+Stadthagen;Niedersachsen;771773;756337;756337;0.03;0.04;0.06;11;52
+Lengerich;Nordrhein-Westfalen;624774;618526;606155;0.03;0.04;0.04;8;41
+Husum;Schleswig-Holstein;832757;824429;857406;0.03;0.04;0.06;8;65
+Greiz;Freistaat Thüringen;894564;885618;885618;0.02;0.02;0.02;6;31
+Fröndenberg/Ruhr;Nordrhein-Westfalen;723550;723550;766963;0.03;0.05;0.07;12;29
+Blieskastel;Saarland;869762;852366;869414;0.02;0.03;0.03;14;57
+Annaberg-Buchholz;Freistaat Sachsen;437237;450354;441347;0.03;0.06;0.07;14;62
+Bad Harzburg;Niedersachsen;331116;324493;318003;0.03;0.06;0.07;20;18
+Leutkirch;Baden-Württemberg;153326;159459;162648;0.03;0.04;0.06;17;42
+Metzingen;Baden-Württemberg;884633;893479;875609;0.01;0.02;0.04;20;38
+Westerstede;Niedersachsen;464721;464721;455426;0.03;0.06;0.07;7;33
+Teltow;Brandenburg;832683;865990;865990;0.02;0.05;0.06;22;11
+Schwetzingen;Baden-Württemberg;228614;226327;228591;0.02;0.04;0.04;18;50
+Duderstadt;Niedersachsen;166429;173086;185202;0.02;0.05;0.07;21;28
+Rotenburg;Niedersachsen;573020;607401;637771;0.03;0.05;0.06;14;54
+Soltau;Niedersachsen;803204;803204;811236;0.02;0.04;0.06;17;26
+Karben;Hessen;610973;604863;647203;0.01;0.02;0.03;5;19
+Überlingen;Baden-Württemberg;294790;303633;318815;0.01;0.01;0.01;6;58
+Bad Soden am Taunus;Hessen;601432;589403;618873;0.01;0.03;0.04;22;24
+Weilheim i.OB;Freistaat Bayern;847192;830248;838550;0.03;0.06;0.07;13;43
+Coswig;Freistaat Sachsen;270711;268003;284084;0.02;0.05;0.05;17;41
+Neustrelitz;Mecklenburg-Vorpommern;203408;213578;228528;0.02;0.05;0.07;15;25
+Xanten;Nordrhein-Westfalen;127929;131766;129131;0.01;0.01;0.02;20;13
+Neusäß;Freistaat Bayern;107303;109449;113827;0.03;0.04;0.05;18;16
+Büren;Nordrhein-Westfalen;906304;906304;924430;0.03;0.06;0.07;20;42
+Gelnhausen;Hessen;571009;605269;611322;0.01;0.04;0.06;8;62
+Wülfrath;Nordrhein-Westfalen;567643;601701;595684;0.03;0.03;0.03;12;51
+Riedstadt;Hessen;303961;319159;331925;0.03;0.04;0.04;20;34
+Schramberg;Baden-Württemberg;606328;648770;668234;0.02;0.05;0.05;12;45
+Groß-Umstadt;Hessen;491061;505792;520966;0.03;0.05;0.07;10;22
+Eppingen;Baden-Württemberg;840174;898986;943935;0.02;0.04;0.05;12;10
+Büdingen;Hessen;395951;388031;403553;0.01;0.01;0.02;8;27
+Quedlinburg;Sachsen-Anhalt;553170;575296;586802;0.02;0.02;0.02;9;25
+Waren;Mecklenburg-Vorpommern;934428;990493;1030113;0.03;0.04;0.05;7;46
+Crimmitschau;Freistaat Sachsen;196636;208434;204265;0.02;0.02;0.03;14;9
+Stadtallendorf;Hessen;879210;905586;923698;0.03;0.03;0.03;22;64
+Donaueschingen;Baden-Württemberg;336844;336844;360423;0.03;0.06;0.07;9;30
+Hockenheim;Baden-Württemberg;299659;311645;333460;0.02;0.03;0.04;5;15
+Marsberg;Nordrhein-Westfalen;103837;110067;116671;0.03;0.06;0.06;6;50
+Halle;Nordrhein-Westfalen;206922;206922;213129;0.02;0.03;0.04;18;64
+Meinerzhagen;Nordrhein-Westfalen;614548;657566;650990;0.03;0.03;0.03;20;40
+Versmold;Nordrhein-Westfalen;588571;576799;565263;0.02;0.05;0.07;16;28
+Forst (Lausitz);Brandenburg;216733;212398;220894;0.03;0.05;0.06;18;60
+Dillingen/ Saar;Saarland;303282;321478;321478;0.03;0.04;0.05;8;13
+Borna;Freistaat Sachsen;359327;352140;345097;0.02;0.04;0.06;22;20
+Aichach;Freistaat Bayern;539217;560785;560785;0.02;0.04;0.05;22;16
+Wittmund;Niedersachsen;361158;368381;361013;0.04;0.05;0.07;9;45
+Sonthofen;Freistaat Bayern;843343;834909;851607;0.02;0.05;0.07;8;32
+Bad Pyrmont;Niedersachsen;201084;205105;211258;0.03;0.06;0.07;22;14
+Kitzingen;Freistaat Bayern;120552;128990;132860;0.03;0.05;0.07;13;51
+Traunreut;Freistaat Bayern;551334;551334;562360;0.02;0.05;0.06;8;57
+Herborn;Hessen;234700;251129;246106;0.03;0.03;0.04;5;58
+Schortens;Niedersachsen;776736;823340;848040;0.02;0.04;0.05;20;35
+Bad Kissingen;Freistaat Bayern;129092;132964;132964;0.04;0.05;0.07;19;34
+Eschborn;Hessen;177821;179599;190375;0.02;0.04;0.06;9;62
+Heide;Schleswig-Holstein;326300;336089;346171;0.01;0.01;0.01;18;19
+Waldkirch;Baden-Württemberg;717519;753394;806132;0.03;0.03;0.03;12;23
+Meiningen;Freistaat Thüringen;969076;988457;1057649;0.01;0.04;0.04;14;34
+Stadtlohn;Nordrhein-Westfalen;461484;461484;484558;0.02;0.04;0.05;20;65
+Geseke;Nordrhein-Westfalen;383548;398889;418834;0.02;0.04;0.05;14;46
+Germersheim;Rheinland-Pfalz;404566;420748;416541;0.03;0.04;0.06;15;45
+Lichtenfels;Freistaat Bayern;653937;653937;686633;0.02;0.03;0.04;19;46
+Luckenwalde;Brandenburg;725686;761970;800068;0.02;0.05;0.07;22;44
+Bruchköbel;Hessen;466322;494301;514073;0.01;0.01;0.02;11;16
+Bad Rappenau;Baden-Württemberg;828431;811862;828099;0.01;0.01;0.01;21;10
+Waghäusel;Baden-Württemberg;968955;1017402;1058098;0.01;0.03;0.03;17;42
+Rheinstetten;Baden-Württemberg;501181;516216;521378;0.03;0.03;0.04;12;12
+Friesoythe;Niedersachsen;760489;775698;829997;0.05;0.07;0.08;11;18
+Gersthofen;Freistaat Bayern;930249;967458;986808;0.01;0.02;0.03;12;42
+Quickborn;Schleswig-Holstein;803453;819522;803131;0.01;0.03;0.04;16;31
+Bückeburg;Niedersachsen;552819;547290;552763;0.02;0.03;0.05;22;62
+Seesen;Niedersachsen;607986;638385;651153;0.03;0.04;0.05;17;20
+Reichenbach im Vogtland;Freistaat Sachsen;966636;956969;947399;0.01;0.03;0.03;12;23
+Burgwedel;Niedersachsen;816499;832828;841157;0.02;0.05;0.07;22;16
+Alfeld;Niedersachsen;381659;374025;392727;0.04;0.05;0.07;7;34
+Döbeln;Freistaat Sachsen;558340;558340;563923;0.02;0.02;0.03;22;35
+Seligenstadt;Hessen;770496;755086;807942;0.03;0.04;0.04;11;55
+Schmalkalden;Freistaat Thüringen;254313;259399;256805;0.01;0.03;0.04;20;43
+Flörsheim am Main;Hessen;743997;729117;721825;0.03;0.06;0.07;10;36
+Auerbach;Freistaat Sachsen;592731;580876;586685;0.01;0.04;0.06;19;22
+Holzminden;Niedersachsen;580459;603677;603677;0.04;0.07;0.08;11;39
+Eislingen/ Fils;Baden-Württemberg;220733;229562;227266;0.02;0.02;0.04;11;29
+Prenzlau;Brandenburg;515531;515531;515531;0.02;0.04;0.04;9;67
+Enger;Nordrhein-Westfalen;492719;527209;548297;0.02;0.04;0.04;5;25
+Mössingen;Baden-Württemberg;364453;386320;386320;0.01;0.01;0.01;22;66
+Zülpich;Nordrhein-Westfalen;964219;1012429;1073175;0.02;0.04;0.06;10;27
+Püttlingen;Saarland;361610;357993;365153;0.03;0.05;0.07;5;17
+Eschwege;Hessen;683933;683933;670254;0.01;0.02;0.03;18;54
+Sömmerda;Freistaat Thüringen;122129;124571;125817;0.02;0.04;0.06;13;50
+Bad Berleburg;Nordrhein-Westfalen;869025;903786;930899;0.03;0.04;0.06;21;55
+Oberkirch;Baden-Württemberg;141527;144357;151575;0.03;0.04;0.05;14;57
+Ennigerloh;Nordrhein-Westfalen;754327;739240;783594;0.01;0.03;0.04;11;36
+Torgau;Freistaat Sachsen;270440;281257;289695;0.02;0.04;0.06;18;16
+Hörstel;Nordrhein-Westfalen;697317;725209;717957;0.03;0.04;0.04;15;32
+Bad Waldsee;Baden-Württemberg;767909;798625;854529;0.02;0.02;0.02;21;44
+Kaltenkirchen;Schleswig-Holstein;353945;350405;371429;0.01;0.04;0.06;6;29
+Lebach;Saarland;692241;692241;733775;0.01;0.01;0.02;20;20
+Nidderau;Hessen;828150;844713;861607;0.02;0.04;0.06;12;31
+Sulzbach-Rosenberg;Freistaat Bayern;961952;990810;990810;0.01;0.02;0.03;14;14
+Bergneustadt;Nordrhein-Westfalen;838789;822013;805572;0.03;0.03;0.04;11;26
+Leinefelde-Worbis;Freistaat Thüringen;253602;266282;268944;0.01;0.02;0.04;12;69
+Laupheim;Baden-Württemberg;871754;889189;871405;0.03;0.05;0.05;20;45
+Bad Schwartau;Schleswig-Holstein;558860;570037;587138;0.03;0.05;0.07;20;59
+Guben;Brandenburg;585904;609340;615433;0.02;0.02;0.02;21;17
+Salzwedel;Sachsen-Anhalt;565635;588260;600025;0.01;0.03;0.03;8;13
+Weißwasser;Freistaat Sachsen;253514;268724;279473;0.03;0.05;0.05;17;16
+Günzburg;Freistaat Bayern;177770;174214;172472;0.02;0.04;0.05;11;41
+Vlotho;Nordrhein-Westfalen;178567;182138;178495;0.02;0.04;0.05;12;66
+Giengen an der Brenz;Baden-Württemberg;341745;348579;355551;0.02;0.05;0.07;19;18
+Ochtrup;Nordrhein-Westfalen;547910;558868;553279;0.01;0.01;0.02;16;26
+Schifferstadt;Rheinland-Pfalz;138576;137190;146793;0.03;0.05;0.06;6;47
+Waldbröl;Nordrhein-Westfalen;854518;871608;906472;0.01;0.01;0.01;19;24
+Rhede;Nordrhein-Westfalen;701280;694267;708152;0.02;0.03;0.05;20;42
+Haiger;Hessen;456009;451448;469506;0.02;0.03;0.03;21;45
+Telgte;Nordrhein-Westfalen;765533;750222;780231;0.02;0.04;0.04;16;32
+Oschersleben;Sachsen-Anhalt;604852;635094;666849;0.02;0.04;0.06;11;17
+Hechingen;Baden-Württemberg;835381;843734;860609;0.03;0.05;0.05;5;25
+Hessisch Oldendorf;Niedersachsen;594206;582321;570675;0.05;0.06;0.08;19;65
+Bad Driburg;Nordrhein-Westfalen;782573;806050;806050;0.01;0.03;0.03;7;15
+Wildeshausen;Niedersachsen;395596;423287;435986;0.01;0.03;0.04;20;49
+Haldensleben;Sachsen-Anhalt;770660;793779;833468;0.01;0.03;0.03;11;18
+Werdohl;Nordrhein-Westfalen;341215;334390;354454;0.02;0.05;0.06;6;12
+Nördlingen;Freistaat Bayern;333902;357275;367993;0.05;0.08;0.1;6;58
+Gerlingen;Baden-Württemberg;671151;684574;725648;0.03;0.04;0.04;5;16
+Weil der Stadt;Baden-Württemberg;780583;780583;804000;0.01;0.04;0.06;9;65
+Schopfheim;Baden-Württemberg;502503;532653;553959;0.02;0.04;0.06;19;21
+Grimma;Freistaat Sachsen;355272;358824;383942;0.02;0.04;0.05;15;14
+Schneverdingen;Niedersachsen;712653;755412;793182;0.01;0.04;0.06;17;19
+Frankenberg;Hessen;285069;282218;276573;0.03;0.03;0.05;13;64
+Bad Dürkheim;Rheinland-Pfalz;702803;737943;737943;0.01;0.04;0.05;11;68
+Bad Friedrichshall;Baden-Württemberg;562857;590999;585089;0.01;0.03;0.03;18;61
+Bremervörde;Niedersachsen;287382;290255;287353;0.01;0.03;0.04;7;20
+Traunstein;Freistaat Bayern;521811;532247;532247;0.04;0.05;0.06;22;58
+Alzenau;Freistaat Bayern;904228;886143;921589;0.03;0.04;0.06;17;12
+Burscheid;Nordrhein-Westfalen;264180;280030;274430;0.03;0.06;0.07;17;46
+Altena;Nordrhein-Westfalen;924364;905876;942111;0.03;0.05;0.06;7;17
+Mayen;Rheinland-Pfalz;735045;771797;794951;0.03;0.05;0.05;19;14
+Bad Münstereifel;Nordrhein-Westfalen;202192;206235;206235;0.01;0.02;0.04;20;42
+Wittenberge;Brandenburg;410879;435531;457308;0.03;0.03;0.03;16;65
+Schwarzenberg;Freistaat Sachsen;128200;137174;137174;0.02;0.03;0.05;18;28
+Parchim;Mecklenburg-Vorpommern;586332;592195;609961;0.02;0.02;0.03;8;34
+Schwalmstadt;Hessen;884262;866576;883908;0.01;0.01;0.03;5;43
+Hemmingen;Niedersachsen;443188;456483;479307;0.03;0.04;0.05;10;52
+Tettnang;Baden-Württemberg;142062;144903;155046;0.02;0.04;0.05;12;16
+Pfullingen;Baden-Württemberg;731666;717032;731373;0.03;0.06;0.06;12;10
+Korntal-Münchingen;Baden-Württemberg;400573;400573;416595;0.03;0.04;0.04;22;67
+Sarstedt;Niedersachsen;827202;843746;869058;0.04;0.07;0.08;16;51
+Langen;Niedersachsen;494365;509195;544839;0.02;0.03;0.05;9;15
+Mölln;Schleswig-Holstein;648215;648215;661179;0.02;0.02;0.02;22;30
+Schenefeld;Schleswig-Holstein;643771;675959;669199;0.03;0.03;0.03;6;66
+Freudenberg;Nordrhein-Westfalen;401807;417879;426236;0.02;0.05;0.07;10;12
+Radeberg;Freistaat Sachsen;546957;541487;552317;0.02;0.03;0.03;16;26
+Buchen;Baden-Württemberg;193569;207118;205047;0.01;0.03;0.05;14;50
+Müllheim;Baden-Württemberg;652371;684989;678139;0.03;0.04;0.04;8;65
+Dillingen a.d.Donau;Freistaat Bayern;118892;117703;116526;0.04;0.07;0.09;21;59
+Bexbach;Saarland;287230;298719;295732;0.02;0.05;0.07;9;52
+Vellmar;Hessen;343035;356756;367459;0.02;0.04;0.04;10;57
+Heusenstamm;Hessen;563405;563405;574673;0.03;0.03;0.05;20;51
+Marktoberdorf;Freistaat Bayern;629198;660657;693690;0.04;0.07;0.08;17;42
+Burghausen;Freistaat Bayern;566762;566762;606435;0.04;0.05;0.06;8;64
+Donauwörth;Freistaat Bayern;199029;210970;217299;0.04;0.06;0.08;19;33
+Bad Langensalza;Freistaat Thüringen;794796;818639;818639;0.03;0.05;0.05;18;32
+Bad Aibling;Freistaat Bayern;772488;795662;827489;0.01;0.03;0.05;10;23
+Pohlheim;Hessen;871419;923704;979126;0.03;0.03;0.05;8;50
+Dingolfing;Freistaat Bayern;822649;822649;806196;0.05;0.08;0.09;11;66
+Lahnstein;Rheinland-Pfalz;697208;725096;754100;0.02;0.04;0.04;11;48
+Konz;Rheinland-Pfalz;791835;847263;881153;0.01;0.04;0.04;21;44
+Wolfratshausen;Freistaat Bayern;598901;622857;629085;0.03;0.04;0.06;12;33
+Horn-Bad Meinberg;Nordrhein-Westfalen;570407;576111;599155;0.03;0.05;0.07;15;62
+Mühldorf a.Inn;Freistaat Bayern;619281;637859;637859;0.03;0.05;0.07;11;18
+Kolbermoor;Freistaat Bayern;526573;547635;585970;0.04;0.05;0.07;9;33
+Wittlich;Rheinland-Pfalz;482306;516067;505746;0.03;0.03;0.04;11;17
+Alzey;Rheinland-Pfalz;140084;137282;146892;0.03;0.06;0.07;18;44
+Schkeuditz;Freistaat Sachsen;123495;124729;122235;0.03;0.04;0.06;16;30
+Nidda;Hessen;641326;647739;693081;0.03;0.04;0.05;19;68
+Bad Münder am Deister;Niedersachsen;278011;294691;294691;0.01;0.04;0.05;5;26
+Bad Tölz;Freistaat Bayern;660613;654006;660546;0.05;0.07;0.08;6;49
+Uetersen;Schleswig-Holstein;367609;360256;381872;0.03;0.04;0.05;14;27
+Zossen;Brandenburg;589051;624394;649369;0.01;0.04;0.05;19;25
+Kronberg im Taunus;Hessen;625356;625356;650370;0.03;0.04;0.04;19;56
+Bad Saulgau;Baden-Württemberg;338704;342091;335249;0.01;0.02;0.02;12;26
+Aue;Freistaat Sachsen;877813;921703;921703;0.03;0.05;0.07;15;62
+Weißenburg;Freistaat Bayern;264706;272647;275373;0.02;0.05;0.07;19;29
+Sachsenheim;Baden-Württemberg;302703;305730;302672;0.03;0.06;0.08;9;63
+Finsterwalde;Brandenburg;875836;910869;965521;0.03;0.04;0.04;18;27
+Eltville am Rhein;Hessen;473644;502062;497042;0.01;0.04;0.04;22;50
+Sinzig;Rheinland-Pfalz;825103;808600;808600;0.02;0.02;0.04;13;29
+Sulzbach/ Saar;Saarland;944803;935354;991476;0.03;0.04;0.05;12;46
+Moosburg a.d.Isar;Freistaat Bayern;662861;689375;689375;0.04;0.06;0.08;22;41
+Kronach;Freistaat Bayern;997102;1066899;1077568;0.04;0.06;0.08;17;22
+Bad Wildungen;Hessen;865654;908936;945294;0.01;0.02;0.02;20;34
+Bad Reichenhall;Freistaat Bayern;138367;135599;132887;0.05;0.06;0.07;17;30
+Marktredwitz;Freistaat Bayern;166418;169746;179931;0.04;0.06;0.08;13;52
+Kierspe;Nordrhein-Westfalen;504987;510036;515137;0.03;0.06;0.08;6;19
+Wörth am Rhein;Rheinland-Pfalz;384327;407386;427755;0.02;0.05;0.06;8;35
+Lauchhammer;Brandenburg;943982;972301;991747;0.01;0.01;0.01;9;42
+Renningen;Baden-Württemberg;950216;931211;921899;0.01;0.01;0.03;13;47
+Eutin;Schleswig-Holstein;561197;594868;594868;0.01;0.04;0.05;16;58
+Wassenberg;Nordrhein-Westfalen;348161;344679;365360;0.03;0.04;0.05;11;61
+Kamenz;Freistaat Sachsen;619517;613321;650121;0.02;0.03;0.04;7;43
+Gescher;Nordrhein-Westfalen;350525;343514;357255;0.02;0.02;0.03;20;66
+Bendorf;Rheinland-Pfalz;418240;447516;443041;0.03;0.03;0.05;10;43
+Reinheim;Hessen;167437;175808;184599;0.01;0.02;0.04;19;16
+Brakel;Nordrhein-Westfalen;268823;276887;282425;0.02;0.04;0.04;20;64
+Oberasbach;Freistaat Bayern;629032;654193;699986;0.01;0.03;0.04;7;65
+Cham;Freistaat Bayern;920450;902041;902041;0.04;0.07;0.08;15;20
+Wurzen;Freistaat Sachsen;249305;259277;256684;0.02;0.04;0.04;7;48
+Lübbenau;Brandenburg;152366;163031;169552;0.03;0.03;0.03;21;69
+Halver;Nordrhein-Westfalen;754261;754261;754261;0.01;0.02;0.03;19;67
+Hochheim am Main;Hessen;239768;249358;249358;0.01;0.01;0.03;12;46
+Großenhain;Freistaat Sachsen;169208;172592;170866;0.02;0.02;0.03;19;27
+Schlüchtern;Hessen;460724;465331;460677;0.01;0.04;0.05;6;56
+Bad Säckingen;Baden-Württemberg;305171;305171;302119;0.02;0.04;0.06;13;19
+Eilenburg;Freistaat Sachsen;765557;796179;843950;0.03;0.04;0.04;16;41
+Oerlinghausen;Nordrhein-Westfalen;435787;457576;480455;0.02;0.02;0.02;11;48
+Heilbad Heiligenstadt;Freistaat Thüringen;535858;557292;579584;0.01;0.03;0.05;22;27
+Alsfeld;Hessen;613410;625678;644448;0.03;0.06;0.06;15;69
+Bad Krozingen;Baden-Württemberg;357684;361260;379323;0.02;0.02;0.02;7;42
+Thale;Sachsen-Anhalt;605757;605757;611814;0.02;0.04;0.06;18;28
+Neustadt in Holstein;Schleswig-Holstein;750490;757994;757994;0.01;0.02;0.04;12;58
+Löbau;Freistaat Sachsen;802019;858160;883905;0.02;0.03;0.05;22;18
+Stockach;Baden-Württemberg;942001;989101;998992;0.02;0.05;0.07;17;59
+Michelstadt;Hessen;470428;470428;465723;0.02;0.04;0.06;19;40
+Wadern;Saarland;960053;940851;950260;0.01;0.01;0.01;12;41
+Diepholz;Niedersachsen;566858;566858;589532;0.02;0.05;0.07;6;68
+Nauen;Brandenburg;648582;655067;694371;0.01;0.04;0.05;21;43
+Templin;Brandenburg;289333;292226;312682;0.03;0.03;0.04;16;67
+Illertissen;Freistaat Bayern;540218;529413;534707;0.03;0.06;0.07;18;33
+Bobingen;Freistaat Bayern;711107;760884;806537;0.03;0.04;0.06;19;61
+Munster;Niedersachsen;876719;929322;975788;0.05;0.07;0.08;16;38
+Damme;Niedersachsen;766453;797111;781168;0.02;0.05;0.07;15;69
+Sigmaringen;Baden-Württemberg;222191;237744;254386;0.01;0.03;0.05;13;13
+Heidenau;Freistaat Sachsen;188508;199818;199818;0.01;0.02;0.03;20;64
+Zeulenroda-Triebes;Freistaat Thüringen;815948;815948;832266;0.01;0.03;0.04;22;42
+Meerane;Freistaat Sachsen;633935;627595;652699;0.01;0.04;0.04;13;33
+Vilshofen an der Donau;Freistaat Bayern;408326;436908;445646;0.05;0.06;0.08;15;60
+Bad Arolsen;Hessen;357130;367843;360487;0.03;0.04;0.06;15;32
+Blomberg;Nordrhein-Westfalen;501422;501422;521478;0.03;0.03;0.03;9;35
+Glinde;Schleswig-Holstein;135742;139814;138416;0.01;0.02;0.03;8;23
+Kirchhain;Hessen;175369;185891;184032;0.03;0.04;0.06;14;59
+Penzberg;Freistaat Bayern;488171;502816;527956;0.03;0.06;0.07;20;48
+Gunzenhausen;Freistaat Bayern;611779;605661;605661;0.05;0.06;0.08;7;56
+Remagen;Rheinland-Pfalz;554339;570969;605227;0.02;0.04;0.04;13;36
+Ribnitz-Damgarten;Mecklenburg-Vorpommern;671805;712113;747718;0.01;0.04;0.05;22;60
+Babenhausen;Hessen;700331;735347;764761;0.01;0.02;0.04;20;11
+Hünfeld;Hessen;858972;910510;956035;0.03;0.04;0.06;18;25
+Selb;Freistaat Bayern;208078;214320;227179;0.05;0.08;0.1;11;21
+Schrobenhausen;Freistaat Bayern;118165;124073;125313;0.03;0.04;0.05;19;26
+Wendlingen am Neckar;Baden-Württemberg;728538;728538;772250;0.01;0.02;0.02;8;49
+Bad Salzungen;Freistaat Thüringen;439602;470374;489189;0.01;0.03;0.04;6;31
+Neustadt b.Coburg;Freistaat Bayern;875679;893192;884260;0.05;0.07;0.09;6;63
+Hohenstein-Ernstthal;Freistaat Sachsen;717881;710702;724916;0.02;0.04;0.06;21;33
+Königslutter am Elm;Niedersachsen;217764;213408;215542;0.03;0.04;0.05;16;14
+Bassum;Niedersachsen;399863;423854;423854;0.05;0.08;0.09;12;32
+Freilassing;Freistaat Bayern;335223;328518;348229;0.01;0.04;0.06;13;50
+Boppard;Rheinland-Pfalz;504849;525042;556545;0.02;0.03;0.05;14;18
+Frankenberg;Freistaat Sachsen;585735;574020;591240;0.02;0.02;0.03;10;17
+Bad Segeberg;Schleswig-Holstein;146438;149366;155341;0.01;0.04;0.04;18;56
+Lohr;Freistaat Bayern;441496;445910;463747;0.03;0.04;0.05;7;19
+Preetz;Schleswig-Holstein;460883;451665;447148;0.03;0.05;0.06;18;48
+Hofgeismar;Hessen;209055;215326;226092;0.02;0.02;0.04;14;18
+Hückeswagen;Nordrhein-Westfalen;606253;606253;636565;0.02;0.05;0.05;8;32
+Sandersdorf-Brehna;Sachsen-Anhalt;191209;202681;212815;0.01;0.03;0.05;14;38
+Königstein im Taunus;Hessen;641693;686611;700343;0.01;0.01;0.02;18;29
+Rahden;Nordrhein-Westfalen;170045;171745;173462;0.02;0.02;0.03;5;53
+Freiberg am Neckar;Baden-Württemberg;230305;237214;251446;0.01;0.04;0.05;12;28
+Erwitte;Nordrhein-Westfalen;208318;210401;212505;0.03;0.06;0.07;6;18
+Brake;Niedersachsen;861801;896273;878347;0.03;0.06;0.08;16;21
+Hilchenbach;Nordrhein-Westfalen;305630;302573;317702;0.01;0.02;0.02;12;22
+Mittweida;Freistaat Sachsen;908651;954083;1020869;0.01;0.02;0.03;8;65
+Weener;Niedersachsen;979713;1009104;1079741;0.01;0.04;0.06;20;47
+Genthin;Sachsen-Anhalt;379139;375347;386608;0.01;0.01;0.02;13;26
+Bad Neustadt a.d.Saale;Freistaat Bayern;876107;858584;884342;0.01;0.03;0.04;7;21
+Bürstadt;Hessen;329937;326637;323371;0.01;0.03;0.04;6;20
+Bad Bentheim;Niedersachsen;944120;1010208;1030412;0.05;0.07;0.08;17;31
+Marbach am Neckar;Baden-Württemberg;394431;422041;426261;0.02;0.05;0.05;11;10
+Schneeberg;Freistaat Sachsen;439829;457422;489441;0.01;0.01;0.01;14;58
+Kelheim;Freistaat Bayern;454591;472774;501141;0.05;0.06;0.07;22;20
+Oschatz;Freistaat Sachsen;663426;656791;689631;0.02;0.04;0.05;22;40
+Straelen;Nordrhein-Westfalen;452437;466010;493970;0.02;0.05;0.05;10;52
+Garching;Freistaat Bayern;439277;434884;456628;0.02;0.03;0.04;21;59
+Wittstock;Brandenburg;604632;592539;628091;0.01;0.01;0.02;22;10
+Witzenhausen;Hessen;670401;656992;643853;0.02;0.02;0.04;12;52
+Altdorf b.Nürnberg;Freistaat Bayern;175534;179044;175463;0.02;0.05;0.07;12;65
+Ebersbach an der Fils;Baden-Württemberg;766608;804938;788839;0.01;0.02;0.04;6;55
+Drensteinfurt;Nordrhein-Westfalen;501133;501133;536212;0.03;0.04;0.04;10;51
+Trossingen;Baden-Württemberg;272436;291506;300251;0.03;0.03;0.03;11;40
+Brackenheim;Baden-Württemberg;907498;889348;889348;0.01;0.01;0.03;22;54
+Dieburg;Hessen;488426;488426;493310;0.01;0.02;0.02;19;55
+Olsberg;Nordrhein-Westfalen;407867;416024;440985;0.03;0.04;0.06;9;58
+Bad Lippspringe;Nordrhein-Westfalen;929252;957129;1004986;0.01;0.02;0.04;15;26
+Bargteheide;Schleswig-Holstein;368810;379874;383673;0.02;0.03;0.05;20;65
+Ober-Ramstadt;Hessen;876722;929325;966498;0.02;0.04;0.05;15;43
+Markranstädt;Freistaat Sachsen;224938;227187;243090;0.03;0.05;0.07;14;39
+Eberbach;Baden-Württemberg;925057;989810;989810;0.01;0.02;0.02;6;18
+Spenge;Nordrhein-Westfalen;925828;925828;953602;0.03;0.04;0.06;6;25
+Ottweiler;Saarland;380586;392003;388083;0.01;0.01;0.03;12;69
+Schwarzenbek;Schleswig-Holstein;119780;128164;125601;0.03;0.05;0.07;16;20
+Karlstadt;Freistaat Bayern;118344;119527;127894;0.01;0.03;0.05;16;38
+Schriesheim;Baden-Württemberg;860557;843345;877079;0.02;0.02;0.02;19;59
+Blankenburg;Sachsen-Anhalt;739167;783517;791352;0.03;0.04;0.06;10;64
+Pocking;Freistaat Bayern;143442;144876;141978;0.04;0.06;0.08;7;49
+Kraichtal;Baden-Württemberg;801547;793531;825272;0.02;0.05;0.07;12;20
+Künzelsau;Baden-Württemberg;955040;945489;936034;0.02;0.04;0.06;18;16
+Uslar;Niedersachsen;597099;597099;638895;0.02;0.05;0.07;22;51
+Neu-Anspach;Hessen;590218;613826;613826;0.01;0.01;0.03;8;64
+Raunheim;Hessen;549180;587622;575870;0.02;0.04;0.05;17;49
+Stadtbergen;Freistaat Bayern;639088;639088;677433;0.03;0.06;0.07;10;21
+Walldorf;Baden-Württemberg;518879;508501;498331;0.02;0.04;0.05;5;51
+Eppelheim;Baden-Württemberg;730513;767038;790049;0.02;0.02;0.04;15;40
+Schwalbach am Taunus;Hessen;648765;655252;694567;0.01;0.04;0.06;19;12
+Lauda-Königshofen;Baden-Württemberg;757802;750223;787735;0.02;0.03;0.03;21;53
+Zerbst/Anhalt;Sachsen-Anhalt;658291;671456;705029;0.02;0.04;0.05;8;47
+Gehrden;Niedersachsen;938741;1004452;1004452;0.02;0.04;0.06;12;14
+Leuna;Sachsen-Anhalt;870889;931851;950488;0.01;0.02;0.03;20;52
+Clausthal-Zellerfeld;Niedersachsen;278230;272665;278118;0.01;0.02;0.03;19;20
+Bad Laasphe;Nordrhein-Westfalen;593452;593452;599386;0.01;0.03;0.03;18;58
+Münsingen;Baden-Württemberg;352379;345331;352238;0.01;0.03;0.05;10;43
+Angermünde;Brandenburg;188578;198006;196026;0.01;0.01;0.01;14;45
+Oberndorf am Neckar;Baden-Württemberg;754076;806861;790724;0.02;0.05;0.07;16;58
+Markgröningen;Baden-Württemberg;237798;252065;257107;0.03;0.05;0.06;18;32
+Fritzlar;Hessen;760402;806026;854387;0.03;0.03;0.03;17;41
+Isny;Baden-Württemberg;946469;955933;936815;0.03;0.03;0.05;22;68
+Hettstedt;Sachsen-Anhalt;813025;796764;844570;0.01;0.01;0.02;7;15
+Gernsbach;Baden-Württemberg;127005;127005;129545;0.01;0.02;0.02;11;11
+Breisach am Rhein;Baden-Württemberg;832560;849211;857703;0.02;0.03;0.04;16;32
+Langenau;Baden-Württemberg;353177;367304;378323;0.03;0.06;0.07;5;63
+Bad Wurzach;Baden-Württemberg;257078;269931;267232;0.02;0.05;0.05;8;22
+Taucha;Freistaat Sachsen;199915;203913;210030;0.01;0.04;0.06;6;41
+Beverungen;Nordrhein-Westfalen;896343;932196;978806;0.03;0.04;0.06;6;51
+Homberg;Hessen;808614;824786;824786;0.02;0.05;0.07;5;23
+Sassenberg;Nordrhein-Westfalen;701046;687025;687025;0.01;0.02;0.02;21;24
+Füssen;Freistaat Bayern;664844;711383;725610;0.04;0.05;0.06;22;59
+Immenstadt;Freistaat Bayern;679081;726616;733882;0.01;0.02;0.04;12;19
+Jessen;Sachsen-Anhalt;429245;437829;459721;0.01;0.04;0.05;22;18
+Bad Camberg;Hessen;750180;742678;735251;0.02;0.03;0.05;17;57
+Lübben;Brandenburg;409878;413976;418116;0.03;0.03;0.04;21;20
+Plochingen;Baden-Württemberg;691625;733122;762447;0.02;0.04;0.04;6;25
+Bergen auf Rügen;Mecklenburg-Vorpommern;954996;1021845;1001408;0.02;0.05;0.05;9;23
+Zehdenick;Brandenburg;221422;230278;234884;0.03;0.06;0.07;14;50
+Mindelheim;Freistaat Bayern;754843;754843;747294;0.04;0.05;0.06;21;46
+Herzberg am Harz;Niedersachsen;786280;786280;825594;0.01;0.02;0.03;19;16
+Bad Wörishofen;Freistaat Bayern;492939;522515;527740;0.05;0.07;0.08;19;52
+Mainburg;Freistaat Bayern;873477;917150;926322;0.01;0.03;0.04;5;11
+Lauterbach;Hessen;615172;621323;633750;0.03;0.04;0.04;13;45
+Murrhardt;Baden-Württemberg;380006;387606;391482;0.01;0.02;0.03;10;30
+Neustadt;Freistaat Sachsen;452698;466278;489592;0.03;0.03;0.03;22;47
+Kalkar;Nordrhein-Westfalen;461678;470911;503875;0.03;0.06;0.07;6;27
+Pattensen;Niedersachsen;563388;563388;597191;0.03;0.05;0.06;19;65
+Neckargemünd;Baden-Württemberg;500880;520915;546960;0.01;0.03;0.05;5;43
+Bebra;Hessen;751829;789420;781526;0.03;0.03;0.04;6;24
+Jever;Niedersachsen;111648;114997;112697;0.04;0.05;0.07;13;53
+Grünberg;Hessen;556268;584081;624967;0.02;0.02;0.02;16;69
+Stein;Freistaat Bayern;965287;1013551;1064228;0.02;0.04;0.05;22;33
+Eichstätt;Freistaat Bayern;384996;388845;381069;0.04;0.07;0.09;19;17
+Bad Salzdetfurth;Niedersachsen;662971;696119;717003;0.02;0.05;0.07;19;38
+Winterberg;Nordrhein-Westfalen;116399;119890;125885;0.02;0.03;0.05;13;16
+Uhingen;Baden-Württemberg;550477;539467;544862;0.01;0.03;0.03;18;43
+Dorfen;Freistaat Bayern;658493;704587;753908;0.01;0.03;0.04;17;38
+Ratzeburg;Schleswig-Holstein;470442;479850;503843;0.01;0.03;0.04;12;52
+Bad Bramstedt;Schleswig-Holstein;988721;968946;968946;0.03;0.06;0.07;11;30
+Aßlar;Hessen;218758;216570;218736;0.02;0.03;0.03;9;17
+Wilsdruff;Freistaat Sachsen;452233;443188;474211;0.03;0.04;0.05;13;10
+Rotenburg;Hessen;309596;318883;322072;0.01;0.02;0.04;11;36
+Pegnitz;Freistaat Bayern;310481;307376;316597;0.04;0.05;0.07;8;30
+Schwentinental;Schleswig-Holstein;521948;548045;542564;0.03;0.04;0.06;13;54
+Linnich;Nordrhein-Westfalen;186409;186409;188273;0.02;0.04;0.05;15;24
+Bad Soden-Salmünster;Hessen;972549;1001725;1001725;0.02;0.05;0.07;5;19
+Melsungen;Hessen;823739;856688;890956;0.01;0.04;0.05;8;40
+Schleiden;Nordrhein-Westfalen;540211;567221;567221;0.03;0.05;0.06;22;29
+Solms;Hessen;784661;823894;881566;0.02;0.02;0.03;12;10
+Zeven;Niedersachsen;772499;780223;827037;0.03;0.06;0.07;20;10
+Marienberg;Freistaat Sachsen;552268;541222;579108;0.02;0.03;0.04;21;53
+Kelsterbach;Hessen;565137;604696;616790;0.03;0.04;0.06;5;59
+Langenselbold;Hessen;871700;889134;915808;0.03;0.03;0.04;8;10
+Lich;Hessen;430980;422360;430807;0.03;0.03;0.03;18;21
+Rödental;Freistaat Bayern;788234;803998;844198;0.01;0.04;0.05;9;34
+Erbach;Hessen;385921;412935;412935;0.01;0.01;0.01;9;22
+Haßfurt;Freistaat Bayern;762241;785108;840065;0.05;0.08;0.09;8;63
+Wiesmoor;Niedersachsen;257726;275766;278524;0.02;0.04;0.05;9;35
+Sendenhorst;Nordrhein-Westfalen;627273;658636;678395;0.03;0.04;0.06;19;65
+Biedenkopf;Hessen;534350;555724;594624;0.03;0.04;0.04;19;14
+Steinheim;Nordrhein-Westfalen;599175;623142;616910;0.03;0.03;0.05;17;59
+Weißenhorn;Freistaat Bayern;323291;329756;336351;0.01;0.02;0.04;6;21
+Eppstein;Hessen;904823;922919;978294;0.02;0.05;0.06;20;22
+Schwabmünchen;Freistaat Bayern;746223;731298;753237;0.04;0.05;0.06;15;20
+Anklam;Mecklenburg-Vorpommern;996771;1036641;1078107;0.01;0.02;0.02;7;56
+Löningen;Niedersachsen;551760;562795;551539;0.02;0.05;0.07;22;53
+Brunsbüttel;Schleswig-Holstein;310591;304379;304379;0.02;0.05;0.07;13;23
+Usingen;Hessen;470930;499185;499185;0.03;0.05;0.05;18;63
+Erbach;Baden-Württemberg;820548;861575;913269;0.03;0.06;0.06;17;52
+St. Georgen im Schwarzwald;Baden-Württemberg;285195;282343;282343;0.02;0.05;0.05;16;26
+Hilpoltstein;Freistaat Bayern;412935;408805;421069;0.05;0.08;0.09;21;55
+Weilburg;Hessen;498980;503969;529168;0.02;0.03;0.04;13;10
+Höchstadt a.d.Aisch;Freistaat Bayern;421982;426201;456035;0.01;0.04;0.05;10;69
+Tauberbischofsheim;Baden-Württemberg;237769;237769;249657;0.02;0.02;0.04;8;35
+Vöhringen;Freistaat Bayern;737767;745144;745144;0.01;0.04;0.06;20;14
+Herbrechtingen;Baden-Württemberg;404348;400304;416316;0.01;0.04;0.06;20;39
+Grünstadt;Rheinland-Pfalz;195858;205650;209763;0.02;0.03;0.04;16;9
+Asperg;Baden-Württemberg;152587;152587;151061;0.02;0.05;0.06;8;19
+Pfullendorf;Baden-Württemberg;841094;866326;909643;0.03;0.05;0.07;7;34
+Bergen;Niedersachsen;774308;766564;766564;0.01;0.03;0.05;12;21
+Preußisch Oldendorf;Nordrhein-Westfalen;739430;746824;761760;0.01;0.01;0.01;9;63
+Lorsch;Hessen;693148;700079;742084;0.01;0.03;0.05;7;37
+Fehmarn;Schleswig-Holstein;732343;717696;739227;0.01;0.04;0.05;9;39
+Pößneck;Freistaat Thüringen;824974;882722;935685;0.01;0.02;0.02;16;52
+Bad Freienwalde;Brandenburg;537861;570132;558730;0.03;0.05;0.06;12;54
+Bad Dürrheim;Baden-Württemberg;881404;907846;907846;0.03;0.04;0.04;11;10
+Tornesch;Schleswig-Holstein;603988;616067;616067;0.02;0.05;0.07;9;60
+Borken;Hessen;693683;679809;727395;0.02;0.04;0.06;12;59
+Markdorf;Baden-Württemberg;308701;321049;321049;0.02;0.05;0.07;9;46
+Gardelegen;Sachsen-Anhalt;397978;409917;418115;0.02;0.02;0.04;21;53
+Haselünne;Niedersachsen;846638;888969;888969;0.03;0.06;0.08;11;34
+Wehr;Baden-Württemberg;368798;383549;402727;0.02;0.02;0.03;7;45
+Plön;Schleswig-Holstein;594755;588807;612359;0.01;0.01;0.03;22;18
+Wolfhagen;Hessen;558570;586498;598228;0.01;0.03;0.04;15;45
+Östringen;Baden-Württemberg;799578;799578;791582;0.02;0.04;0.04;16;13
+Eggenfelden;Freistaat Bayern;402173;402173;394129;0.04;0.05;0.06;12;54
+Lichtenstein;Freistaat Sachsen;750393;757896;810949;0.03;0.03;0.03;15;19
+Quakenbrück;Niedersachsen;998831;1038784;1018008;0.02;0.03;0.05;22;35
+Treuchtlingen;Freistaat Bayern;361052;357441;371739;0.02;0.04;0.06;19;47
+Bitburg;Rheinland-Pfalz;133098;133098;137090;0.02;0.02;0.04;7;53
+Grafing;Freistaat Bayern;918334;982617;992443;0.04;0.07;0.08;15;34
+Neustadt a.d.Donau;Freistaat Bayern;571964;612001;654841;0.05;0.08;0.1;8;19
+Dinklage;Niedersachsen;666972;666972;673641;0.04;0.07;0.09;13;34
+Holzgerlingen;Baden-Württemberg;164218;170786;179326;0.01;0.04;0.06;7;39
+Jüterbog;Brandenburg;727507;742057;786580;0.01;0.04;0.04;6;31
+Pritzwalk;Brandenburg;867205;893221;920017;0.03;0.04;0.05;7;45
+Sulingen;Niedersachsen;602804;602804;590747;0.01;0.02;0.03;13;26
+Plattling;Freistaat Bayern;968875;997941;1007920;0.04;0.07;0.09;12;65
+Neutraubling;Freistaat Bayern;644246;650688;683222;0.04;0.06;0.07;19;16
+Hessisch Lichtenau;Hessen;371371;397366;397366;0.01;0.02;0.02;9;14
+Abensberg;Freistaat Bayern;988094;1057260;1057260;0.05;0.06;0.08;9;51
+Hungen;Hessen;184341;182497;178847;0.01;0.04;0.05;16;46
+Altötting;Freistaat Bayern;219846;226441;237763;0.01;0.04;0.06;22;65
+Landau a.d.Isar;Freistaat Bayern;917813;926991;936261;0.03;0.04;0.06;7;43
+Monschau;Nordrhein-Westfalen;366429;381086;373464;0.01;0.01;0.03;14;19
+Krumbach;Freistaat Bayern;634586;672661;686114;0.04;0.07;0.09;20;59
+Möckern;Sachsen-Anhalt;990521;1020236;1061046;0.02;0.03;0.05;11;16
+Burladingen;Baden-Württemberg;573303;590502;614122;0.02;0.03;0.04;17;42
+Coswig;Sachsen-Anhalt;826607;843139;834707;0.01;0.04;0.05;5;60
+Perleberg;Brandenburg;777316;761769;769387;0.01;0.01;0.02;18;68
+Montabaur;Rheinland-Pfalz;739750;761942;746703;0.01;0.03;0.05;10;36
+Twistringen;Niedersachsen;906266;969704;1008492;0.01;0.04;0.05;21;47
+Gaildorf;Baden-Württemberg;659088;705224;712276;0.01;0.04;0.04;16;20
+Langelsheim;Niedersachsen;445755;454670;459216;0.05;0.07;0.09;10;41
+Bad Urach;Baden-Württemberg;507079;542574;553426;0.02;0.02;0.02;14;64
+Philippsburg;Baden-Württemberg;723728;709253;702160;0.03;0.04;0.05;18;48
+Wächtersbach;Hessen;701723;722774;708319;0.01;0.04;0.06;20;26
+Burglengenfeld;Freistaat Bayern;130360;127752;127752;0.05;0.06;0.08;22;41
+Ludwigslust;Mecklenburg-Vorpommern;136096;145622;142710;0.01;0.04;0.06;21;63
+Hersbruck;Freistaat Bayern;199097;211042;213153;0.02;0.05;0.06;7;67
+Spaichingen;Baden-Württemberg;261831;280159;299770;0.01;0.01;0.03;12;19
+Wernau;Baden-Württemberg;391946;419382;431963;0.02;0.02;0.03;7;49
+Bad Wünnenberg;Nordrhein-Westfalen;441359;436945;441314;0.03;0.04;0.04;11;36
+Schöningen;Niedersachsen;437094;454577;468215;0.03;0.05;0.07;21;18
+Sulz am Neckar;Baden-Württemberg;190286;199800;195804;0.01;0.01;0.03;12;56
+Bopfingen;Baden-Württemberg;371057;371057;378478;0.01;0.02;0.02;7;38
+Olfen;Nordrhein-Westfalen;926435;963492;953857;0.01;0.03;0.03;7;62
+Bischofswerda;Freistaat Sachsen;839968;831568;889778;0.03;0.03;0.03;14;55
+Gladenbach;Hessen;641154;666800;660132;0.03;0.06;0.06;21;43
+Hemsbach;Baden-Württemberg;604869;604869;635112;0.03;0.06;0.07;20;20
+Wasserburg a.Inn;Freistaat Bayern;502994;528143;554550;0.01;0.04;0.06;21;47
+Neustadt a.d.Aisch;Freistaat Bayern;188416;190300;194106;0.01;0.04;0.05;16;9
+Ettenheim;Baden-Württemberg;205546;201435;201435;0.03;0.06;0.06;16;25
+Hadamar;Hessen;439718;439718;444115;0.02;0.03;0.03;21;58
+Feuchtwangen;Freistaat Bayern;338414;358718;355131;0.03;0.05;0.06;21;32
+Linden;Hessen;996923;1006892;1067305;0.01;0.02;0.02;10;45
+Drolshagen;Nordrhein-Westfalen;660267;686677;672944;0.02;0.03;0.03;11;27
+Wolmirstedt;Sachsen-Anhalt;787476;779601;826377;0.03;0.06;0.08;15;32
+Neuenrade;Nordrhein-Westfalen;821839;805402;829564;0.02;0.02;0.04;10;63
+Rosbach;Hessen;110426;115947;122904;0.02;0.02;0.04;16;55
+Buchloe;Freistaat Bayern;445055;471758;490628;0.05;0.07;0.09;14;62
+Demmin;Mecklenburg-Vorpommern;446186;477419;472644;0.01;0.01;0.01;21;51
+Oelsnitz;Freistaat Sachsen;500137;520142;525343;0.01;0.03;0.04;14;39
+Braunsbedra;Sachsen-Anhalt;489687;489687;514171;0.03;0.05;0.06;6;39
+Schmölln;Freistaat Thüringen;935895;954612;973705;0.01;0.04;0.05;12;67
+Hauzenberg;Freistaat Bayern;839908;823109;823109;0.01;0.04;0.06;20;17
+Schongau;Freistaat Bayern;425158;416654;445820;0.01;0.04;0.06;18;11
+Steinheim an der Murr;Baden-Württemberg;960844;960844;970452;0.01;0.04;0.04;6;15
+Hildburghausen;Freistaat Thüringen;337548;354425;368602;0.02;0.04;0.06;9;18
+Querfurt;Sachsen-Anhalt;937378;918630;982934;0.03;0.05;0.07;18;57
+Balve;Nordrhein-Westfalen;829355;854235;879862;0.02;0.05;0.07;21;15
+Beelitz;Brandenburg;221794;226229;233016;0.01;0.02;0.03;15;35
+Wolgast;Mecklenburg-Vorpommern;153738;155275;164591;0.02;0.04;0.05;16;16
+Neuenburg am Rhein;Baden-Württemberg;251014;261054;271496;0.03;0.06;0.08;5;47
+Blaubeuren;Baden-Württemberg;298928;307895;317132;0.01;0.01;0.01;10;12
+Stollberg;Freistaat Sachsen;864532;925049;962051;0.03;0.06;0.08;21;60
+Röthenbach a.d.Pegnitz;Freistaat Bayern;916515;953175;991302;0.02;0.03;0.04;9;66
+Hagenow;Mecklenburg-Vorpommern;643126;630263;655474;0.03;0.06;0.06;7;33
+Wittingen;Niedersachsen;207244;209316;211409;0.03;0.04;0.06;11;56
+Pfarrkirchen;Freistaat Bayern;195286;193333;193333;0.01;0.04;0.06;18;54
+Bad Windsheim;Freistaat Bayern;388901;412235;403990;0.05;0.06;0.07;7;39
+Velten;Brandenburg;366988;381667;377850;0.03;0.04;0.04;11;31
+Regen;Freistaat Bayern;346303;346303;360155;0.01;0.04;0.05;12;9
+Oestrich-Winkel;Hessen;788506;796391;836210;0.01;0.03;0.04;5;36
+Titisee-Neustadt;Baden-Württemberg;828856;828856;812278;0.01;0.02;0.04;21;41
+Zella-Mehlis;Freistaat Thüringen;796753;788785;828224;0.02;0.03;0.04;11;49
+Walldürn;Baden-Württemberg;631969;650928;650928;0.01;0.02;0.03;22;18
+Osterhofen;Freistaat Bayern;143029;145889;145889;0.03;0.05;0.07;21;34
+Besigheim;Baden-Württemberg;448836;448836;448836;0.03;0.06;0.08;11;32
+Erkner;Brandenburg;140237;144444;148777;0.01;0.02;0.03;9;56
+Burgstädt;Freistaat Sachsen;942971;942971;924111;0.01;0.03;0.04;15;32
+Trostberg;Freistaat Bayern;219210;217017;221358;0.02;0.04;0.06;20;68
+Geisenheim;Hessen;530212;551420;556934;0.03;0.03;0.04;17;58
+Hammelburg;Freistaat Bayern;807688;799611;855583;0.01;0.03;0.04;10;68
+Schüttorf;Niedersachsen;331324;331324;341263;0.03;0.04;0.05;18;58
+Weinsberg;Baden-Württemberg;295327;292373;306992;0.01;0.02;0.04;14;47
+Billerbeck;Nordrhein-Westfalen;959527;969122;949739;0.03;0.06;0.06;19;17
+Glückstadt;Schleswig-Holstein;359279;373650;388596;0.03;0.06;0.06;17;60
+Oelsnitz;Freistaat Sachsen;549240;554732;576921;0.01;0.03;0.03;14;25
+Ladenburg;Baden-Württemberg;306193;306193;312316;0.03;0.04;0.06;18;20
+Bad Iburg;Niedersachsen;694955;708854;751385;0.02;0.04;0.06;11;67
+Vilsbiburg;Freistaat Bayern;308855;311943;318182;0.01;0.02;0.04;11;41
+Bad Fallingbostel;Niedersachsen;260824;260824;279081;0.04;0.05;0.07;9;62
+Roding;Freistaat Bayern;178292;176509;174743;0.04;0.07;0.08;13;37
+Werther;Nordrhein-Westfalen;562737;602128;608149;0.03;0.06;0.06;10;33
+Dinkelsbühl;Freistaat Bayern;479112;503067;523190;0.03;0.05;0.07;21;20
+Meuselwitz;Freistaat Thüringen;248840;248840;251328;0.01;0.04;0.06;5;62
+Pasewalk;Mecklenburg-Vorpommern;448507;448507;439536;0.03;0.06;0.08;20;19
+Ebersberg;Freistaat Bayern;897024;888053;914695;0.05;0.06;0.08;6;22
+Lauenburg/ Elbe;Schleswig-Holstein;125143;132651;133978;0.01;0.02;0.03;10;32
+Bad Doberan;Mecklenburg-Vorpommern;219629;219629;226217;0.02;0.05;0.07;8;29
+Zwönitz;Freistaat Sachsen;872515;898690;961598;0.01;0.01;0.03;10;42
+Rheinau;Baden-Württemberg;657274;676992;683762;0.01;0.03;0.05;22;35
+Bad Lauterberg im Harz;Niedersachsen;424989;450488;441478;0.03;0.04;0.06;22;67
+Gommern;Sachsen-Anhalt;224587;224587;226832;0.01;0.04;0.05;10;51
+Ochsenfurt;Freistaat Bayern;420389;428796;437372;0.02;0.03;0.05;9;39
+Isselburg;Nordrhein-Westfalen;744925;744925;737475;0.03;0.06;0.07;11;21
+Belzig;Brandenburg;797301;837166;828794;0.02;0.03;0.05;12;36
+Lindenberg;Freistaat Bayern;809136;849592;883576;0.05;0.06;0.07;6;49
+Osterburg;Sachsen-Anhalt;753431;745896;775732;0.02;0.02;0.03;9;51
+Miesbach;Freistaat Bayern;234510;248580;253552;0.05;0.06;0.08;17;52
+Gengenbach;Baden-Württemberg;823304;831537;864798;0.03;0.06;0.07;18;42
+Wilkau-Haßlau;Freistaat Sachsen;610626;598413;586445;0.01;0.02;0.04;13;21
+Lorch;Baden-Württemberg;623726;642437;642437;0.03;0.04;0.05;17;38
+Eisenberg;Freistaat Thüringen;750126;795133;795133;0.02;0.04;0.06;8;24
+Welzheim;Baden-Württemberg;823658;831894;865170;0.02;0.04;0.05;14;58
+Rothenburg ob der Tauber;Freistaat Bayern;252223;254745;272577;0.03;0.05;0.07;6;36
+Schwaigern;Baden-Württemberg;502319;492272;511963;0.03;0.03;0.03;5;18
+Frohburg;Freistaat Sachsen;127399;128672;132533;0.01;0.04;0.05;10;54
+Lichtenau;Nordrhein-Westfalen;500217;520225;530630;0.02;0.05;0.07;12;30
+Altensteig;Baden-Württemberg;701821;701821;722875;0.02;0.05;0.06;19;55
+Bad Dürrenberg;Sachsen-Anhalt;844612;827719;835996;0.02;0.05;0.05;16;58
+Braunfels;Hessen;637646;663151;689677;0.02;0.05;0.07;11;46
+Schotten;Hessen;582792;606103;600042;0.02;0.05;0.07;16;28
+Münchberg;Freistaat Bayern;962018;962018;962018;0.02;0.04;0.05;8;56
+Laichingen;Baden-Württemberg;503152;538372;570674;0.01;0.03;0.05;12;64
+Steinau an der Straße;Hessen;329961;326661;349527;0.03;0.03;0.03;15;54
+Friedrichsthal;Saarland;840514;832108;832108;0.02;0.04;0.04;8;22
+Marktheidenfeld;Freistaat Bayern;701793;743900;736461;0.04;0.06;0.08;9;19
+Lauffen am Neckar;Baden-Württemberg;384976;377276;399913;0.02;0.03;0.03;10;37
+Donzdorf;Baden-Württemberg;680059;673258;706921;0.03;0.03;0.03;21;27
+Mülheim-Kärlich;Rheinland-Pfalz;567512;590212;625625;0.03;0.05;0.06;5;16
+Grevesmühlen;Mecklenburg-Vorpommern;326128;322866;335781;0.02;0.04;0.06;21;42
+Vienenburg;Niedersachsen;886071;886071;903792;0.05;0.07;0.09;20;57
+Bad Schwalbach;Hessen;339766;332970;329640;0.02;0.04;0.05;10;69
+Haigerloch;Baden-Württemberg;861140;921419;967490;0.03;0.04;0.04;16;41
+Waltershausen;Freistaat Thüringen;668726;715536;758469;0.01;0.02;0.03;19;11
+Lauingen;Freistaat Bayern;609445;609445;603350;0.02;0.04;0.06;19;57
+Gemünden;Freistaat Bayern;892748;946312;1012554;0.01;0.03;0.05;15;66
+Nideggen;Nordrhein-Westfalen;343987;368066;360704;0.02;0.02;0.04;22;61
+Brand-Erbisdorf;Freistaat Sachsen;325637;322380;332052;0.01;0.01;0.03;7;45
+Diez;Rheinland-Pfalz;502148;502148;502148;0.01;0.04;0.06;7;38
+Bockenem;Niedersachsen;931071;959003;1026133;0.01;0.03;0.05;6;17
+Rüthen;Nordrhein-Westfalen;718778;725965;725965;0.01;0.02;0.02;19;20
+Felsberg;Hessen;625569;669358;702826;0.01;0.02;0.04;20;39
+Boizenburg/ Elbe;Mecklenburg-Vorpommern;404383;412470;441343;0.01;0.01;0.01;15;13
+Bad Wildbad;Baden-Württemberg;751480;766509;758844;0.03;0.05;0.07;19;69
+Grimmen;Mecklenburg-Vorpommern;944258;944258;1010356;0.03;0.05;0.05;20;45
+Meßstetten;Baden-Württemberg;828908;870353;905167;0.03;0.06;0.06;16;25
+Bad Staffelstein;Freistaat Bayern;830683;863910;872549;0.04;0.05;0.07;6;51
+Lügde;Nordrhein-Westfalen;668141;661459;687917;0.03;0.03;0.03;6;57
+Sassnitz;Mecklenburg-Vorpommern;787797;803552;851766;0.03;0.05;0.07;6;21
+Zschopau;Freistaat Sachsen;454705;463799;477713;0.02;0.03;0.03;6;39
+Bad Gandersheim;Niedersachsen;711300;718413;718413;0.05;0.07;0.08;17;27
+Maxhütte-Haidhof;Freistaat Bayern;786368;825686;833943;0.04;0.06;0.08;13;45
+Bad Nenndorf;Niedersachsen;325884;325884;329142;0.03;0.06;0.07;15;19
+Rehburg-Loccum;Niedersachsen;616197;634682;660070;0.01;0.02;0.04;15;23
+Waldkirchen;Freistaat Bayern;379333;379333;375539;0.04;0.06;0.08;8;63
+Großräschen;Brandenburg;840876;891328;926981;0.01;0.01;0.03;19;59
+Langenzenn;Freistaat Bayern;292951;301739;307774;0.03;0.06;0.08;7;37
+Dassel;Niedersachsen;126563;127828;127828;0.05;0.08;0.09;17;44
+Dippoldiswalde;Freistaat Sachsen;565566;571221;582646;0.03;0.06;0.06;19;56
+Visselhövede;Niedersachsen;561756;561756;601078;0.03;0.04;0.05;19;49
+Riedlingen;Baden-Württemberg;189588;195275;197228;0.03;0.04;0.05;13;36
+Luckau;Brandenburg;239253;244038;251359;0.03;0.03;0.03;21;13
+Rutesheim;Baden-Württemberg;309150;309150;315333;0.01;0.02;0.02;21;47
+Blumberg;Baden-Württemberg;895946;922824;941280;0.03;0.06;0.07;18;45
+Engen;Baden-Württemberg;495462;485552;509830;0.03;0.05;0.06;12;45
+Niesky;Freistaat Sachsen;369448;391614;407279;0.01;0.04;0.05;12;31
+Calbe;Sachsen-Anhalt;696508;703473;689403;0.02;0.02;0.04;15;12
+Büdelsdorf;Schleswig-Holstein;664620;664620;664620;0.02;0.05;0.05;18;24
+Betzdorf;Rheinland-Pfalz;593590;611397;605283;0.01;0.04;0.04;8;36
+Bogen;Freistaat Bayern;359369;366556;373887;0.03;0.06;0.08;8;33
+Herzberg;Brandenburg;920730;985181;995032;0.02;0.05;0.05;7;41
+Ueckermünde;Mecklenburg-Vorpommern;450492;445987;463826;0.03;0.06;0.07;9;16
+Olbernhau;Freistaat Sachsen;110809;108592;111850;0.02;0.03;0.03;14;47
+Heubach;Baden-Württemberg;425129;433631;459649;0.03;0.06;0.06;8;10
+Bad Liebenwerda;Brandenburg;340347;333540;340210;0.02;0.02;0.02;15;63
+Laubach;Hessen;315228;337293;350785;0.01;0.01;0.01;14;16
+Steinbach;Hessen;264180;269463;282936;0.02;0.02;0.04;8;31
+Flöha;Freistaat Sachsen;352070;376714;369180;0.03;0.04;0.04;16;61
+Mengen;Baden-Württemberg;561893;573130;613250;0.01;0.03;0.04;9;47
+Geisenfeld;Freistaat Bayern;186692;188558;201758;0.03;0.06;0.08;5;14
+Wildberg;Baden-Württemberg;843742;843742;843742;0.02;0.04;0.06;13;17
+Herbolzheim;Baden-Württemberg;266874;266874;274880;0.01;0.03;0.04;9;27
+Süßen;Baden-Württemberg;338425;351962;362520;0.02;0.05;0.05;19;55
+Zörbig;Sachsen-Anhalt;285989;297428;306351;0.02;0.03;0.03;19;23
+Mansfeld;Sachsen-Anhalt;457355;448207;479582;0.03;0.06;0.07;10;65
+Erlenbach;Freistaat Bayern;606476;606476;618605;0.01;0.02;0.03;8;65
+Lollar;Hessen;626422;645214;664571;0.01;0.01;0.03;14;58
+Aulendorf;Baden-Württemberg;236945;234575;236921;0.03;0.03;0.05;17;55
+Schlitz;Hessen;469316;492781;492781;0.03;0.06;0.08;17;35
+Zwiesel;Freistaat Bayern;488722;478947;474158;0.03;0.05;0.06;11;43
+Fürstenau;Niedersachsen;994475;974585;974585;0.04;0.07;0.09;22;38
+Penig;Freistaat Sachsen;485856;505290;510343;0.02;0.04;0.04;5;53
+Simbach a.Inn;Freistaat Bayern;156597;164426;171003;0.05;0.06;0.08;12;32
+Ilsenburg;Sachsen-Anhalt;873043;916695;925862;0.03;0.05;0.05;21;10
+Bad Orb;Hessen;815850;848484;882423;0.03;0.06;0.08;17;60
+Aichtal;Baden-Württemberg;253467;271209;284770;0.02;0.02;0.02;20;57
+Barmstedt;Schleswig-Holstein;486503;501098;506109;0.03;0.05;0.06;8;57
+Neuenhaus;Niedersachsen;186932;192539;196390;0.03;0.06;0.08;21;16
+Oldenburg in Holstein;Schleswig-Holstein;111103;111103;118880;0.03;0.04;0.04;16;68
+Kyritz;Brandenburg;493823;483946;483946;0.02;0.02;0.03;14;33
+Kappeln;Schleswig-Holstein;663451;676720;690254;0.01;0.01;0.03;18;48
+Gernsheim, Schöfferstadt;Hessen;145695;154436;152892;0.02;0.05;0.05;6;32
+Bleckede;Niedersachsen;725648;761930;807646;0.01;0.02;0.04;15;55
+Rüdesheim am Rhein;Hessen;663889;657250;683540;0.01;0.04;0.06;12;26
+Lößnitz;Freistaat Sachsen;871241;897378;924299;0.03;0.05;0.06;8;49
+Neuenstadt am Kocher;Baden-Württemberg;834802;843150;902170;0.03;0.03;0.03;8;11
+Brandis;Freistaat Sachsen;158796;163559;163559;0.03;0.05;0.05;18;53
+Wunsiedel;Freistaat Bayern;296926;296926;311772;0.01;0.03;0.05;5;44
+Lüchow;Niedersachsen;565548;559892;571090;0.01;0.02;0.04;19;32
+Runkel;Hessen;261475;256245;274182;0.01;0.03;0.05;16;10
+Weilheim an der Teck;Baden-Württemberg;725314;776085;776085;0.02;0.04;0.05;16;20
+Rehau;Freistaat Bayern;695458;723276;723276;0.04;0.05;0.06;8;55
+Lauta;Freistaat Sachsen;243753;255940;266178;0.01;0.01;0.02;11;67
+Eisenberg;Rheinland-Pfalz;937010;946380;936916;0.03;0.05;0.05;9;20
+Torgelow;Mecklenburg-Vorpommern;826116;826116;834377;0.02;0.03;0.03;18;61
+Obernkirchen;Niedersachsen;102723;107859;106780;0.04;0.06;0.07;18;21
+Bad Liebenzell;Baden-Württemberg;296094;313859;332691;0.02;0.03;0.03;21;28
+Bad König;Hessen;422895;439810;466199;0.01;0.04;0.05;21;56
+Miltenberg;Freistaat Bayern;282949;294266;288381;0.01;0.04;0.05;19;51
+Breckerfeld;Nordrhein-Westfalen;419193;448536;444051;0.03;0.04;0.05;15;18
+Tangermünde;Sachsen-Anhalt;628130;665817;699108;0.01;0.03;0.03;17;65
+Trebbin;Brandenburg;115652;116808;124985;0.01;0.04;0.04;12;19
+Dissen am Teutoburger Wald;Niedersachsen;184073;180391;182195;0.04;0.06;0.08;15;53
+Höhr-Grenzhausen;Rheinland-Pfalz;368836;368836;383589;0.02;0.02;0.03;6;21
+Furtwangen im Schwarzwald;Baden-Württemberg;903665;948848;929871;0.01;0.01;0.02;19;12
+Niddatal;Hessen;644605;683281;724278;0.01;0.04;0.05;9;35
+Burgau;Freistaat Bayern;701949;708968;751506;0.03;0.06;0.08;13;12
+Niebüll;Schleswig-Holstein;886637;868904;860215;0.02;0.05;0.06;11;51
+Tecklenburg;Nordrhein-Westfalen;434470;430125;430125;0.03;0.06;0.08;21;10
+Doberlug-Kirchhain;Brandenburg;278129;272566;288920;0.02;0.03;0.03;20;38
+Wahlstedt;Schleswig-Holstein;429584;429584;459654;0.01;0.01;0.01;10;60
+Heiligenhafen;Schleswig-Holstein;405417;433796;438134;0.02;0.02;0.04;14;47
+Kenzingen;Baden-Württemberg;504272;499229;524190;0.01;0.02;0.04;9;57
+Wetter;Hessen;392522;416073;420234;0.03;0.05;0.06;6;23
+Borgentreich;Nordrhein-Westfalen;251279;248766;253741;0.02;0.02;0.04;13;28
+Bad Ems;Rheinland-Pfalz;600198;606199;618323;0.03;0.03;0.04;6;9
+Volkach;Freistaat Bayern;185115;196221;202108;0.02;0.05;0.06;14;52
+Bad Schmiedeberg;Sachsen-Anhalt;884414;937478;956228;0.01;0.04;0.04;18;44
+Elsfleth;Niedersachsen;661469;707771;707771;0.05;0.08;0.1;17;53
+Tirschenreuth;Freistaat Bayern;177901;176121;186689;0.02;0.04;0.05;10;38
+Töging a.Inn;Freistaat Bayern;332169;355420;369637;0.02;0.04;0.05;17;31
+Storkow;Brandenburg;877013;912093;957698;0.02;0.03;0.03;22;16
+Ortenberg;Hessen;605324;599270;629234;0.02;0.02;0.04;20;12
+Premnitz;Brandenburg;461108;470330;493846;0.02;0.05;0.07;14;15
+Endingen am Kaiserstuhl;Baden-Württemberg;484144;508351;518518;0.02;0.04;0.04;7;33
+Elze;Niedersachsen;405423;425694;434208;0.02;0.05;0.06;15;22
+Gudensberg;Hessen;908824;963353;953719;0.02;0.04;0.06;15;28
+Heilsbronn;Freistaat Bayern;260777;279031;290192;0.04;0.05;0.07;13;24
+Furth im Wald;Freistaat Bayern;785899;801616;849713;0.01;0.02;0.03;22;22
+Barntrup;Nordrhein-Westfalen;162933;169450;167755;0.03;0.05;0.05;19;10
+Teterow;Mecklenburg-Vorpommern;632877;632877;620219;0.01;0.01;0.03;14;51
+Bad Frankenhausen/Kyffhäuser;Freistaat Thüringen;722429;751326;766352;0.01;0.01;0.01;18;9
+Hohenmölsen;Sachsen-Anhalt;835260;893728;920540;0.03;0.04;0.06;7;66
+Helmbrechts;Freistaat Bayern;524573;514081;503799;0.04;0.06;0.07;8;14
+Hainichen;Freistaat Sachsen;986895;996763;1056569;0.03;0.06;0.07;5;36
+Nieder-Olm;Rheinland-Pfalz;546021;584242;578400;0.03;0.04;0.04;12;40
+Kirchberg;Freistaat Sachsen;604581;598535;622476;0.01;0.04;0.04;8;69
+Mücheln;Sachsen-Anhalt;192205;203737;211886;0.01;0.04;0.05;22;13
+Schieder-Schwalenberg;Nordrhein-Westfalen;913222;940618;1006461;0.02;0.02;0.04;16;62
+Auerbach;Freistaat Bayern;583684;612868;618996;0.02;0.05;0.06;20;42
+Vetschau;Brandenburg;901726;901726;946812;0.01;0.03;0.03;9;22
+Wertingen;Freistaat Bayern;307774;317007;323347;0.04;0.05;0.07;5;15
+Neustadt;Hessen;757275;779993;795593;0.02;0.04;0.06;12;60
+Bad Breisig;Rheinland-Pfalz;340646;357678;354101;0.03;0.05;0.06;21;41
+Ochsenhausen;Baden-Württemberg;251243;253755;271518;0.02;0.02;0.02;22;24
+Falkenstein;Freistaat Sachsen;193210;206734;202600;0.03;0.06;0.07;6;40
+Elsterwerda;Brandenburg;953692;953692;1010913;0.01;0.04;0.04;5;30
+Kirchen;Rheinland-Pfalz;870395;879098;887889;0.03;0.03;0.04;12;61
+Zwenkau;Freistaat Sachsen;482916;473257;463792;0.03;0.04;0.05;12;23
+Barth;Mecklenburg-Vorpommern;847304;838830;838830;0.03;0.05;0.06;13;66
+Altlandsberg;Brandenburg;689577;730951;716332;0.01;0.04;0.04;22;20
+Schleiz;Freistaat Thüringen;298719;295731;307561;0.02;0.03;0.05;13;55
+Mittenwalde;Brandenburg;378568;378568;393710;0.01;0.02;0.03;11;64
+Hemmoor;Niedersachsen;190753;202198;216352;0.03;0.06;0.08;8;59
+Borgholzhausen;Nordrhein-Westfalen;773019;757558;803012;0.02;0.02;0.03;22;68
+Beilngries;Freistaat Bayern;681436;729136;780176;0.03;0.05;0.07;5;36
+Calau;Brandenburg;518831;524019;518779;0.03;0.04;0.06;11;15
+Mendig;Rheinland-Pfalz;973703;954228;982855;0.02;0.05;0.05;19;40
+Laufenburg;Baden-Württemberg;409022;413112;404849;0.01;0.04;0.05;9;24
+Florstadt;Hessen;220152;222353;231247;0.01;0.01;0.02;6;35
+Bad Bevensen;Niedersachsen;655526;642415;661687;0.02;0.04;0.05;12;69
+Treuen;Freistaat Sachsen;597850;615785;621943;0.03;0.03;0.03;22;29
+Grafenau;Freistaat Bayern;387389;379641;387234;0.03;0.05;0.07;22;38
+Landstuhl;Rheinland-Pfalz;315065;321366;337434;0.03;0.06;0.07;22;41
+Obernburg;Freistaat Bayern;557341;562914;602318;0.02;0.05;0.07;15;67
+Willebadessen;Nordrhein-Westfalen;654445;693711;700648;0.03;0.06;0.06;15;21
+Berching;Freistaat Bayern;129376;133257;130592;0.05;0.06;0.08;5;14
+Rheinsberg;Brandenburg;567222;589910;584011;0.03;0.04;0.06;8;63
+Sebnitz;Freistaat Sachsen;433149;446143;463989;0.03;0.06;0.08;9;48
+Naunhof;Freistaat Sachsen;377011;392091;411696;0.03;0.04;0.05;15;20
+Hallstadt;Freistaat Bayern;113110;121027;124658;0.05;0.06;0.08;9;27
+Bad Lausick;Freistaat Sachsen;667477;687501;735626;0.01;0.03;0.04;19;45
+Freystadt;Freistaat Bayern;459824;473618;473618;0.05;0.06;0.07;17;23
+Hemau;Freistaat Bayern;175236;183997;182157;0.04;0.05;0.06;13;23
+Waldenbuch;Baden-Württemberg;383191;390854;406489;0.01;0.03;0.05;13;31
+Rain;Freistaat Bayern;677930;718605;725791;0.01;0.04;0.06;21;54
+Reinfeld;Schleswig-Holstein;456633;470331;465628;0.02;0.02;0.04;11;25
+Waldheim;Freistaat Sachsen;705078;754433;739344;0.02;0.04;0.05;21;9
+Bad Sooden-Allendorf;Hessen;296871;308745;318008;0.01;0.03;0.05;9;18
+Bad Schussenried;Baden-Württemberg;544052;554933;560482;0.01;0.04;0.04;11;37
+Hermsdorf;Freistaat Thüringen;795005;850655;833642;0.02;0.04;0.04;20;34
+Neustadt an der Orla;Freistaat Thüringen;898750;934700;944047;0.01;0.04;0.06;20;42
+Bad Griesbach i.Rottal;Freistaat Bayern;945464;983282;963616;0.04;0.06;0.07;7;35
+Aken;Sachsen-Anhalt;723988;709508;709508;0.01;0.03;0.05;10;41
+Bad Lauchstädt;Sachsen-Anhalt;170352;178869;175292;0.02;0.04;0.04;13;54
+Klingenthal;Freistaat Sachsen;509260;514352;509209;0.03;0.03;0.05;10;13
+Neuötting;Freistaat Bayern;894789;894789;876893;0.01;0.04;0.05;12;17
+Ichenhausen;Freistaat Bayern;931476;996679;1016612;0.04;0.07;0.09;10;37
+Kandel;Rheinland-Pfalz;157756;164066;170628;0.03;0.06;0.06;11;46
+Bad Düben;Freistaat Sachsen;594868;612714;624968;0.02;0.05;0.06;16;17
+Meßkirch;Baden-Württemberg;712673;755433;762987;0.01;0.04;0.05;19;14
+Nittenau;Freistaat Bayern;881340;916593;953257;0.03;0.05;0.07;16;25
+Vallendar;Rheinland-Pfalz;700009;728009;742569;0.03;0.04;0.06;13;24
+Kirn;Rheinland-Pfalz;457438;457438;471161;0.01;0.03;0.05;21;35
+Landsberg;Sachsen-Anhalt;536077;568241;590971;0.02;0.02;0.03;21;26
+Viechtach;Freistaat Bayern;243514;253254;263384;0.03;0.06;0.07;6;33
+Osthofen;Rheinland-Pfalz;440983;454212;486007;0.02;0.04;0.04;14;53
+Hardegsen;Niedersachsen;157591;157591;160742;0.02;0.03;0.04;10;61
+Daun;Rheinland-Pfalz;210443;214651;229677;0.02;0.02;0.03;14;40
+Beeskow;Brandenburg;798879;814856;814856;0.03;0.03;0.05;19;66
+Dannenberg;Niedersachsen;934142;971507;1020083;0.03;0.05;0.06;8;41
+Wissen;Rheinland-Pfalz;826438;809909;842305;0.03;0.06;0.07;14;47
+Großbottwar;Baden-Württemberg;146130;149052;152033;0.03;0.04;0.05;10;29
+Arnstein;Freistaat Bayern;627421;633695;671716;0.03;0.06;0.08;10;49
+Harzgerode;Sachsen-Anhalt;467276;485967;476247;0.03;0.05;0.06;10;66
+Groitzsch;Freistaat Sachsen;343124;353417;346349;0.03;0.03;0.03;13;63
+Naila;Freistaat Bayern;460810;465418;460763;0.03;0.04;0.05;11;57
+Möckmühl;Baden-Württemberg;523709;555131;593990;0.03;0.04;0.06;10;47
+Staufenberg;Hessen;576661;611260;611260;0.01;0.04;0.04;17;27
+Kandern;Baden-Württemberg;451268;446755;469093;0.02;0.03;0.05;11;52
+Malchin;Mecklenburg-Vorpommern;193396;195329;191423;0.02;0.02;0.03;15;9
+Ebersbach;Freistaat Sachsen;547701;536746;542114;0.03;0.06;0.06;15;53
+Neresheim;Baden-Württemberg;364414;360769;371592;0.02;0.03;0.04;6;67
+Zell am Harmersbach;Baden-Württemberg;505398;505398;515505;0.03;0.05;0.06;10;56
+Neunburg vorm Wald;Freistaat Bayern;119833;123427;125896;0.02;0.03;0.05;13;34
+Dornstetten;Baden-Württemberg;905568;905568;950846;0.03;0.04;0.06;21;58
+Sontra;Hessen;635910;667705;707767;0.01;0.04;0.04;12;17
+Bersenbrück;Niedersachsen;445236;476402;490694;0.04;0.07;0.08;17;64
+Medebach;Nordrhein-Westfalen;398151;426021;426021;0.03;0.05;0.05;15;16
+Werneuchen;Brandenburg;679611;699999;685999;0.02;0.04;0.05;20;49
+Hartha;Freistaat Sachsen;428589;437160;454647;0.02;0.04;0.06;6;54
+Treuenbrietzen;Brandenburg;181552;192445;203991;0.02;0.05;0.07;5;45
+Rauenberg;Baden-Württemberg;238711;243485;253224;0.01;0.04;0.05;11;20
+Oberkochen;Baden-Württemberg;614855;627152;627152;0.02;0.05;0.05;12;17
+Kellinghusen;Schleswig-Holstein;367845;367845;378880;0.02;0.04;0.06;22;24
+Münnerstadt;Freistaat Bayern;541608;579520;602701;0.04;0.07;0.08;5;68
+Weida;Freistaat Thüringen;585478;579623;620196;0.01;0.01;0.01;17;66
+Könnern;Sachsen-Anhalt;623064;610602;622814;0.03;0.06;0.08;10;40
+Kirchheimbolanden;Rheinland-Pfalz;494717;484822;489670;0.01;0.02;0.03;11;68
+Bad Sachsa;Niedersachsen;810547;802441;826514;0.01;0.02;0.03;7;34
+Löffingen;Baden-Württemberg;725394;776171;776171;0.01;0.01;0.02;20;53
+Pulsnitz;Freistaat Sachsen;477837;482615;477789;0.01;0.01;0.01;15;49
+Kuppenheim;Baden-Württemberg;899512;899512;881521;0.01;0.04;0.05;7;42
+Weißenthurm;Rheinland-Pfalz;880841;933691;924354;0.02;0.05;0.06;10;37
+Bützow;Mecklenburg-Vorpommern;267572;278274;283840;0.01;0.04;0.04;16;62
+Gundelfingen a.d.Donau;Freistaat Bayern;300936;309964;325462;0.01;0.03;0.05;12;55
+Wriezen;Brandenburg;475472;504000;509040;0.03;0.05;0.05;11;58
+Simmern;Rheinland-Pfalz;540747;540747;535339;0.03;0.05;0.06;20;34
+Hüfingen;Baden-Württemberg;890745;890745;872930;0.01;0.04;0.05;15;37
+Lengenfeld;Freistaat Sachsen;270717;268009;262649;0.01;0.01;0.01;10;44
+Radeburg;Freistaat Sachsen;223432;234603;232257;0.02;0.03;0.05;18;40
+Vohenstrauß;Freistaat Bayern;198233;198233;206162;0.02;0.05;0.07;16;43
+Homberg;Hessen;899521;899521;881530;0.01;0.03;0.04;16;54
+Bad Bergzabern;Rheinland-Pfalz;680961;728628;772345;0.01;0.03;0.04;15;65
+Wörrstadt;Rheinland-Pfalz;605538;629759;667545;0.03;0.03;0.04;13;34
+Oederan;Freistaat Sachsen;662804;689316;675529;0.03;0.04;0.05;13;38
+Staufen im Breisgau;Baden-Württemberg;218492;216307;224959;0.02;0.04;0.05;19;32
+Herrieden;Freistaat Bayern;410189;414290;430862;0.05;0.08;0.09;19;36
+Rottenburg a.d.Laaber;Freistaat Bayern;132698;134024;138045;0.03;0.06;0.07;9;49
+Knittlingen;Baden-Württemberg;114695;120429;119225;0.02;0.03;0.05;12;47
+Neuenbürg;Baden-Württemberg;440024;466425;457096;0.03;0.03;0.05;22;62
+Bönnigheim;Baden-Württemberg;150593;153604;152068;0.03;0.06;0.06;10;57
+Gedern;Hessen;689369;710050;738452;0.03;0.04;0.05;9;56
+Heringen;Hessen;414052;422333;418109;0.02;0.03;0.05;17;66
+Bad Berka;Freistaat Thüringen;438411;455947;460506;0.02;0.04;0.06;13;69
+Hecklingen;Sachsen-Anhalt;268445;287236;295853;0.01;0.03;0.04;6;22
+Gräfenhainichen;Sachsen-Anhalt;331009;354179;357721;0.01;0.02;0.03;22;24
+Weikersheim;Baden-Württemberg;337208;350696;371738;0.02;0.05;0.07;20;64
+Ramstein-Miesenbach;Rheinland-Pfalz;924941;924941;971188;0.02;0.04;0.05;10;26
+Ballenstedt;Sachsen-Anhalt;535335;562101;578964;0.02;0.04;0.06;11;28
+Gerolstein;Rheinland-Pfalz;469771;479166;507916;0.01;0.04;0.05;16;53
+Friedrichroda;Freistaat Thüringen;608448;626701;626701;0.02;0.02;0.03;17;38
+Meldorf;Schleswig-Holstein;885291;938408;975944;0.02;0.02;0.02;11;37
+Ransbach-Baumbach;Rheinland-Pfalz;463653;472926;472926;0.02;0.02;0.03;15;52
+Bad Herrenalb;Baden-Württemberg;941963;941963;951382;0.01;0.04;0.05;13;34
+Teublitz;Freistaat Bayern;786911;794780;850414;0.01;0.04;0.06;21;48
+Schwarzenbach a.d.Saale;Freistaat Bayern;943852;972167;981889;0.02;0.05;0.06;22;26
+Bad Kötzting;Freistaat Bayern;411041;419261;419261;0.03;0.04;0.05;6;32
+Ebern;Freistaat Bayern;791601;807433;807433;0.01;0.03;0.05;7;19
+Renchen;Baden-Württemberg;405876;405876;409934;0.01;0.01;0.02;12;69
+Neukirchen;Hessen;350314;360823;364431;0.02;0.02;0.04;13;22
+Rodalben;Rheinland-Pfalz;856754;839618;831222;0.03;0.04;0.06;21;18
+Breuberg;Hessen;440375;471201;490049;0.03;0.06;0.07;5;26
+Baiersdorf;Freistaat Bayern;234339;231995;236635;0.02;0.05;0.06;22;34
+Kahla;Freistaat Thüringen;994025;1033786;1106151;0.03;0.03;0.05;5;42
+Falkenberg;Brandenburg;591322;614974;658023;0.03;0.04;0.06;10;26
+Gröditz;Freistaat Sachsen;724964;717714;724891;0.02;0.02;0.03;15;22
+Waldeck;Hessen;770809;763100;785993;0.03;0.06;0.08;10;9
+Gundelsheim;Baden-Württemberg;982490;982490;972665;0.03;0.04;0.06;16;27
+Glashütte;Freistaat Sachsen;468997;492446;512144;0.02;0.05;0.06;22;55
+Moringen;Niedersachsen;967069;1005751;1005751;0.02;0.05;0.07;17;62
+Lugau;Freistaat Sachsen;786848;794716;834452;0.01;0.01;0.02;6;30
+Nossen;Freistaat Sachsen;609795;634186;627844;0.03;0.03;0.05;6;16
+Müncheberg;Brandenburg;496343;486416;520465;0.03;0.04;0.04;10;39
+Bad Blankenburg;Freistaat Thüringen;813384;813384;862187;0.01;0.03;0.05;15;52
+Schelklingen;Baden-Württemberg;173150;183539;190880;0.02;0.05;0.07;15;35
+Vohburg a.d.Donau;Freistaat Bayern;586629;610094;652800;0.02;0.03;0.05;19;52
+Kühlungsborn;Mecklenburg-Vorpommern;504287;529501;534796;0.02;0.03;0.03;9;46
+Kremmen;Brandenburg;696547;682616;682616;0.03;0.03;0.03;13;28
+Havelberg;Sachsen-Anhalt;386152;382290;409050;0.03;0.05;0.05;21;36
+Otterndorf;Niedersachsen;388666;384779;407866;0.03;0.05;0.06;15;45
+Oppenheim;Rheinland-Pfalz;896461;887496;896371;0.02;0.05;0.07;8;52
+Waldsassen;Freistaat Bayern;874529;935746;963818;0.01;0.03;0.05;9;58
+Scheßlitz;Freistaat Bayern;584876;579027;567446;0.05;0.07;0.09;17;22
+Oebisfelde;Sachsen-Anhalt;292773;301556;310602;0.02;0.03;0.05;22;69
+Rodewisch;Freistaat Sachsen;172438;182784;184612;0.03;0.06;0.06;20;60
+Greding;Freistaat Bayern;973064;953602;991746;0.04;0.06;0.07;18;23
+Boxberg;Baden-Württemberg;497501;487550;502177;0.02;0.02;0.02;9;55
+Immenhausen;Hessen;972986;953526;982132;0.02;0.04;0.05;6;25
+Roßwein;Freistaat Sachsen;777348;792894;784966;0.03;0.05;0.06;17;25
+Waldmünchen;Freistaat Bayern;926262;954049;1020833;0.03;0.04;0.06;21;61
+Elzach;Baden-Württemberg;356782;360349;381970;0.01;0.03;0.05;18;37
+Freyung;Freistaat Bayern;251235;256259;271635;0.05;0.08;0.09;6;18
+Haslach im Kinzigtal;Baden-Württemberg;429678;455458;469122;0.01;0.01;0.01;18;68
+Thalheim;Freistaat Sachsen;279197;273613;281821;0.01;0.01;0.01;13;53
+Dettelbach;Freistaat Bayern;531406;536720;568923;0.04;0.05;0.06;13;43
+Herdorf;Rheinland-Pfalz;914830;978868;978868;0.03;0.04;0.04;12;41
+Esens;Niedersachsen;235173;251635;254151;0.04;0.05;0.07;12;53
+Bad Königshofen i.Grabfeld;Freistaat Bayern;546403;573723;602409;0.02;0.05;0.06;19;69
+Großalmerode;Hessen;507272;537708;526954;0.01;0.03;0.03;20;23
+Großröhrsdorf;Freistaat Sachsen;679329;692915;713703;0.02;0.03;0.03;17;9
+Böhlen;Freistaat Sachsen;670931;697768;725678;0.02;0.03;0.03;7;35
+Bonndorf im Schwarzwald;Baden-Württemberg;657173;657173;696603;0.03;0.06;0.07;5;33
+Mitterteich;Freistaat Bayern;397484;417358;429878;0.05;0.08;0.1;5;55
+Malchow;Mecklenburg-Vorpommern;846741;872143;863421;0.02;0.04;0.06;19;67
+Annweiler am Trifels;Rheinland-Pfalz;457983;457983;457983;0.03;0.05;0.07;12;64
+Volkmarsen;Hessen;891327;935893;945252;0.03;0.06;0.08;14;49
+Bad Brückenau;Freistaat Bayern;701842;715878;744513;0.04;0.07;0.08;12;66
+Bad Wimpfen;Baden-Württemberg;245787;258076;273560;0.02;0.04;0.04;9;67
+Ebermannstadt;Freistaat Bayern;537662;543038;559329;0.03;0.06;0.08;6;14
+Seeland;Sachsen-Anhalt;783828;783828;838695;0.03;0.03;0.03;6;12
+Birkenfeld;Rheinland-Pfalz;807427;855872;872990;0.01;0.02;0.02;22;41
+Geiselhöring;Freistaat Bayern;438663;460596;492837;0.04;0.07;0.08;20;53
+Reichelsheim;Hessen;748602;748602;741115;0.03;0.05;0.07;17;26
+Bleicherode;Freistaat Thüringen;196889;196889;196889;0.03;0.03;0.04;13;46
+Zwingenberg;Hessen;271232;282081;276439;0.03;0.03;0.05;8;50
+Zierenberg;Hessen;951674;932640;979272;0.03;0.06;0.08;18;17
+Grafenwöhr;Freistaat Bayern;518698;534258;534258;0.05;0.06;0.08;9;46
+Burgkunstadt;Freistaat Bayern;926780;936047;964129;0.04;0.06;0.08;5;69
+Leipheim;Freistaat Bayern;967654;967654;957977;0.01;0.02;0.03;20;24
+Neustadt-Glewe;Mecklenburg-Vorpommern;452287;443241;438808;0.02;0.03;0.03;21;34
+Schweich;Rheinland-Pfalz;128617;129903;129903;0.03;0.06;0.07;22;16
+Markneukirchen;Freistaat Sachsen;226435;228699;226412;0.02;0.05;0.07;6;67
+Höchstädt a.d.Donau;Freistaat Bayern;819121;851885;860404;0.03;0.06;0.08;6;44
+Maulbronn;Baden-Württemberg;488974;523202;523202;0.03;0.05;0.06;18;56
+Blankenhain;Freistaat Thüringen;703669;752925;775513;0.03;0.06;0.06;8;17
+Nieheim;Nordrhein-Westfalen;920582;911376;975172;0.02;0.04;0.05;12;49
+Beerfelden;Hessen;257459;275481;286500;0.03;0.06;0.07;21;49
+Alpirsbach;Baden-Württemberg;813218;870143;852740;0.02;0.04;0.04;10;56
+Edenkoben;Rheinland-Pfalz;531627;558208;569372;0.02;0.04;0.04;12;11
+Laufen;Freistaat Bayern;548360;581261;616137;0.05;0.06;0.08;11;47
+Parsberg;Freistaat Bayern;205207;213415;226220;0.04;0.05;0.06;9;23
+Friedland;Mecklenburg-Vorpommern;610265;628572;647430;0.03;0.06;0.06;22;49
+Dietenheim;Baden-Württemberg;213520;222060;237605;0.01;0.03;0.05;17;48
+Gerolzhofen;Freistaat Bayern;713430;699161;748102;0.01;0.04;0.05;20;45
+Bernkastel-Kues;Rheinland-Pfalz;973864;1012818;1063459;0.01;0.02;0.04;5;55
+Gau-Algesheim;Rheinland-Pfalz;595911;631665;650615;0.02;0.05;0.07;12;26
+Leisnig;Freistaat Sachsen;288283;282517;288167;0.01;0.02;0.03;9;10
+Horstmar;Nordrhein-Westfalen;895346;958020;1015501;0.01;0.03;0.05;14;15
+Gammertingen;Baden-Württemberg;533546;549552;571534;0.01;0.03;0.05;8;55
+Polch;Rheinland-Pfalz;651029;670559;710793;0.01;0.04;0.04;17;24
+Trochtelfingen;Baden-Württemberg;662173;688659;736866;0.01;0.03;0.03;21;38
+Osterburken;Baden-Württemberg;350770;364800;361152;0.02;0.03;0.05;12;10
+Rosenfeld;Baden-Württemberg;866224;866224;892210;0.03;0.04;0.06;18;42
+Bad Sobernheim;Rheinland-Pfalz;923590;932825;960810;0.03;0.05;0.06;19;31
+Bad Lobenstein;Freistaat Thüringen;273889;287583;307714;0.03;0.05;0.06;8;23
+Vilseck;Freistaat Bayern;732438;717789;703433;0.04;0.07;0.09;9;60
+Oberlungwitz;Freistaat Sachsen;119716;123307;122074;0.03;0.06;0.08;12;51
+Ketzin;Brandenburg;420148;449558;476531;0.03;0.05;0.05;15;10
+Saarburg;Rheinland-Pfalz;277750;277750;286082;0.01;0.04;0.05;14;29
+Rochlitz;Freistaat Sachsen;476028;485548;514681;0.02;0.05;0.06;21;12
+Fürstenberg;Brandenburg;397014;393043;404835;0.03;0.05;0.05;19;69
+Grünhain-Beierfeld;Freistaat Sachsen;583568;577732;577732;0.02;0.05;0.05;11;14
+Bad Rodach;Freistaat Bayern;475036;465535;498122;0.02;0.05;0.06;7;50
+Lübz;Mecklenburg-Vorpommern;905347;887240;949346;0.03;0.04;0.06;17;31
+Neuenstein;Baden-Württemberg;563356;585890;597608;0.01;0.03;0.03;20;26
+Nortorf;Schleswig-Holstein;580013;609013;633374;0.03;0.05;0.05;20;42
+Spangenberg;Hessen;928793;938080;956842;0.02;0.03;0.03;8;37
+Dohna;Freistaat Sachsen;383385;398720;418656;0.01;0.02;0.02;11;51
+Ilshofen;Baden-Württemberg;782013;821113;829324;0.01;0.03;0.03;6;41
+Schwarzheide;Brandenburg;629333;629333;648212;0.01;0.02;0.04;16;58
+Ruhla;Freistaat Thüringen;616416;641072;647483;0.03;0.04;0.05;10;59
+Neuffen;Baden-Württemberg;326527;323261;323261;0.01;0.03;0.04;12;29
+Eibenstock;Freistaat Sachsen;942275;970543;951132;0.02;0.03;0.04;13;55
+Dornhan;Baden-Württemberg;460585;483614;473941;0.03;0.04;0.06;21;58
+Klingenberg;Freistaat Bayern;571919;606234;600171;0.03;0.06;0.08;9;27
+Uffenheim;Freistaat Bayern;727910;720630;706218;0.04;0.07;0.08;13;68
+Rodenberg;Niedersachsen;180340;185750;198752;0.01;0.02;0.03;13;13
+Beilstein;Baden-Württemberg;427026;422755;448121;0.01;0.03;0.03;15;68
+Güglingen;Baden-Württemberg;502096;532221;548188;0.02;0.03;0.05;11;15
+Stadtroda;Freistaat Thüringen;853337;870403;913923;0.02;0.02;0.03;19;68
+Nabburg;Freistaat Bayern;148015;146534;155326;0.03;0.06;0.07;17;64
+Bräunlingen;Baden-Württemberg;306357;303293;306326;0.01;0.02;0.04;13;51
+Heitersheim;Baden-Württemberg;148383;148383;151350;0.01;0.04;0.04;19;41
+Bernsdorf;Freistaat Sachsen;622686;641366;686262;0.01;0.03;0.03;7;19
+Neumarkt-Sankt Veit;Freistaat Bayern;898929;898929;898929;0.05;0.08;0.09;6;9
+Geisingen;Baden-Württemberg;321149;340417;357438;0.02;0.03;0.04;10;45
+Dietfurt a.d.Altmühl;Freistaat Bayern;525744;515229;525533;0.03;0.04;0.05;15;65
+Gransee;Brandenburg;980318;970514;1028745;0.02;0.02;0.03;20;64
+Altenkirchen;Rheinland-Pfalz;840449;865662;874319;0.01;0.04;0.04;13;37
+Tittmoning;Freistaat Bayern;751290;743777;795841;0.05;0.08;0.1;20;21
+Windsbach;Freistaat Bayern;915182;896878;932753;0.04;0.06;0.07;8;24
+Geislingen;Baden-Württemberg;422264;418041;426402;0.03;0.05;0.07;9;52
+Hirschau;Freistaat Bayern;392521;400371;392363;0.02;0.04;0.05;12;24
+Wittichenau;Freistaat Sachsen;313266;335194;351954;0.03;0.06;0.06;12;14
+Grebenstein;Hessen;423096;427326;427326;0.01;0.02;0.04;18;66
+Zell im Wiesental;Baden-Württemberg;905536;896480;905445;0.03;0.04;0.05;17;30
+Drebkau;Brandenburg;895553;922419;903971;0.01;0.02;0.04;20;54
+Großschirma;Freistaat Sachsen;821026;870287;887693;0.01;0.03;0.04;22;28
+Wassertrüdingen;Freistaat Bayern;339489;342883;339455;0.03;0.05;0.07;19;57
+Thannhausen;Freistaat Bayern;544601;571831;606140;0.03;0.06;0.07;22;59
+Neugersdorf;Freistaat Sachsen;207819;216131;222615;0.03;0.06;0.07;14;22
+Gersfeld;Hessen;884230;919599;910403;0.02;0.04;0.05;8;58
+Stavenhagen, Reuterstadt;Mecklenburg-Vorpommern;757390;757390;742242;0.03;0.05;0.06;22;51
+Glücksburg;Schleswig-Holstein;871502;880217;924227;0.02;0.02;0.04;8;20
+Traben-Trarbach;Rheinland-Pfalz;852894;852894;835836;0.03;0.06;0.07;11;12
+Altentreptow;Mecklenburg-Vorpommern;493450;503319;503319;0.01;0.01;0.02;17;35
+Uebigau-Wahrenbrück;Brandenburg;880588;942229;923384;0.01;0.02;0.04;17;31
+Schrozberg;Baden-Württemberg;668884;695639;709552;0.01;0.02;0.02;21;22
+Neustadt a.d.Waldnaab;Freistaat Bayern;341196;358255;369003;0.05;0.06;0.08;8;11
+Bad Gottleuba-Berggießhübel;Freistaat Sachsen;705668;712724;755488;0.02;0.05;0.06;17;47
+Falkenstein/Harz;Sachsen-Anhalt;769625;785017;792867;0.03;0.06;0.08;15;58
+Mellrichstadt;Freistaat Bayern;500825;500825;520858;0.05;0.07;0.09;22;63
+Geithain;Freistaat Sachsen;193254;191321;202800;0.02;0.05;0.06;15;64
+Marne;Schleswig-Holstein;892707;937342;956089;0.03;0.06;0.08;20;68
+Stolpen;Freistaat Sachsen;294973;297922;297922;0.03;0.03;0.04;5;69
+Leun;Hessen;690500;683595;697266;0.02;0.03;0.05;19;61
+Grabow;Mecklenburg-Vorpommern;149904;146905;157189;0.02;0.02;0.04;5;40
+Dierdorf;Rheinland-Pfalz;683586;683586;724601;0.02;0.02;0.03;21;31
+Linz am Rhein;Rheinland-Pfalz;136331;141784;151709;0.02;0.02;0.04;5;43
+Wolfach;Baden-Württemberg;463330;495763;510635;0.03;0.03;0.04;12;15
+Artern/Unstrut;Freistaat Thüringen;727507;734782;749477;0.02;0.04;0.05;6;43
+Norderney;Niedersachsen;410070;422372;426595;0.01;0.04;0.06;16;40
+Hausach;Baden-Württemberg;299723;314709;333591;0.03;0.03;0.03;7;21
+Ellrich;Freistaat Thüringen;661170;681005;721865;0.02;0.05;0.05;9;23
+Ohrdruf;Freistaat Thüringen;784057;838940;880888;0.03;0.06;0.06;18;67
+Bad Hönningen;Rheinland-Pfalz;132981;131651;129018;0.02;0.04;0.06;14;19
+Ingelfingen;Baden-Württemberg;452104;452104;443061;0.03;0.03;0.04;17;52
+Plau am See;Mecklenburg-Vorpommern;255396;263057;260427;0.01;0.04;0.04;19;47
+Schlüsselfeld;Freistaat Bayern;873505;917180;944695;0.03;0.06;0.07;19;49
+Gadebusch;Mecklenburg-Vorpommern;954018;1011259;1071934;0.02;0.03;0.04;21;28
+Zeil;Freistaat Bayern;242168;242168;254276;0.04;0.07;0.09;7;53
+Waibstadt;Baden-Württemberg;645317;671129;657707;0.01;0.02;0.02;8;30
+Hachenburg;Rheinland-Pfalz;119020;117829;121364;0.03;0.06;0.06;14;51
+Altenberg;Freistaat Sachsen;414304;439162;447945;0.03;0.03;0.04;7;37
+Wilthen;Freistaat Sachsen;243708;260767;260767;0.02;0.03;0.05;13;57
+Dornburg-Camburg;Freistaat Thüringen;321754;337841;334463;0.02;0.05;0.05;15;37
+Vogtsburg im Kaiserstuhl;Baden-Württemberg;129929;137724;139101;0.01;0.04;0.06;21;11
+Haiterbach;Baden-Württemberg;855537;881203;934075;0.02;0.05;0.06;6;37
+Treffurt;Freistaat Thüringen;598552;622494;634943;0.02;0.02;0.03;17;57
+Bodenwerder;Niedersachsen;763767;779042;779042;0.03;0.05;0.07;17;20
+Arzberg;Freistaat Bayern;631798;657069;696494;0.02;0.03;0.04;13;33
+Hermeskeil;Rheinland-Pfalz;181434;186877;192483;0.03;0.06;0.06;20;53
+Laage;Mecklenburg-Vorpommern;245495;257769;265502;0.03;0.06;0.06;9;61
+Bad Marienberg;Rheinland-Pfalz;333104;339766;363549;0.03;0.04;0.06;18;39
+Eisfeld;Freistaat Thüringen;262382;259758;272746;0.02;0.03;0.03;13;32
+Meersburg;Baden-Württemberg;648301;687199;735302;0.03;0.03;0.05;5;55
+Roßleben;Freistaat Thüringen;139790;136994;141104;0.01;0.03;0.04;19;58
+Kitzscher;Freistaat Sachsen;656137;662698;682579;0.03;0.03;0.05;22;42
+Wemding;Freistaat Bayern;230831;244680;249574;0.04;0.06;0.08;7;24
+Riedenburg;Freistaat Bayern;486110;476387;490679;0.05;0.07;0.09;12;40
+Stadtoldendorf;Niedersachsen;822271;879829;862233;0.02;0.04;0.06;5;26
+Seelow;Brandenburg;400663;392649;388723;0.01;0.04;0.04;7;33
+Münzenberg;Hessen;465779;489067;523302;0.02;0.02;0.04;14;25
+Thum;Freistaat Sachsen;144755;143307;151905;0.03;0.06;0.07;13;11
+Leutershausen;Freistaat Bayern;664514;711029;753691;0.02;0.03;0.05;12;47
+Biesenthal;Brandenburg;168598;178713;175139;0.02;0.02;0.04;20;13
+Neubulach;Baden-Württemberg;436019;427298;448663;0.01;0.03;0.05;11;63
+Westerburg;Rheinland-Pfalz;493154;522743;533198;0.02;0.02;0.03;8;42
+Kölleda;Freistaat Thüringen;413446;421714;417497;0.03;0.03;0.03;11;28
+Strasburg;Mecklenburg-Vorpommern;223946;228424;223856;0.02;0.03;0.05;7;59
+Battenberg;Hessen;162359;170476;170476;0.03;0.05;0.07;13;63
+Külsheim;Baden-Württemberg;367038;370708;392950;0.02;0.03;0.03;19;57
+Harburg;Freistaat Bayern;930278;911672;948139;0.03;0.04;0.06;8;62
+Lommatzsch;Freistaat Sachsen;278028;297489;291540;0.03;0.03;0.03;15;44
+Tharandt;Freistaat Sachsen;821932;871247;906097;0.03;0.05;0.07;6;27
+Abenberg;Freistaat Bayern;198978;212906;212906;0.05;0.06;0.08;19;62
+Neuhaus am Rennweg;Freistaat Thüringen;455640;478422;507127;0.01;0.02;0.02;14;45
+Pfreimd;Freistaat Bayern;171515;171515;168084;0.02;0.03;0.04;15;59
+Heimsheim;Baden-Württemberg;568133;585176;573473;0.01;0.02;0.03;14;29
+Schöppenstedt;Niedersachsen;451996;465555;479522;0.03;0.04;0.05;20;15
+Schleusingen;Freistaat Thüringen;738081;738081;782365;0.01;0.03;0.05;22;18
+Tangerhütte;Sachsen-Anhalt;875490;892999;910859;0.03;0.03;0.03;20;17
+Hagenbach;Rheinland-Pfalz;990478;1020192;1081403;0.01;0.03;0.03;8;57
+Rockenhausen;Rheinland-Pfalz;142948;151524;156070;0.01;0.04;0.05;18;12
+Steinbach-Hallenberg;Freistaat Thüringen;281419;284233;301287;0.01;0.04;0.05;16;55
+Dahme/Mark;Brandenburg;821817;846471;838006;0.02;0.05;0.06;6;22
+Adorf;Freistaat Sachsen;905377;959699;978893;0.01;0.02;0.02;19;37
+Lütjenburg;Schleswig-Holstein;883592;892427;945973;0.03;0.05;0.05;7;43
+Diemelstadt;Hessen;792959;808818;833082;0.03;0.06;0.07;9;44
+Niedenstein;Hessen;732316;717669;710492;0.03;0.05;0.06;20;68
+Erbendorf;Freistaat Bayern;852277;911936;975771;0.04;0.06;0.07;11;43
+Pottenstein;Freistaat Bayern;534124;566171;560509;0.03;0.04;0.05;16;55
+Marienmünster;Nordrhein-Westfalen;630278;668094;688137;0.03;0.03;0.03;12;19
+Adelsheim;Baden-Württemberg;302982;306011;318252;0.02;0.05;0.07;9;9
+Rothenburg;Freistaat Sachsen;972882;963153;1020942;0.03;0.04;0.05;9;12
+Trendelburg;Hessen;456509;488464;512887;0.02;0.02;0.03;22;65
+Kemberg;Sachsen-Anhalt;760180;775383;790891;0.02;0.04;0.05;20;47
+Prüm;Rheinland-Pfalz;675730;689244;689244;0.02;0.04;0.06;15;54
+Naumburg;Hessen;485262;490114;499916;0.01;0.01;0.02;20;16
+Windischeschenbach;Freistaat Bayern;115867;114708;117002;0.03;0.04;0.05;20;38
+Gronau;Niedersachsen;708191;701109;715131;0.05;0.06;0.08;12;11
+Kemnath;Freistaat Bayern;694646;743271;750703;0.02;0.05;0.07;18;22
+Eggesin;Mecklenburg-Vorpommern;155299;159957;169555;0.01;0.02;0.04;15;66
+Eltmann;Freistaat Bayern;198753;200740;206762;0.02;0.03;0.05;16;60
+Elbingerode;Sachsen-Anhalt;612528;624778;624778;0.03;0.04;0.05;8;61
+Röbel/Müritz;Mecklenburg-Vorpommern;689381;675593;668837;0.02;0.04;0.04;11;18
+Niederstetten;Baden-Württemberg;625192;656451;682709;0.03;0.04;0.04;13;68
+Velburg;Freistaat Bayern;847257;864202;855560;0.05;0.08;0.1;19;61
+Ronneburg;Freistaat Thüringen;377431;373656;373656;0.03;0.05;0.06;22;66
+Otterberg;Rheinland-Pfalz;197163;207021;215301;0.01;0.03;0.04;20;12
+Amöneburg;Hessen;561608;595304;613163;0.01;0.04;0.04;13;20
+Borkum;Niedersachsen;158499;160083;156882;0.04;0.06;0.07;5;55
+Königsee;Freistaat Thüringen;552295;557817;563396;0.01;0.04;0.06;7;51
+Neudenau;Baden-Württemberg;501429;511457;547259;0.01;0.02;0.04;21;48
+Wanzleben;Sachsen-Anhalt;746503;761433;761433;0.03;0.04;0.04;8;67
+Bad Kösen;Sachsen-Anhalt;596489;632278;670215;0.03;0.06;0.06;9;12
+Hollfeld;Freistaat Bayern;622828;647741;667173;0.05;0.08;0.1;13;14
+Stühlingen;Baden-Württemberg;760420;783232;814561;0.03;0.05;0.05;13;69
+Freren;Niedersachsen;928430;974851;1013845;0.04;0.07;0.09;10;19
+Schwaan;Mecklenburg-Vorpommern;942807;1008803;1069331;0.01;0.03;0.05;8;10
+Kastellaun;Rheinland-Pfalz;146039;151880;159474;0.03;0.05;0.07;21;35
+Ehrenfriedersdorf;Freistaat Sachsen;132937;139583;139583;0.03;0.04;0.06;11;19
+Wirges;Rheinland-Pfalz;418684;431244;452806;0.03;0.03;0.03;5;43
+Lindenfels;Hessen;441138;458783;477134;0.02;0.03;0.04;22;16
+Freyburg;Sachsen-Anhalt;299677;308667;311753;0.02;0.02;0.04;6;24
+Oettingen;Freistaat Bayern;261015;261015;263625;0.05;0.06;0.07;13;25
+Klötze;Sachsen-Anhalt;403712;407749;403671;0.02;0.02;0.03;19;41
+Spalt;Freistaat Bayern;668866;675554;716087;0.02;0.05;0.06;8;55
+Burg Stargard;Mecklenburg-Vorpommern;648320;687219;694091;0.03;0.06;0.08;17;33
+Lichtenau;Baden-Württemberg;998286;1008268;1078847;0.01;0.01;0.01;5;24
+Hofheim;Freistaat Bayern;231657;236290;243378;0.02;0.05;0.07;11;51
+Forchtenberg;Baden-Württemberg;853653;862189;844945;0.01;0.04;0.06;8;23
+Freinsheim;Rheinland-Pfalz;517765;507409;537854;0.02;0.03;0.03;6;26
+Augustusburg;Freistaat Sachsen;354478;379291;386877;0.03;0.05;0.05;11;28
+Unkel;Rheinland-Pfalz;729465;729465;780527;0.01;0.01;0.01;20;62
+Bredstedt;Schleswig-Holstein;283702;289376;306738;0.02;0.02;0.03;12;56
+Cochem;Rheinland-Pfalz;728900;736189;787722;0.02;0.05;0.07;13;9
+Todtnau;Baden-Württemberg;409765;409765;434350;0.02;0.04;0.06;22;30
+Herbstein;Hessen;447092;447092;464975;0.03;0.03;0.05;11;40
+Stadtilm;Freistaat Thüringen;428464;454171;458713;0.03;0.04;0.04;17;51
+Munderkingen;Baden-Württemberg;457750;485215;485215;0.01;0.01;0.01;16;36
+Hitzacker;Niedersachsen;474301;488530;498300;0.01;0.02;0.04;18;67
+Monheim;Freistaat Bayern;560293;588307;594190;0.02;0.04;0.06;10;21
+Triberg im Schwarzwald;Baden-Württemberg;137658;136281;134918;0.03;0.05;0.06;5;13
+Wörth;Freistaat Bayern;174709;185191;183339;0.04;0.07;0.08;19;59
+Hartenstein;Freistaat Sachsen;242332;259295;272260;0.03;0.03;0.03;20;37
+Tönning;Schleswig-Holstein;746878;746878;791690;0.01;0.03;0.03;21;42
+Kusel;Rheinland-Pfalz;476890;510272;530683;0.03;0.05;0.05;17;67
+Oberviechtach;Freistaat Bayern;488781;498556;513513;0.03;0.05;0.07;6;15
+Wittenburg;Mecklenburg-Vorpommern;519779;545767;562140;0.03;0.03;0.03;21;28
+Oppenau;Baden-Württemberg;563618;557981;574721;0.01;0.03;0.03;12;43
+Colditz;Freistaat Sachsen;493080;502941;533118;0.02;0.04;0.04;16;30
+Lunzenau;Freistaat Sachsen;215091;210789;217112;0.01;0.03;0.03;18;24
+Belgern;Freistaat Sachsen;241091;253145;268334;0.01;0.03;0.05;12;11
+Bischofsheim;Freistaat Bayern;936405;936405;917676;0.03;0.04;0.05;5;12
+Schwarzenbach;Freistaat Bayern;196231;208004;208004;0.02;0.03;0.05;9;43
+Kröpelin;Mecklenburg-Vorpommern;393504;401374;425456;0.03;0.04;0.04;9;17
+Marlow;Mecklenburg-Vorpommern;887173;940403;921595;0.01;0.01;0.01;17;68
+Lauter;Freistaat Sachsen;494342;499285;499285;0.02;0.05;0.06;18;46
+Braunlage;Niedersachsen;350839;350839;371889;0.04;0.06;0.08;13;40
+Johanngeorgenstadt;Freistaat Sachsen;262962;265591;276215;0.01;0.04;0.06;7;63
+Dahlen;Freistaat Sachsen;814316;838745;880682;0.02;0.05;0.07;19;30
+Weismain;Freistaat Bayern;785898;840910;899774;0.05;0.08;0.1;9;57
+Geisa;Freistaat Thüringen;592511;622136;615915;0.02;0.05;0.07;12;10
+Krautheim;Baden-Württemberg;501086;491064;495974;0.02;0.02;0.02;10;26
+Elsterberg;Freistaat Sachsen;475870;466352;461689;0.02;0.04;0.04;20;60
+Heideck;Freistaat Bayern;177829;184942;183092;0.05;0.06;0.08;11;26
+Creglingen;Baden-Württemberg;372376;387271;402761;0.03;0.03;0.04;20;46
+Nassau;Rheinland-Pfalz;571125;559702;570896;0.02;0.03;0.04;20;61
+Niederstotzingen;Baden-Württemberg;724973;732222;783478;0.03;0.06;0.06;12;66
+Geringswalde;Freistaat Sachsen;277576;280351;280351;0.03;0.05;0.06;7;23
+Dargun;Mecklenburg-Vorpommern;542879;570022;598524;0.03;0.04;0.05;16;10
+Dingelstädt;Freistaat Thüringen;914470;951048;1008111;0.02;0.04;0.04;7;21
+Creußen;Freistaat Bayern;246322;246322;241395;0.05;0.08;0.09;7;13
+Peitz;Brandenburg;809497;793307;777440;0.03;0.06;0.06;22;26
+Scheinfeld;Freistaat Bayern;137175;137175;139918;0.01;0.03;0.04;13;62
+Waldkappel;Hessen;466163;498794;488818;0.03;0.05;0.07;17;30
+Crivitz;Mecklenburg-Vorpommern;885820;876961;929579;0.01;0.03;0.03;15;17
+Mahlberg;Baden-Württemberg;372452;376176;394985;0.03;0.05;0.07;17;60
+Pegau;Freistaat Sachsen;211316;209202;213386;0.03;0.04;0.04;17;60
+Schömberg;Baden-Württemberg;286482;286482;289346;0.02;0.03;0.03;8;35
+Zarrentin am Schaalsee;Mecklenburg-Vorpommern;410882;431426;452997;0.02;0.05;0.07;17;31
+Gefrees;Freistaat Bayern;720092;712891;705762;0.02;0.05;0.06;13;64
+Tengen;Baden-Württemberg;560280;577088;571317;0.02;0.05;0.05;20;12
+Wachenheim an der Weinstraße;Rheinland-Pfalz;479418;512977;543755;0.01;0.02;0.03;5;17
+Lauchheim;Baden-Württemberg;916813;962653;943400;0.02;0.05;0.07;20;39
+Putbus;Mecklenburg-Vorpommern;393845;401721;429842;0.03;0.06;0.07;20;58
+Bad Berneck;Freistaat Bayern;988574;1008345;1008345;0.02;0.03;0.05;22;9
+Lübtheen;Mecklenburg-Vorpommern;329411;326116;339161;0.03;0.06;0.08;20;68
+Dahn;Rheinland-Pfalz;755188;800499;784489;0.03;0.05;0.06;11;53
+Schönau;Baden-Württemberg;719549;755526;785747;0.02;0.03;0.04;8;46
+Selbitz;Freistaat Bayern;659610;679398;672604;0.05;0.08;0.1;11;58
+Rabenau;Freistaat Sachsen;958773;1025887;1036145;0.02;0.04;0.06;19;38
+Groß-Bieberau;Hessen;421597;417381;421554;0.01;0.01;0.03;13;30
+Lengefeld;Freistaat Sachsen;475179;475179;465675;0.03;0.03;0.05;18;23
+Tann;Hessen;211467;213581;219989;0.03;0.06;0.07;6;27
+Königsbrück;Freistaat Sachsen;204959;219306;219306;0.02;0.02;0.03;13;25
+Rauschenberg;Hessen;489795;484897;489746;0.01;0.02;0.04;21;43
+Müllrose;Brandenburg;823850;832088;890334;0.01;0.01;0.01;15;25
+Heimbach;Nordrhein-Westfalen;117748;123635;122399;0.02;0.05;0.07;5;66
+Pressath;Freistaat Bayern;786766;802501;786451;0.04;0.07;0.08;10;12
+Mügeln;Freistaat Sachsen;557421;590866;602683;0.03;0.03;0.04;6;60
+Waldershof;Freistaat Bayern;495264;515074;540828;0.01;0.04;0.05;8;38
+Berka/Werra;Freistaat Thüringen;673975;714413;757278;0.03;0.04;0.05;22;9
+Hallenberg;Nordrhein-Westfalen;113232;115496;113186;0.03;0.03;0.03;22;25
+Sternberg;Mecklenburg-Vorpommern;436702;445436;436527;0.02;0.03;0.04;16;13
+Wörth a.d.Donau;Freistaat Bayern;990081;970279;1028496;0.04;0.07;0.08;16;25
+Wyk auf Föhr;Schleswig-Holstein;587077;604689;616783;0.03;0.06;0.08;10;36
+Liebenwalde;Brandenburg;658397;678148;684930;0.01;0.03;0.03;22;26
+Wilster;Schleswig-Holstein;734632;756670;794504;0.03;0.04;0.04;22;38
+Iphofen;Freistaat Bayern;667790;667790;694501;0.05;0.06;0.07;12;69
+Waldenburg;Freistaat Sachsen;462103;466724;476058;0.02;0.05;0.07;9;25
+Schönberg;Mecklenburg-Vorpommern;441074;471949;462510;0.03;0.03;0.05;22;62
+Mühlberg/Elbe;Brandenburg;358576;369333;391493;0.01;0.01;0.03;9;26
+Steinach;Freistaat Thüringen;228636;230922;230922;0.02;0.05;0.07;5;54
+Kirchberg an der Jagst;Baden-Württemberg;199431;203419;199351;0.01;0.03;0.04;14;38
+Gerabronn;Baden-Württemberg;961052;1009104;1019195;0.03;0.03;0.03;13;37
+Hornberg;Baden-Württemberg;579228;602397;620469;0.02;0.02;0.02;18;50
+Seifhennersdorf;Freistaat Sachsen;483473;512481;517606;0.03;0.06;0.07;22;63
+Vellberg;Baden-Württemberg;406788;418991;448321;0.01;0.03;0.03;15;44
+Loitz;Mecklenburg-Vorpommern;955360;1022235;1073346;0.01;0.04;0.06;22;27
+Wanfried;Hessen;636590;668419;661735;0.03;0.06;0.07;19;24
+Baruth/Mark;Brandenburg;840008;873608;926024;0.01;0.03;0.05;18;56
+Schnaittenbach;Freistaat Bayern;545367;556274;572962;0.05;0.06;0.07;9;35
+Lucka;Freistaat Thüringen;363273;388702;380928;0.02;0.05;0.06;10;46
+Nastätten;Rheinland-Pfalz;214475;212330;214453;0.03;0.06;0.06;8;45
+Zell;Rheinland-Pfalz;970848;961139;970750;0.02;0.05;0.05;13;18
+Eschenbach;Freistaat Bayern;622485;653609;640537;0.02;0.03;0.04;20;24
+Barby;Sachsen-Anhalt;889071;951305;960819;0.01;0.01;0.01;15;21
+Trebsen/Mulde;Freistaat Sachsen;543442;576048;581809;0.03;0.04;0.06;17;30
+Lützen;Sachsen-Anhalt;800681;832708;857689;0.02;0.04;0.05;22;50
+Netzschkau;Freistaat Sachsen;905518;941738;1007660;0.03;0.06;0.07;5;44
+Lichtenfels;Hessen;675456;675456;722737;0.01;0.02;0.02;7;29
+Regis-Breitingen;Freistaat Sachsen;906506;933701;980386;0.01;0.04;0.04;9;37
+Wolkenstein;Freistaat Sachsen;442523;473499;487704;0.02;0.04;0.05;17;30
+Tambach-Dietharz;Freistaat Thüringen;948315;1014697;1004550;0.02;0.05;0.07;11;14
+Zahna;Sachsen-Anhalt;847515;906841;961251;0.03;0.06;0.07;12;16
+Dransfeld;Niedersachsen;489819;509411;514505;0.02;0.03;0.05;11;18
+Pappenheim;Freistaat Bayern;156984;156984;166403;0.02;0.03;0.04;5;22
+Nienburg;Sachsen-Anhalt;382384;382384;393855;0.01;0.01;0.02;8;66
+Reichenbach;Freistaat Sachsen;378845;386421;378693;0.01;0.01;0.03;21;52
+Seßlach;Freistaat Bayern;928253;909687;955172;0.05;0.08;0.1;11;47
+Allendorf;Hessen;654053;680215;680215;0.01;0.04;0.04;19;41
+Baumholder;Rheinland-Pfalz;899176;935143;1000603;0.02;0.02;0.02;14;64
+Gräfenberg;Freistaat Bayern;388171;415342;407036;0.03;0.06;0.08;12;67
+Neubukow;Mecklenburg-Vorpommern;498230;518159;507796;0.01;0.01;0.03;22;54
+Kalbe;Sachsen-Anhalt;944784;973127;953664;0.03;0.03;0.04;10;22
+Schlotheim;Freistaat Thüringen;539977;556176;589546;0.01;0.01;0.02;8;17
+Dassow;Mecklenburg-Vorpommern;106036;107096;109238;0.01;0.01;0.01;22;55
+Bad Buchau;Baden-Württemberg;696526;717421;703073;0.01;0.02;0.02;17;60
+Neukloster;Mecklenburg-Vorpommern;807887;856360;873487;0.03;0.05;0.06;11;60
+Gemünden;Hessen;364958;364958;375906;0.03;0.04;0.04;16;55
+Baunach;Freistaat Bayern;863206;854573;905848;0.02;0.03;0.04;12;61
+Welzow;Brandenburg;773822;789298;773512;0.03;0.04;0.06;22;60
+Strehla;Freistaat Sachsen;540080;577885;566327;0.02;0.02;0.03;20;11
+Tessin;Mecklenburg-Vorpommern;901192;919215;937600;0.01;0.02;0.04;10;17
+Bad Liebenstein;Freistaat Thüringen;910297;928502;965643;0.03;0.05;0.05;14;21
+Rheinböllen;Rheinland-Pfalz;704598;711643;747226;0.01;0.01;0.01;19;63
+Amorbach;Freistaat Bayern;917867;917867;936224;0.05;0.06;0.07;5;67
+Tegernsee;Freistaat Bayern;541423;563079;591233;0.04;0.05;0.07;21;45
+Schiltach;Baden-Württemberg;991741;1011575;991344;0.03;0.04;0.05;11;50
+Niedernhall;Baden-Württemberg;302249;317361;323708;0.03;0.05;0.05;14;22
+Tanna;Freistaat Thüringen;277320;288412;285528;0.02;0.05;0.06;8;55
+Ruhland;Brandenburg;988278;978395;1017531;0.01;0.04;0.06;10;67
+Rötha;Freistaat Sachsen;507247;507247;512319;0.03;0.05;0.06;9;32
+Seehausen;Sachsen-Anhalt;676364;669600;709776;0.01;0.03;0.04;14;52
+Wildenfels;Freistaat Sachsen;423116;427347;418800;0.01;0.02;0.03;13;43
+Bad Muskau;Freistaat Sachsen;947153;956624;966190;0.01;0.04;0.04;17;23
+Freudenberg;Baden-Württemberg;263528;281974;298893;0.02;0.02;0.03;9;66
+Nerchau;Freistaat Sachsen;301818;319927;332724;0.03;0.05;0.06;18;52
+St. Blasien;Baden-Württemberg;481026;509887;525184;0.03;0.04;0.04;9;28
+Geyer;Freistaat Sachsen;587130;575387;598402;0.02;0.04;0.05;11;21
+Vöhrenbach;Baden-Württemberg;249226;249226;264179;0.01;0.02;0.04;13;42
+Lambrecht;Rheinland-Pfalz;246337;258653;258653;0.03;0.06;0.08;15;36
+Gröningen;Sachsen-Anhalt;517252;532769;570063;0.02;0.02;0.02;18;11
+Bad Münster am Stein-Ebernburg;Rheinland-Pfalz;520406;556834;595812;0.03;0.03;0.03;12;48
+Neckarbischofsheim;Baden-Württemberg;768238;760555;752950;0.03;0.06;0.06;5;21
+Bad Elster;Freistaat Sachsen;442677;455957;474195;0.03;0.05;0.07;22;52
+Lorch;Hessen;441470;459128;486676;0.02;0.04;0.05;8;15
+Bad Karlshafen;Hessen;190228;192130;197894;0.03;0.04;0.05;10;31
+Penzlin;Mecklenburg-Vorpommern;868616;903360;912394;0.01;0.03;0.03;14;31
+Bernstadt a. d. Eigen;Freistaat Sachsen;162076;165317;176889;0.02;0.02;0.02;16;16
+Güsten;Sachsen-Anhalt;678857;719588;733980;0.01;0.02;0.02;5;32
+Gößnitz;Freistaat Thüringen;422841;452439;461488;0.02;0.02;0.04;16;63
+Woldegk;Mecklenburg-Vorpommern;478869;469291;502142;0.03;0.04;0.04;6;32
+Saalburg-Ebersdorf;Freistaat Thüringen;542159;542159;536737;0.03;0.06;0.06;9;50
+Neckarsteinach;Hessen;853082;895736;904693;0.02;0.04;0.06;11;19
+Greußen;Freistaat Thüringen;992985;1012844;1073615;0.02;0.04;0.06;20;33
+Rennerod;Rheinland-Pfalz;996170;996170;976246;0.01;0.01;0.02;6;56
+Egeln;Sachsen-Anhalt;204159;214366;212223;0.01;0.03;0.04;13;64
+Lauscha;Freistaat Thüringen;277735;280512;283317;0.02;0.02;0.04;10;15
+Triptis;Freistaat Thüringen;850974;833954;817275;0.02;0.04;0.05;16;55
+Grünsfeld;Baden-Württemberg;948157;957638;938485;0.01;0.02;0.04;10;46
+Deidesheim;Rheinland-Pfalz;986063;1005784;985668;0.03;0.03;0.05;14;14
+Bad Köstritz;Freistaat Thüringen;981772;1021042;1072095;0.01;0.03;0.03;11;28
+Hoya;Niedersachsen;244043;251364;248850;0.04;0.06;0.08;19;24
+Kelbra;Sachsen-Anhalt;404901;412999;437778;0.01;0.01;0.01;6;42
+Gernrode;Sachsen-Anhalt;937695;984579;1014117;0.03;0.04;0.05;20;45
+Königsberg;Freistaat Bayern;933309;914642;969521;0.02;0.04;0.06;16;54
+Osterwieck;Sachsen-Anhalt;307849;301692;313759;0.03;0.06;0.07;17;52
+Kirchberg;Rheinland-Pfalz;344126;357891;350733;0.02;0.05;0.05;18;19
+Neusalza-Spremberg;Freistaat Sachsen;641125;686003;713443;0.02;0.03;0.03;14;55
+Vacha;Freistaat Thüringen;891762;873926;935101;0.01;0.02;0.04;19;17
+Pausa;Freistaat Sachsen;577627;583403;577569;0.01;0.03;0.03;5;63
+Goldkronach;Freistaat Bayern;590923;620469;645287;0.02;0.04;0.05;9;11
+Ellingen;Freistaat Bayern;526119;526119;552424;0.04;0.07;0.09;16;43
+Raguhn;Sachsen-Anhalt;429528;438118;455643;0.03;0.06;0.08;10;67
+Döbern;Brandenburg;470531;484646;494339;0.03;0.03;0.03;20;11
+Berga;Freistaat Thüringen;907227;925371;943878;0.01;0.02;0.02;9;31
+Neustadt;Brandenburg;919373;956147;994393;0.02;0.05;0.05;9;29
+Brück;Brandenburg;689312;696205;731015;0.01;0.01;0.01;8;56
+Marktbreit;Freistaat Bayern;611852;648563;661534;0.02;0.04;0.05;8;23
+Hirschhorn;Hessen;620267;663685;657048;0.01;0.02;0.04;8;9
+Ludwigsstadt;Freistaat Bayern;514965;530413;562238;0.02;0.05;0.06;8;51
+Wasungen;Freistaat Thüringen;201153;203164;215354;0.01;0.02;0.04;21;65
+Lychen;Brandenburg;894632;912524;958150;0.01;0.02;0.04;9;30
+Hohnstein;Freistaat Sachsen;760249;805863;813922;0.01;0.03;0.03;21;13
+Kirchenlamitz;Freistaat Bayern;910192;937497;928122;0.05;0.08;0.1;9;34
+Schildau;Freistaat Sachsen;355359;380234;380234;0.01;0.01;0.02;12;61
+Jeßnitz;Sachsen-Anhalt;515868;546820;535883;0.03;0.06;0.06;14;14
+Kranichfeld;Freistaat Thüringen;566866;572534;561083;0.01;0.04;0.06;7;61
+Langewiesen;Freistaat Thüringen;590798;602613;590561;0.03;0.05;0.05;10;64
+Annaburg;Sachsen-Anhalt;315970;338087;358373;0.02;0.02;0.02;7;69
+Schönwald;Freistaat Bayern;389115;404679;424913;0.05;0.08;0.1;7;44
+Warin;Mecklenburg-Vorpommern;503525;498489;503474;0.01;0.02;0.03;19;23
+Ostheim v.d.Rhön;Freistaat Bayern;971577;1029871;1101962;0.02;0.04;0.06;17;24
+Eschershausen;Niedersachsen;434522;451902;474498;0.02;0.04;0.06;16;45
+Weißensee;Freistaat Thüringen;334946;341644;348477;0.02;0.04;0.05;7;19
+Sonnewalde;Brandenburg;518001;528361;517793;0.02;0.04;0.04;21;24
+Havelsee;Brandenburg;718346;754263;754263;0.02;0.04;0.06;5;59
+Schöneck;Freistaat Sachsen;232610;230283;241798;0.02;0.05;0.06;17;43
+Owen;Baden-Württemberg;760385;790800;822432;0.01;0.04;0.06;14;15
+Rötz;Freistaat Bayern;697821;697821;683864;0.01;0.02;0.03;16;49
+Gehren;Freistaat Thüringen;436085;453528;462598;0.03;0.03;0.04;15;50
+Mühlheim an der Donau;Baden-Württemberg;696393;731212;738524;0.01;0.04;0.05;12;43
+Mirow;Mecklenburg-Vorpommern;755050;792802;792802;0.03;0.05;0.07;16;22
+Wurzbach;Freistaat Thüringen;458370;458370;458370;0.02;0.03;0.03;5;50
+Marktleuthen;Freistaat Bayern;426958;456845;465981;0.03;0.05;0.06;6;68
+Weißenberg;Freistaat Sachsen;581909;599366;623340;0.02;0.03;0.05;7;32
+Münstermaifeld;Rheinland-Pfalz;305383;302329;302329;0.01;0.03;0.04;21;35
+Frankenau;Hessen;854149;913939;895660;0.03;0.04;0.05;14;12
+Teuchern;Sachsen-Anhalt;523962;529201;550369;0.01;0.03;0.05;11;58
+Weißenstadt;Freistaat Bayern;188678;194338;198225;0.01;0.04;0.05;17;69
+Stadtsteinach;Freistaat Bayern;415294;415294;444364;0.01;0.03;0.05;6;51
+Krakow am See;Mecklenburg-Vorpommern;370534;370534;389060;0.01;0.03;0.04;19;66
+Schönewalde;Brandenburg;627698;640251;633849;0.02;0.05;0.06;17;47
+Liebenau;Hessen;597677;615607;640231;0.02;0.05;0.06;15;11
+Goldberg;Mecklenburg-Vorpommern;715459;758386;781138;0.01;0.04;0.05;9;15
+Kirtorf;Hessen;109106;110197;110197;0.03;0.04;0.06;22;20
+Oranienbaum;Sachsen-Anhalt;641846;654682;661229;0.01;0.04;0.06;8;52
+Schalkau;Freistaat Thüringen;102103;104145;109352;0.01;0.03;0.03;8;34
+Bärnau;Freistaat Bayern;633296;664960;711508;0.05;0.08;0.09;9;36
+Joachimsthal;Brandenburg;421204;442264;464377;0.01;0.03;0.03;20;17
+Hatzfeld;Hessen;384117;395640;387727;0.03;0.03;0.04;14;45
+Ulmen;Rheinland-Pfalz;355913;373708;366234;0.01;0.02;0.04;7;22
+Lebus;Brandenburg;766967;812985;869893;0.02;0.04;0.04;22;59
+Jarmen;Mecklenburg-Vorpommern;168667;175413;173659;0.01;0.04;0.06;18;28
+Friedland;Brandenburg;327435;327435;327435;0.03;0.05;0.06;9;37
+Dömitz;Mecklenburg-Vorpommern;683052;703543;745756;0.03;0.04;0.04;16;32
+Waischenfeld;Freistaat Bayern;963895;1012089;1052573;0.02;0.04;0.06;20;42
+Laucha an der Unstrut;Sachsen-Anhalt;295249;289344;283557;0.01;0.03;0.05;20;39
+Prichsenstadt;Freistaat Bayern;216861;216861;221198;0.03;0.06;0.08;11;36
+Bürgel;Freistaat Thüringen;481512;495957;500916;0.02;0.02;0.03;16;9
+Stromberg;Rheinland-Pfalz;697144;711086;753752;0.01;0.04;0.06;20;62
+Löwenstein;Baden-Württemberg;233327;247326;242380;0.01;0.04;0.04;19;30
+Geising;Freistaat Sachsen;188477;199785;203781;0.02;0.02;0.04;21;10
+Fridingen an der Donau;Baden-Württemberg;797894;837788;888056;0.03;0.04;0.06;14;51
+Bismark;Sachsen-Anhalt;718017;761098;791541;0.02;0.03;0.03;8;25
+Frauenstein;Freistaat Sachsen;571204;571204;588340;0.03;0.03;0.04;13;23
+Oberriexingen;Baden-Württemberg;728199;713635;720771;0.02;0.05;0.05;14;43
+Lindow;Brandenburg;997644;1047526;1068476;0.01;0.02;0.02;13;31
+Elterlein;Freistaat Sachsen;578270;607183;619327;0.01;0.03;0.04;21;43
+Ulrichstein;Hessen;691245;732719;754701;0.03;0.05;0.05;22;69
+Wesenberg;Mecklenburg-Vorpommern;768607;791665;791665;0.03;0.04;0.05;13;66
+Klütz;Mecklenburg-Vorpommern;867897;859218;859218;0.02;0.05;0.07;10;9
+Auma;Freistaat Thüringen;258152;263315;265948;0.01;0.03;0.03;9;43
+Remda-Teichel;Freistaat Thüringen;987036;1036387;1015660;0.03;0.04;0.05;17;40
+Münchenbernsdorf;Freistaat Thüringen;386903;413986;442965;0.02;0.03;0.04;8;60
+Hillesheim;Rheinland-Pfalz;419136;419136;448475;0.03;0.06;0.06;11;25
+Braubach;Rheinland-Pfalz;379608;375811;383328;0.01;0.01;0.02;14;37
+Wesselburen;Schleswig-Holstein;813928;870902;905739;0.02;0.05;0.07;6;15
+Jöhstadt;Freistaat Sachsen;917227;898882;943826;0.02;0.03;0.04;19;35
+Kaisersesch;Rheinland-Pfalz;222783;222783;233922;0.02;0.03;0.04;7;19
+Gröbzig;Sachsen-Anhalt;305867;302808;324004;0.02;0.02;0.04;18;69
+Gnoien;Mecklenburg-Vorpommern;634848;641196;679668;0.02;0.03;0.04;21;29
+Nebra;Sachsen-Anhalt;476089;485610;514747;0.02;0.03;0.04;12;29
+Allstedt;Sachsen-Anhalt;123891;132563;140517;0.01;0.02;0.02;13;60
+Waldenburg;Baden-Württemberg;694357;687413;694287;0.02;0.05;0.07;9;11
+Ravenstein;Baden-Württemberg;521102;531524;547469;0.03;0.05;0.05;9;25
+Themar;Freistaat Thüringen;357890;382942;405918;0.02;0.05;0.05;8;38
+Bad Teinach-Zavelstein;Baden-Württemberg;587848;623118;641812;0.01;0.03;0.04;9;31
+Rehna;Mecklenburg-Vorpommern;787504;779628;818610;0.01;0.04;0.04;13;22
+Wustrow;Niedersachsen;343872;357626;382660;0.03;0.06;0.08;8;20
+Bad Sulza;Freistaat Thüringen;821837;846492;846492;0.01;0.04;0.04;19;68
+Bad Bibra;Sachsen-Anhalt;948954;986912;967173;0.03;0.06;0.07;13;13
+Ebeleben;Freistaat Thüringen;505025;510075;525377;0.01;0.02;0.02;13;23
+Burgbernheim;Freistaat Bayern;476331;509674;524964;0.03;0.06;0.07;12;39
+Rhens;Rheinland-Pfalz;648314;693695;686759;0.02;0.03;0.04;15;27
+Elstra;Freistaat Sachsen;419334;419334;415140;0.03;0.04;0.06;17;50
+Wallenfels;Freistaat Bayern;961379;999834;979837;0.02;0.03;0.05;19;14
+Romrod;Hessen;395453;403362;399328;0.03;0.04;0.04;9;24
+Oberwesel;Rheinland-Pfalz;136645;135278;140689;0.03;0.05;0.07;11;26
+Schirgiswalde;Freistaat Sachsen;182510;195285;205049;0.02;0.04;0.05;8;43
+Bad Schandau;Freistaat Sachsen;980125;960522;950917;0.03;0.04;0.04;8;11
+Zöblitz;Freistaat Sachsen;955338;936231;945593;0.02;0.04;0.04;19;9
+Kohren-Sahlis;Freistaat Sachsen;831596;856543;847978;0.02;0.03;0.03;19;51
+Wolframs-Eschenbach;Freistaat Bayern;177656;188315;188315;0.01;0.03;0.04;16;60
+Wegeleben;Sachsen-Anhalt;293166;299029;296039;0.02;0.05;0.05;10;36
+Gerbstedt;Sachsen-Anhalt;397080;424875;446119;0.03;0.05;0.05;9;45
+Mylau;Freistaat Sachsen;821708;829925;888019;0.03;0.05;0.05;13;9
+Adenau;Rheinland-Pfalz;257461;257461;275483;0.02;0.03;0.05;7;22
+Putlitz;Brandenburg;315084;337139;353996;0.03;0.06;0.08;22;30
+Hasselfelde;Sachsen-Anhalt;646633;633700;646374;0.03;0.05;0.05;18;35
+Meisenheim;Rheinland-Pfalz;369097;376478;391538;0.02;0.05;0.07;10;37
+Brüel;Mecklenburg-Vorpommern;205984;205984;214223;0.01;0.01;0.02;9;33
+Eibelstadt;Freistaat Bayern;985186;1024593;1055331;0.02;0.04;0.05;14;18
+Brotterode;Freistaat Thüringen;375049;378799;401527;0.02;0.05;0.07;11;32
+Arendsee;Sachsen-Anhalt;312691;318944;325323;0.01;0.03;0.03;6;19
+Sankt Goar;Rheinland-Pfalz;144766;149108;149108;0.03;0.05;0.06;6;15
+Dommitzsch;Freistaat Sachsen;617324;629670;623373;0.03;0.06;0.07;18;11
+Merkendorf;Freistaat Bayern;192885;206386;202259;0.01;0.04;0.05;15;59
+Schillingsfürst;Freistaat Bayern;962711;1020473;1081702;0.02;0.05;0.07;17;36
+Sulzburg;Baden-Württemberg;107896;112211;112211;0.03;0.05;0.06;13;57
+Rastenberg;Freistaat Thüringen;234916;239614;253991;0.01;0.02;0.03;17;20
+Selters;Rheinland-Pfalz;572798;578525;595881;0.03;0.03;0.05;17;48
+Schkölen;Freistaat Thüringen;726613;726613;719346;0.02;0.05;0.07;20;38
+Gefell;Freistaat Thüringen;695719;709633;752211;0.01;0.01;0.03;20;37
+Großbreitenbach;Freistaat Thüringen;369781;395665;403578;0.02;0.05;0.05;12;48
+Tribsees;Mecklenburg-Vorpommern;647030;685851;678993;0.03;0.04;0.05;11;12
+Schlieben;Brandenburg;248798;251285;266363;0.01;0.02;0.03;17;53
+Großenehrich;Freistaat Thüringen;270190;275593;292129;0.01;0.02;0.02;7;46
+Herrnhut;Freistaat Sachsen;724474;709984;695784;0.02;0.05;0.07;17;56
+Lauterstein;Baden-Württemberg;253239;265900;276536;0.01;0.01;0.01;13;61
+Schönsee;Freistaat Bayern;572941;584399;607775;0.05;0.06;0.07;17;17
+Garding;Schleswig-Holstein;845453;845453;887725;0.03;0.04;0.04;21;41
+Bad Wilsnack;Brandenburg;482667;492320;492320;0.03;0.04;0.06;20;24
+Gützkow;Mecklenburg-Vorpommern;910671;928884;919595;0.02;0.03;0.05;17;25
+Friesack;Brandenburg;856062;907425;943722;0.03;0.04;0.06;10;12
+Golßen;Brandenburg;529870;535168;535168;0.03;0.06;0.06;10;61
+Ostritz;Freistaat Sachsen;722761;751671;766704;0.01;0.03;0.03;19;63
+Pleystein;Freistaat Bayern;273361;276094;295421;0.05;0.07;0.09;20;21
+Ziesar;Brandenburg;490435;514956;520106;0.01;0.04;0.04;7;25
+Alsleben;Sachsen-Anhalt;118872;120060;120060;0.01;0.02;0.02;17;55
+Schlettau;Freistaat Sachsen;729860;729860;729860;0.01;0.04;0.05;14;12
+Buttstädt;Freistaat Thüringen;907834;916912;953588;0.01;0.01;0.03;13;57
+Stadtlengsfeld;Freistaat Thüringen;701202;687177;707793;0.02;0.03;0.05;5;48
+Grebenau;Hessen;725451;710941;696723;0.02;0.03;0.04;8;33
+Scheer;Baden-Württemberg;375825;387099;394841;0.01;0.01;0.03;21;32
+Derenburg;Sachsen-Anhalt;388262;384379;380535;0.01;0.04;0.05;16;54
+Hornburg;Niedersachsen;426337;447653;478989;0.03;0.05;0.07;11;21
+Bad Tennstedt;Freistaat Thüringen;822988;864137;872778;0.03;0.03;0.04;16;46
+Betzenstein;Freistaat Bayern;346868;350336;346833;0.02;0.03;0.04;5;35
+Oberwiesenthal;Freistaat Sachsen;323306;342704;349558;0.01;0.04;0.05;19;65
+Gräfenthal;Freistaat Thüringen;729811;715214;722366;0.03;0.05;0.07;20;62
+Gartz;Brandenburg;942150;923307;987938;0.03;0.06;0.07;13;39
+Eckartsberga;Sachsen-Anhalt;373688;392372;392372;0.01;0.01;0.02;12;37
+Creuzburg;Freistaat Thüringen;955313;974419;1013396;0.01;0.04;0.05;11;35
+Leutenberg;Freistaat Thüringen;271271;282121;279300;0.01;0.03;0.05;22;14
+Schönau im Schwarzwald;Baden-Württemberg;542928;548357;542873;0.02;0.04;0.04;20;23
+Friedrichstadt;Schleswig-Holstein;351266;354778;347683;0.01;0.04;0.06;14;50
+Garz/Rügen;Mecklenburg-Vorpommern;550899;539881;529083;0.03;0.06;0.08;22;54
+Bad Grund;Niedersachsen;686560;720888;720888;0.02;0.05;0.06;18;31
+Lenzen;Brandenburg;725508;776293;760767;0.03;0.05;0.07;18;62
+Hirschberg;Freistaat Thüringen;809284;833562;816891;0.03;0.05;0.06;12;20
+Wettin;Sachsen-Anhalt;123685;128632;132491;0.02;0.02;0.02;22;29
+Meyenburg;Brandenburg;789504;781608;836321;0.02;0.05;0.07;21;51
+Mainbernheim;Freistaat Bayern;510594;531017;536327;0.03;0.05;0.07;12;69
+Königstein;Freistaat Sachsen;329495;345969;349429;0.01;0.03;0.04;21;33
+Krempe;Schleswig-Holstein;893361;946962;984841;0.03;0.06;0.07;14;41
+Ortrand;Brandenburg;777762;801094;801094;0.01;0.01;0.01;14;46
+Rethem;Niedersachsen;294147;311795;327385;0.02;0.03;0.05;21;58
+Mutzschen;Freistaat Sachsen;384096;376414;395234;0.03;0.03;0.03;21;40
+Scheibenberg;Freistaat Sachsen;612935;643581;669325;0.02;0.05;0.07;12;55
+Heringen/Helme;Freistaat Thüringen;422800;431256;426943;0.02;0.04;0.06;11;25
+Löbejün;Sachsen-Anhalt;819387;876744;903046;0.03;0.03;0.05;22;15
+Veringenstadt;Baden-Württemberg;858962;841782;892289;0.02;0.02;0.04;18;30
+Rerik;Mecklenburg-Vorpommern;287626;299131;317078;0.02;0.04;0.05;12;44
+Oderberg;Brandenburg;691769;733275;769938;0.03;0.05;0.07;12;48
+Rosenthal;Hessen;962652;972278;1020892;0.02;0.03;0.04;20;15
+Schwanebeck;Sachsen-Anhalt;203412;205446;217772;0.03;0.04;0.04;7;52
+Heldrungen;Freistaat Thüringen;214431;210142;214345;0.02;0.02;0.02;15;34
+Wiesensteig;Baden-Württemberg;493102;498033;503013;0.03;0.04;0.05;17;17
+Gebesee;Freistaat Thüringen;741409;733994;748674;0.02;0.05;0.07;12;22
+Fladungen;Freistaat Bayern;121578;125225;131486;0.01;0.03;0.05;13;25
+Aach;Baden-Württemberg;978207;1046681;1036214;0.03;0.06;0.08;15;69
+Jerichow;Sachsen-Anhalt;544059;565821;582796;0.01;0.04;0.05;13;11
+Hayingen;Baden-Württemberg;234808;237156;244270;0.03;0.04;0.04;13;64
+Katzenelnbogen;Rheinland-Pfalz;884292;937349;984216;0.03;0.04;0.04;5;68
+Lauterecken;Rheinland-Pfalz;200473;206487;218876;0.02;0.02;0.04;5;33
+Bad Colberg-Heldburg;Freistaat Thüringen;493678;488741;518065;0.02;0.03;0.05;5;14
+Brüssow;Brandenburg;191235;202709;212844;0.02;0.05;0.07;17;34
+Benneckenstein;Sachsen-Anhalt;692822;713606;735014;0.03;0.05;0.07;20;44
+Niemegk;Brandenburg;329276;342447;352720;0.03;0.03;0.05;5;69
+Teuschnitz;Freistaat Bayern;381306;388932;412268;0.04;0.05;0.07;15;45
+Wiehe;Freistaat Thüringen;295169;298120;310045;0.02;0.04;0.06;5;67
+Sayda;Freistaat Sachsen;291510;297340;291393;0.01;0.01;0.02;12;50
+Schauenstein;Freistaat Bayern;304820;301771;304789;0.02;0.05;0.07;17;55
+Neukalen;Mecklenburg-Vorpommern;370176;377579;373803;0.01;0.01;0.01;9;49
+Rieneck;Freistaat Bayern;632700;670662;690781;0.01;0.03;0.05;11;43
+Sachsenhagen;Niedersachsen;603857;603857;597818;0.05;0.07;0.09;6;68
+Wolfstein;Rheinland-Pfalz;637481;675729;716273;0.02;0.03;0.05;5;47
+Bacharach;Rheinland-Pfalz;158828;166769;168437;0.01;0.04;0.04;17;67
+Magdala;Freistaat Thüringen;416381;428872;446027;0.01;0.03;0.05;17;18
+Penkun;Mecklenburg-Vorpommern;850147;833144;874801;0.03;0.06;0.08;18;55
+Hettingen;Baden-Württemberg;886924;940139;996547;0.03;0.06;0.08;20;16
+Lehesten;Freistaat Thüringen;402793;418904;444039;0.02;0.05;0.07;13;58
+Usedom;Mecklenburg-Vorpommern;772665;788118;803880;0.02;0.02;0.04;22;21
+Widdern;Baden-Württemberg;632727;626399;632663;0.02;0.03;0.04;15;65
+Oberweißbach;Freistaat Thüringen;338090;334709;358138;0.02;0.04;0.05;20;56
+Prettin;Sachsen-Anhalt;319780;316582;332411;0.03;0.05;0.07;15;25
+Römhild;Freistaat Thüringen;239487;244276;258933;0.03;0.03;0.04;22;54
+Plaue;Freistaat Thüringen;188450;194103;194103;0.03;0.04;0.04;6;18
+Sandersleben;Sachsen-Anhalt;471467;495040;504941;0.01;0.01;0.01;20;40
+Altenau;Niedersachsen;840274;890690;944131;0.02;0.05;0.07;10;30
+Teupitz;Brandenburg;357901;382954;394442;0.01;0.03;0.05;9;13
+Ranis;Freistaat Thüringen;140285;141687;138854;0.01;0.02;0.04;8;63
+Sankt Andreasberg;Niedersachsen;815994;824153;848878;0.03;0.04;0.05;12;68
+Velden;Freistaat Bayern;484033;479192;498360;0.05;0.07;0.08;12;18
+Marktsteft;Freistaat Bayern;963498;1002037;1012058;0.05;0.07;0.08;21;40
+Mühltroff;Freistaat Sachsen;230709;228401;232969;0.03;0.05;0.07;11;43
+Langenburg;Baden-Württemberg;424099;445303;463116;0.02;0.04;0.04;8;42
+Seehausen;Sachsen-Anhalt;655859;688651;695538;0.01;0.01;0.02;15;32
+Kindelbrück;Freistaat Thüringen;618659;655778;701683;0.01;0.01;0.01;6;57
+Hadmersleben;Sachsen-Anhalt;692828;678971;726499;0.03;0.06;0.08;9;68
+Kaltennordheim;Freistaat Thüringen;934853;953550;1001227;0.02;0.03;0.03;14;13
+Bad Sülze;Mecklenburg-Vorpommern;136662;146228;143303;0.03;0.06;0.08;8;59
+Rhinow;Brandenburg;858438;875606;866850;0.03;0.03;0.05;10;58
+Stadt Wehlen;Freistaat Sachsen;112447;116944;125131;0.02;0.03;0.04;16;38
+Hohenleuben;Freistaat Thüringen;833154;874811;857315;0.03;0.05;0.07;7;60
+Arneburg;Sachsen-Anhalt;549404;587862;593740;0.03;0.05;0.07;19;53
+Röttingen;Freistaat Bayern;104751;108941;108941;0.05;0.08;0.09;8;39
+Lassan;Mecklenburg-Vorpommern;101826;101826;102844;0.02;0.04;0.06;19;48
+Ornbau;Freistaat Bayern;625734;663278;656645;0.01;0.04;0.06;18;42
+Buckow;Brandenburg;841888;892401;919173;0.02;0.04;0.05;14;42
+Hornbach;Rheinland-Pfalz;503202;523330;559963;0.01;0.03;0.03;21;40
+Stadtprozelten;Freistaat Bayern;602361;602361;608384;0.01;0.04;0.06;11;45
+Kroppenstedt;Sachsen-Anhalt;126436;128964;137992;0.01;0.03;0.04;18;54
+Aub;Freistaat Bayern;765694;773350;773350;0.02;0.05;0.07;11;22
+Wörlitz;Sachsen-Anhalt;635312;628958;628958;0.03;0.06;0.06;7;37
+Oberhof;Freistaat Thüringen;144021;142580;146858;0.01;0.02;0.03;17;11
+Lieberose;Brandenburg;912088;893846;938538;0.03;0.06;0.08;13;68
+Neuerburg;Rheinland-Pfalz;760967;760967;791405;0.02;0.04;0.04;21;47
+Franzburg;Mecklenburg-Vorpommern;966663;995662;985706;0.01;0.03;0.04;21;34
+Hohenberg;Freistaat Bayern;746946;769354;753967;0.04;0.06;0.08;10;10
+Richtenberg;Mecklenburg-Vorpommern;359563;363158;377684;0.02;0.02;0.04;12;36
+Liebstadt;Freistaat Sachsen;810747;867499;850149;0.03;0.05;0.05;13;60
+Buttelstedt;Freistaat Thüringen;324016;327256;320711;0.03;0.06;0.07;5;19
+Sankt Goarshausen;Rheinland-Pfalz;119401;121789;126660;0.03;0.03;0.04;7;49
+Manderscheid;Rheinland-Pfalz;558238;547073;574426;0.03;0.05;0.07;17;30
+Osterfeld;Sachsen-Anhalt;516303;516303;547281;0.01;0.02;0.02;22;12
+Stolberg;Sachsen-Anhalt;411038;427479;448853;0.01;0.04;0.05;21;63
+Neustadt am Kulm;Freistaat Bayern;350207;360713;382356;0.03;0.05;0.07;9;54
+Orlamünde;Freistaat Thüringen;970489;1038423;1090344;0.03;0.05;0.05;14;64
+Schraplau;Sachsen-Anhalt;806722;838990;822211;0.02;0.03;0.04;17;23
+Radegast;Sachsen-Anhalt;813157;845683;828769;0.01;0.01;0.03;22;55
+Obermoschel;Rheinland-Pfalz;182810;182810;188294;0.03;0.03;0.05;17;59
+Lichtenberg;Freistaat Bayern;272526;283427;277758;0.05;0.07;0.09;18;59
+Wildemann;Niedersachsen;918295;945843;955302;0.04;0.07;0.09;15;31
+Clingen;Freistaat Thüringen;330488;323878;336833;0.03;0.06;0.06;9;10
+Schwarzenborn;Hessen;909251;945621;1002358;0.03;0.04;0.05;10;26
+Lindau;Sachsen-Anhalt;491252;515814;546763;0.02;0.03;0.04;7;57
+Kupferberg;Freistaat Bayern;887443;940689;997130;0.01;0.02;0.03;10;12
+Rothenfels;Freistaat Bayern;576517;605342;629556;0.01;0.02;0.04;18;13
+Sandau;Sachsen-Anhalt;576066;570305;604523;0.02;0.03;0.05;10;41
+Stößen;Sachsen-Anhalt;947853;976288;966525;0.02;0.05;0.05;18;61
+Kyllburg;Rheinland-Pfalz;787630;811258;827484;0.03;0.03;0.03;19;13
+Kaub;Rheinland-Pfalz;691142;691142;718787;0.02;0.03;0.03;5;52
+Märkisch Buchholz;Brandenburg;600479;606483;636807;0.02;0.05;0.05;13;36
+Werben;Sachsen-Anhalt;724418;709929;752525;0.02;0.03;0.04;19;60
+Ziegenrück;Freistaat Thüringen;348270;372648;365195;0.01;0.03;0.05;15;11
+Schnackenburg;Niedersachsen;556951;551381;562409;0.03;0.04;0.06;14;63
+Ummerstadt;Freistaat Thüringen;605063;635316;667081;0.01;0.04;0.06;15;66
+Neumark;Freistaat Thüringen;989334;1009120;1039394;0.02;0.02;0.02;14;58
+Arnis;Schleswig-Holstein;443007;474017;502458;0.01;0.02;0.02;11;61
