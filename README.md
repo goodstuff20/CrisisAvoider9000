@@ -1,5 +1,10 @@
 # CrisisAvoider9000
 
 
-backend runs via FastAPI
-frontend runs via Svelte
+Backend runs via FastAPI
+Frontend runs via Svelte
+
+## Run
+
+Backend: uvicorn ranking:app --reload
+Frontend: npm run dev
