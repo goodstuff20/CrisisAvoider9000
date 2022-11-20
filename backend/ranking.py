@@ -82,7 +82,7 @@ def help(buyout_weight,
     price_development_past_values = zip(file['prev_price1'].tolist(), file['prev_price2'].tolist(), file['prev_price3'].tolist())
     environmental_risk_past_values = zip(file['prev_risk1'].tolist(),file['prev_risk2'].tolist(),file['prev_risk3'].tolist())
     price_development = [predict_linear(list(x), time_slide_value) / x[-1] - 1 for x in price_development_past_values]
-    environmental_risk = [max(0.99, predict_linear(list(x), time_slide_value)) for x in environmental_risk_past_values]
+    environmental_risk = [min(0.99, predict_linear(list(x), time_slide_value)) for x in environmental_risk_past_values]
     price_development_max = max(price_development)
     price_development_min = min(price_development)
     environmental_risk_max = max(environmental_risk)
